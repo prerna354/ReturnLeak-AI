@@ -1,0 +1,2501 @@
+product_id,product_name,category,unit_price,cost_price,seller_id,is_high_risk_category
+PROD-00001,Footwear Item 1,Footwear,238.59,130.51,SEL-0043,0
+PROD-00002,Apparel Item 2,Apparel,235.17,119.91,SEL-0274,1
+PROD-00003,Home & Kitchen Item 3,Home & Kitchen,57.44,35.35,SEL-0091,0
+PROD-00004,Beauty Item 4,Beauty,59.05,36.13,SEL-0080,0
+PROD-00005,Footwear Item 5,Footwear,100.19,43.6,SEL-0271,0
+PROD-00006,Home & Kitchen Item 6,Home & Kitchen,182.74,115.87,SEL-0492,0
+PROD-00007,Footwear Item 7,Footwear,195.44,97.83,SEL-0306,0
+PROD-00008,Beauty Item 8,Beauty,265.93,137.22,SEL-0121,0
+PROD-00009,Apparel Item 9,Apparel,309.22,176.23,SEL-0302,1
+PROD-00010,Beauty Item 10,Beauty,319.82,175.02,SEL-0264,0
+PROD-00011,Apparel Item 11,Apparel,225.04,101.96,SEL-0311,1
+PROD-00012,Electronics Item 12,Electronics,339.59,203.93,SEL-0075,1
+PROD-00013,Home & Kitchen Item 13,Home & Kitchen,26.78,13.72,SEL-0223,0
+PROD-00014,Electronics Item 14,Electronics,210.61,102.42,SEL-0304,1
+PROD-00015,Apparel Item 15,Apparel,120.9,73.82,SEL-0202,1
+PROD-00016,Footwear Item 16,Footwear,381.1,205.28,SEL-0066,0
+PROD-00017,Apparel Item 17,Apparel,223.05,99.29,SEL-0282,1
+PROD-00018,Apparel Item 18,Apparel,407.6,251.91,SEL-0247,1
+PROD-00019,Footwear Item 19,Footwear,235.94,125.55,SEL-0483,0
+PROD-00020,Electronics Item 20,Electronics,442.47,221.14,SEL-0153,1
+PROD-00021,Home & Kitchen Item 21,Home & Kitchen,103.84,47.95,SEL-0462,0
+PROD-00022,Apparel Item 22,Apparel,245.4,119.5,SEL-0411,1
+PROD-00023,Apparel Item 23,Apparel,257.24,120.78,SEL-0297,1
+PROD-00024,Home & Kitchen Item 24,Home & Kitchen,359.17,166.89,SEL-0045,0
+PROD-00025,Apparel Item 25,Apparel,307.43,183.1,SEL-0098,1
+PROD-00026,Home & Kitchen Item 26,Home & Kitchen,409.16,249.08,SEL-0328,0
+PROD-00027,Home & Kitchen Item 27,Home & Kitchen,394.96,180.41,SEL-0073,0
+PROD-00028,Home & Kitchen Item 28,Home & Kitchen,44.73,28.57,SEL-0348,0
+PROD-00029,Footwear Item 29,Footwear,376.54,152.07,SEL-0260,0
+PROD-00030,Electronics Item 30,Electronics,338.77,175.06,SEL-0103,1
+PROD-00031,Electronics Item 31,Electronics,192.85,87.08,SEL-0005,1
+PROD-00032,Beauty Item 32,Beauty,331.07,174.62,SEL-0493,0
+PROD-00033,Footwear Item 33,Footwear,432.92,186.15,SEL-0028,0
+PROD-00034,Beauty Item 34,Beauty,305.3,161.35,SEL-0437,0
+PROD-00035,Electronics Item 35,Electronics,261.02,158.93,SEL-0340,1
+PROD-00036,Electronics Item 36,Electronics,340.27,213.77,SEL-0486,1
+PROD-00037,Electronics Item 37,Electronics,371.41,221.44,SEL-0250,1
+PROD-00038,Apparel Item 38,Apparel,66.43,32.72,SEL-0035,1
+PROD-00039,Beauty Item 39,Beauty,169.63,77.84,SEL-0053,0
+PROD-00040,Footwear Item 40,Footwear,186.76,106.61,SEL-0275,0
+PROD-00041,Beauty Item 41,Beauty,120.7,55.78,SEL-0404,0
+PROD-00042,Electronics Item 42,Electronics,36.11,21.16,SEL-0126,1
+PROD-00043,Footwear Item 43,Footwear,421.23,172.43,SEL-0423,0
+PROD-00044,Beauty Item 44,Beauty,420.48,215.74,SEL-0438,0
+PROD-00045,Electronics Item 45,Electronics,384.98,158.63,SEL-0087,1
+PROD-00046,Electronics Item 46,Electronics,401.97,207.85,SEL-0289,1
+PROD-00047,Footwear Item 47,Footwear,326.04,191.5,SEL-0387,0
+PROD-00048,Home & Kitchen Item 48,Home & Kitchen,123.58,78.23,SEL-0245,0
+PROD-00049,Footwear Item 49,Footwear,229.85,100.71,SEL-0257,0
+PROD-00050,Home & Kitchen Item 50,Home & Kitchen,338.77,170.1,SEL-0171,0
+PROD-00051,Apparel Item 51,Apparel,312.42,187.28,SEL-0371,1
+PROD-00052,Footwear Item 52,Footwear,418.22,202.19,SEL-0301,0
+PROD-00053,Home & Kitchen Item 53,Home & Kitchen,398.99,203.98,SEL-0476,0
+PROD-00054,Beauty Item 54,Beauty,229.71,116.96,SEL-0238,0
+PROD-00055,Electronics Item 55,Electronics,45.49,21.56,SEL-0464,1
+PROD-00056,Apparel Item 56,Apparel,418.09,223.26,SEL-0351,1
+PROD-00057,Footwear Item 57,Footwear,67.49,43.71,SEL-0466,0
+PROD-00058,Home & Kitchen Item 58,Home & Kitchen,355.39,147.27,SEL-0050,0
+PROD-00059,Beauty Item 59,Beauty,393.37,194.39,SEL-0350,0
+PROD-00060,Home & Kitchen Item 60,Home & Kitchen,64.44,38.13,SEL-0379,0
+PROD-00061,Footwear Item 61,Footwear,271.6,156.44,SEL-0426,0
+PROD-00062,Home & Kitchen Item 62,Home & Kitchen,363.06,169.58,SEL-0419,0
+PROD-00063,Footwear Item 63,Footwear,290.76,137.16,SEL-0148,0
+PROD-00064,Home & Kitchen Item 64,Home & Kitchen,43.81,22.53,SEL-0111,0
+PROD-00065,Electronics Item 65,Electronics,243.17,136.46,SEL-0359,1
+PROD-00066,Footwear Item 66,Footwear,207.6,120.65,SEL-0395,0
+PROD-00067,Footwear Item 67,Footwear,171.08,99.09,SEL-0138,0
+PROD-00068,Apparel Item 68,Apparel,239.11,126.7,SEL-0284,1
+PROD-00069,Electronics Item 69,Electronics,228.56,113.18,SEL-0354,1
+PROD-00070,Footwear Item 70,Footwear,104.51,48.53,SEL-0271,0
+PROD-00071,Beauty Item 71,Beauty,220.44,105.22,SEL-0310,0
+PROD-00072,Home & Kitchen Item 72,Home & Kitchen,224.91,120.01,SEL-0361,0
+PROD-00073,Beauty Item 73,Beauty,203.2,122.89,SEL-0090,0
+PROD-00074,Home & Kitchen Item 74,Home & Kitchen,59.4,24.92,SEL-0435,0
+PROD-00075,Home & Kitchen Item 75,Home & Kitchen,186.29,110.56,SEL-0092,0
+PROD-00076,Apparel Item 76,Apparel,400.88,224.05,SEL-0125,1
+PROD-00077,Footwear Item 77,Footwear,60.32,26.17,SEL-0197,0
+PROD-00078,Home & Kitchen Item 78,Home & Kitchen,404.39,246.72,SEL-0330,0
+PROD-00079,Apparel Item 79,Apparel,323.72,151.46,SEL-0379,1
+PROD-00080,Beauty Item 80,Beauty,112.34,60.59,SEL-0191,0
+PROD-00081,Apparel Item 81,Apparel,374.4,169.26,SEL-0445,1
+PROD-00082,Beauty Item 82,Beauty,55.94,29.19,SEL-0045,0
+PROD-00083,Footwear Item 83,Footwear,372.67,210.9,SEL-0103,0
+PROD-00084,Home & Kitchen Item 84,Home & Kitchen,282.44,139.65,SEL-0351,0
+PROD-00085,Electronics Item 85,Electronics,251.15,159.89,SEL-0098,1
+PROD-00086,Beauty Item 86,Beauty,337.53,184.35,SEL-0254,0
+PROD-00087,Home & Kitchen Item 87,Home & Kitchen,81.55,49.97,SEL-0478,0
+PROD-00088,Electronics Item 88,Electronics,392.6,165.89,SEL-0199,1
+PROD-00089,Electronics Item 89,Electronics,171.15,111.18,SEL-0315,1
+PROD-00090,Beauty Item 90,Beauty,434.76,207.31,SEL-0145,0
+PROD-00091,Home & Kitchen Item 91,Home & Kitchen,265.7,127.92,SEL-0295,0
+PROD-00092,Electronics Item 92,Electronics,326.09,175.49,SEL-0126,1
+PROD-00093,Apparel Item 93,Apparel,56.1,30.64,SEL-0323,1
+PROD-00094,Apparel Item 94,Apparel,134.39,58.9,SEL-0094,1
+PROD-00095,Home & Kitchen Item 95,Home & Kitchen,55.48,30.16,SEL-0146,0
+PROD-00096,Footwear Item 96,Footwear,66.34,40.65,SEL-0135,0
+PROD-00097,Apparel Item 97,Apparel,370.91,202.28,SEL-0022,1
+PROD-00098,Beauty Item 98,Beauty,191.18,106.84,SEL-0405,0
+PROD-00099,Home & Kitchen Item 99,Home & Kitchen,130.71,77.36,SEL-0041,0
+PROD-00100,Electronics Item 100,Electronics,181.77,91.23,SEL-0166,1
+PROD-00101,Apparel Item 101,Apparel,412.47,231.41,SEL-0202,1
+PROD-00102,Home & Kitchen Item 102,Home & Kitchen,108.23,57.88,SEL-0213,0
+PROD-00103,Home & Kitchen Item 103,Home & Kitchen,134.63,76.01,SEL-0262,0
+PROD-00104,Footwear Item 104,Footwear,285.18,181.05,SEL-0392,0
+PROD-00105,Electronics Item 105,Electronics,164.5,92.06,SEL-0211,1
+PROD-00106,Electronics Item 106,Electronics,376.33,162.88,SEL-0430,1
+PROD-00107,Electronics Item 107,Electronics,373.24,177.19,SEL-0327,1
+PROD-00108,Beauty Item 108,Beauty,77.14,47.02,SEL-0203,0
+PROD-00109,Home & Kitchen Item 109,Home & Kitchen,160.4,79.86,SEL-0236,0
+PROD-00110,Beauty Item 110,Beauty,26.2,13.47,SEL-0291,0
+PROD-00111,Beauty Item 111,Beauty,385.78,219.86,SEL-0049,0
+PROD-00112,Home & Kitchen Item 112,Home & Kitchen,24.37,12.07,SEL-0325,0
+PROD-00113,Electronics Item 113,Electronics,426.35,251.99,SEL-0495,1
+PROD-00114,Home & Kitchen Item 114,Home & Kitchen,201.84,106.74,SEL-0477,0
+PROD-00115,Footwear Item 115,Footwear,320.98,189.56,SEL-0497,0
+PROD-00116,Home & Kitchen Item 116,Home & Kitchen,119.06,67.22,SEL-0031,0
+PROD-00117,Home & Kitchen Item 117,Home & Kitchen,332.47,144.1,SEL-0184,0
+PROD-00118,Apparel Item 118,Apparel,429.96,234.08,SEL-0178,1
+PROD-00119,Footwear Item 119,Footwear,391.61,228.06,SEL-0288,0
+PROD-00120,Apparel Item 120,Apparel,439.49,236.99,SEL-0257,1
+PROD-00121,Electronics Item 121,Electronics,135.45,77.85,SEL-0300,1
+PROD-00122,Electronics Item 122,Electronics,235.66,112.52,SEL-0259,1
+PROD-00123,Footwear Item 123,Footwear,307.77,186.97,SEL-0017,0
+PROD-00124,Beauty Item 124,Beauty,249.27,154.85,SEL-0175,0
+PROD-00125,Home & Kitchen Item 125,Home & Kitchen,86.38,50.05,SEL-0234,0
+PROD-00126,Apparel Item 126,Apparel,372.08,183.77,SEL-0278,1
+PROD-00127,Footwear Item 127,Footwear,293.35,122.38,SEL-0253,0
+PROD-00128,Apparel Item 128,Apparel,115.89,52.14,SEL-0150,1
+PROD-00129,Home & Kitchen Item 129,Home & Kitchen,22.87,9.97,SEL-0261,0
+PROD-00130,Beauty Item 130,Beauty,31.59,14.87,SEL-0065,0
+PROD-00131,Apparel Item 131,Apparel,179.11,101.07,SEL-0194,1
+PROD-00132,Footwear Item 132,Footwear,362.04,200.74,SEL-0433,0
+PROD-00133,Home & Kitchen Item 133,Home & Kitchen,136.64,67.8,SEL-0428,0
+PROD-00134,Home & Kitchen Item 134,Home & Kitchen,50.42,28.16,SEL-0300,0
+PROD-00135,Beauty Item 135,Beauty,168.26,80.75,SEL-0420,0
+PROD-00136,Footwear Item 136,Footwear,346.79,159.31,SEL-0263,0
+PROD-00137,Home & Kitchen Item 137,Home & Kitchen,326.34,211.1,SEL-0128,0
+PROD-00138,Apparel Item 138,Apparel,377.25,202.4,SEL-0105,1
+PROD-00139,Electronics Item 139,Electronics,249.13,160.13,SEL-0433,1
+PROD-00140,Footwear Item 140,Footwear,31.53,14.32,SEL-0472,0
+PROD-00141,Apparel Item 141,Apparel,422.78,182.97,SEL-0373,1
+PROD-00142,Beauty Item 142,Beauty,189.34,109.94,SEL-0394,0
+PROD-00143,Beauty Item 143,Beauty,334.89,207.93,SEL-0194,0
+PROD-00144,Home & Kitchen Item 144,Home & Kitchen,403.36,233.64,SEL-0259,0
+PROD-00145,Beauty Item 145,Beauty,422.78,240.13,SEL-0030,0
+PROD-00146,Electronics Item 146,Electronics,319.28,136.44,SEL-0150,1
+PROD-00147,Apparel Item 147,Apparel,419.24,251.88,SEL-0023,1
+PROD-00148,Footwear Item 148,Footwear,57.5,29.27,SEL-0164,0
+PROD-00149,Home & Kitchen Item 149,Home & Kitchen,108.96,50.0,SEL-0010,0
+PROD-00150,Footwear Item 150,Footwear,331.77,154.06,SEL-0027,0
+PROD-00151,Apparel Item 151,Apparel,361.74,149.36,SEL-0336,1
+PROD-00152,Electronics Item 152,Electronics,34.86,16.62,SEL-0223,1
+PROD-00153,Apparel Item 153,Apparel,27.04,17.35,SEL-0395,1
+PROD-00154,Apparel Item 154,Apparel,203.74,90.4,SEL-0328,1
+PROD-00155,Home & Kitchen Item 155,Home & Kitchen,187.02,85.8,SEL-0431,0
+PROD-00156,Footwear Item 156,Footwear,182.19,82.78,SEL-0323,0
+PROD-00157,Apparel Item 157,Apparel,313.64,173.57,SEL-0120,1
+PROD-00158,Apparel Item 158,Apparel,416.96,198.12,SEL-0257,1
+PROD-00159,Electronics Item 159,Electronics,254.14,109.56,SEL-0275,1
+PROD-00160,Beauty Item 160,Beauty,320.34,201.86,SEL-0007,0
+PROD-00161,Electronics Item 161,Electronics,114.92,72.05,SEL-0050,1
+PROD-00162,Footwear Item 162,Footwear,136.81,70.7,SEL-0162,0
+PROD-00163,Footwear Item 163,Footwear,90.72,57.3,SEL-0347,0
+PROD-00164,Home & Kitchen Item 164,Home & Kitchen,59.26,35.81,SEL-0335,0
+PROD-00165,Beauty Item 165,Beauty,318.03,187.0,SEL-0234,0
+PROD-00166,Footwear Item 166,Footwear,260.4,145.63,SEL-0359,0
+PROD-00167,Beauty Item 167,Beauty,414.0,250.2,SEL-0489,0
+PROD-00168,Electronics Item 168,Electronics,118.5,76.95,SEL-0474,1
+PROD-00169,Footwear Item 169,Footwear,130.3,62.24,SEL-0389,0
+PROD-00170,Apparel Item 170,Apparel,147.98,75.3,SEL-0320,1
+PROD-00171,Footwear Item 171,Footwear,312.44,162.03,SEL-0183,0
+PROD-00172,Beauty Item 172,Beauty,162.76,96.45,SEL-0291,0
+PROD-00173,Footwear Item 173,Footwear,200.84,82.79,SEL-0203,0
+PROD-00174,Home & Kitchen Item 174,Home & Kitchen,45.25,19.76,SEL-0389,0
+PROD-00175,Apparel Item 175,Apparel,407.97,183.63,SEL-0465,1
+PROD-00176,Home & Kitchen Item 176,Home & Kitchen,212.04,91.51,SEL-0138,0
+PROD-00177,Electronics Item 177,Electronics,365.52,213.2,SEL-0339,1
+PROD-00178,Footwear Item 178,Footwear,334.89,168.17,SEL-0121,0
+PROD-00179,Footwear Item 179,Footwear,65.9,27.72,SEL-0436,0
+PROD-00180,Electronics Item 180,Electronics,69.85,42.86,SEL-0136,1
+PROD-00181,Home & Kitchen Item 181,Home & Kitchen,169.94,73.93,SEL-0148,0
+PROD-00182,Apparel Item 182,Apparel,329.6,202.47,SEL-0039,1
+PROD-00183,Home & Kitchen Item 183,Home & Kitchen,249.89,123.62,SEL-0363,0
+PROD-00184,Beauty Item 184,Beauty,115.7,47.72,SEL-0070,0
+PROD-00185,Home & Kitchen Item 185,Home & Kitchen,187.49,114.5,SEL-0121,0
+PROD-00186,Apparel Item 186,Apparel,236.64,107.0,SEL-0260,1
+PROD-00187,Footwear Item 187,Footwear,318.55,196.94,SEL-0382,0
+PROD-00188,Home & Kitchen Item 188,Home & Kitchen,141.28,78.51,SEL-0279,0
+PROD-00189,Electronics Item 189,Electronics,406.57,191.19,SEL-0406,1
+PROD-00190,Apparel Item 190,Apparel,35.86,18.6,SEL-0278,1
+PROD-00191,Footwear Item 191,Footwear,31.61,14.86,SEL-0137,0
+PROD-00192,Apparel Item 192,Apparel,341.17,159.35,SEL-0055,1
+PROD-00193,Electronics Item 193,Electronics,98.14,62.58,SEL-0069,1
+PROD-00194,Beauty Item 194,Beauty,180.16,74.47,SEL-0054,0
+PROD-00195,Apparel Item 195,Apparel,337.35,172.29,SEL-0463,1
+PROD-00196,Apparel Item 196,Apparel,46.37,26.23,SEL-0415,1
+PROD-00197,Home & Kitchen Item 197,Home & Kitchen,313.36,193.48,SEL-0318,0
+PROD-00198,Electronics Item 198,Electronics,28.12,11.26,SEL-0396,1
+PROD-00199,Electronics Item 199,Electronics,273.83,154.43,SEL-0205,1
+PROD-00200,Beauty Item 200,Beauty,183.77,114.31,SEL-0224,0
+PROD-00201,Electronics Item 201,Electronics,106.21,48.62,SEL-0455,1
+PROD-00202,Apparel Item 202,Apparel,57.45,35.7,SEL-0349,1
+PROD-00203,Beauty Item 203,Beauty,267.41,107.82,SEL-0299,0
+PROD-00204,Electronics Item 204,Electronics,118.59,61.51,SEL-0395,1
+PROD-00205,Beauty Item 205,Beauty,254.29,129.1,SEL-0450,0
+PROD-00206,Electronics Item 206,Electronics,100.04,63.18,SEL-0119,1
+PROD-00207,Electronics Item 207,Electronics,230.43,117.92,SEL-0483,1
+PROD-00208,Home & Kitchen Item 208,Home & Kitchen,40.25,21.48,SEL-0394,0
+PROD-00209,Electronics Item 209,Electronics,363.83,198.35,SEL-0419,1
+PROD-00210,Beauty Item 210,Beauty,171.35,75.67,SEL-0461,0
+PROD-00211,Apparel Item 211,Apparel,388.34,168.06,SEL-0081,1
+PROD-00212,Home & Kitchen Item 212,Home & Kitchen,49.85,24.94,SEL-0236,0
+PROD-00213,Electronics Item 213,Electronics,44.19,26.27,SEL-0253,1
+PROD-00214,Electronics Item 214,Electronics,369.28,239.31,SEL-0005,1
+PROD-00215,Beauty Item 215,Beauty,161.22,69.29,SEL-0471,0
+PROD-00216,Home & Kitchen Item 216,Home & Kitchen,49.17,30.27,SEL-0171,0
+PROD-00217,Electronics Item 217,Electronics,358.6,200.24,SEL-0371,1
+PROD-00218,Apparel Item 218,Apparel,113.59,56.11,SEL-0003,1
+PROD-00219,Apparel Item 219,Apparel,270.13,115.09,SEL-0028,1
+PROD-00220,Electronics Item 220,Electronics,342.2,215.06,SEL-0145,1
+PROD-00221,Apparel Item 221,Apparel,174.28,78.11,SEL-0045,1
+PROD-00222,Home & Kitchen Item 222,Home & Kitchen,402.5,214.38,SEL-0208,0
+PROD-00223,Electronics Item 223,Electronics,234.95,135.97,SEL-0360,1
+PROD-00224,Beauty Item 224,Beauty,257.81,125.8,SEL-0151,0
+PROD-00225,Home & Kitchen Item 225,Home & Kitchen,201.67,83.5,SEL-0131,0
+PROD-00226,Apparel Item 226,Apparel,116.71,73.59,SEL-0003,1
+PROD-00227,Electronics Item 227,Electronics,166.14,89.64,SEL-0237,1
+PROD-00228,Home & Kitchen Item 228,Home & Kitchen,401.38,235.77,SEL-0247,0
+PROD-00229,Apparel Item 229,Apparel,162.82,99.83,SEL-0092,1
+PROD-00230,Electronics Item 230,Electronics,181.25,105.61,SEL-0261,1
+PROD-00231,Footwear Item 231,Footwear,174.63,81.0,SEL-0369,0
+PROD-00232,Beauty Item 232,Beauty,403.19,253.31,SEL-0435,0
+PROD-00233,Apparel Item 233,Apparel,113.48,45.65,SEL-0319,1
+PROD-00234,Apparel Item 234,Apparel,174.04,107.86,SEL-0101,1
+PROD-00235,Footwear Item 235,Footwear,147.56,68.45,SEL-0037,0
+PROD-00236,Footwear Item 236,Footwear,386.3,222.46,SEL-0182,0
+PROD-00237,Home & Kitchen Item 237,Home & Kitchen,129.82,57.36,SEL-0303,0
+PROD-00238,Beauty Item 238,Beauty,151.35,74.93,SEL-0383,0
+PROD-00239,Beauty Item 239,Beauty,255.92,158.82,SEL-0076,0
+PROD-00240,Apparel Item 240,Apparel,356.65,194.65,SEL-0440,1
+PROD-00241,Footwear Item 241,Footwear,237.25,131.35,SEL-0345,0
+PROD-00242,Beauty Item 242,Beauty,219.43,94.54,SEL-0253,0
+PROD-00243,Electronics Item 243,Electronics,332.38,142.09,SEL-0110,1
+PROD-00244,Beauty Item 244,Beauty,327.21,210.69,SEL-0003,0
+PROD-00245,Apparel Item 245,Apparel,292.86,160.6,SEL-0172,1
+PROD-00246,Beauty Item 246,Beauty,289.06,120.26,SEL-0241,0
+PROD-00247,Home & Kitchen Item 247,Home & Kitchen,442.87,236.04,SEL-0217,0
+PROD-00248,Footwear Item 248,Footwear,23.35,11.8,SEL-0245,0
+PROD-00249,Apparel Item 249,Apparel,112.07,60.98,SEL-0433,1
+PROD-00250,Apparel Item 250,Apparel,75.89,33.11,SEL-0268,1
+PROD-00251,Footwear Item 251,Footwear,114.39,67.11,SEL-0321,0
+PROD-00252,Footwear Item 252,Footwear,140.15,72.21,SEL-0097,0
+PROD-00253,Footwear Item 253,Footwear,42.32,22.23,SEL-0281,0
+PROD-00254,Apparel Item 254,Apparel,55.43,33.05,SEL-0327,1
+PROD-00255,Footwear Item 255,Footwear,273.92,150.42,SEL-0047,0
+PROD-00256,Footwear Item 256,Footwear,320.09,204.01,SEL-0052,0
+PROD-00257,Apparel Item 257,Apparel,406.31,230.05,SEL-0478,1
+PROD-00258,Apparel Item 258,Apparel,379.37,224.68,SEL-0366,1
+PROD-00259,Home & Kitchen Item 259,Home & Kitchen,339.1,150.04,SEL-0369,0
+PROD-00260,Beauty Item 260,Beauty,405.93,172.61,SEL-0029,0
+PROD-00261,Electronics Item 261,Electronics,239.36,139.02,SEL-0423,1
+PROD-00262,Apparel Item 262,Apparel,41.89,21.88,SEL-0320,1
+PROD-00263,Electronics Item 263,Electronics,389.06,171.75,SEL-0457,1
+PROD-00264,Home & Kitchen Item 264,Home & Kitchen,74.57,48.11,SEL-0248,0
+PROD-00265,Beauty Item 265,Beauty,122.55,62.21,SEL-0180,0
+PROD-00266,Beauty Item 266,Beauty,233.38,136.41,SEL-0490,0
+PROD-00267,Beauty Item 267,Beauty,180.76,80.12,SEL-0011,0
+PROD-00268,Home & Kitchen Item 268,Home & Kitchen,47.0,26.3,SEL-0174,0
+PROD-00269,Footwear Item 269,Footwear,339.12,189.67,SEL-0223,0
+PROD-00270,Beauty Item 270,Beauty,414.9,214.75,SEL-0098,0
+PROD-00271,Beauty Item 271,Beauty,151.19,85.39,SEL-0257,0
+PROD-00272,Home & Kitchen Item 272,Home & Kitchen,431.71,182.37,SEL-0202,0
+PROD-00273,Footwear Item 273,Footwear,416.04,232.67,SEL-0098,0
+PROD-00274,Beauty Item 274,Beauty,355.86,170.35,SEL-0257,0
+PROD-00275,Beauty Item 275,Beauty,373.77,194.63,SEL-0219,0
+PROD-00276,Footwear Item 276,Footwear,44.01,26.26,SEL-0154,0
+PROD-00277,Apparel Item 277,Apparel,359.29,157.88,SEL-0219,1
+PROD-00278,Apparel Item 278,Apparel,115.92,61.2,SEL-0200,1
+PROD-00279,Beauty Item 279,Beauty,404.45,208.0,SEL-0276,0
+PROD-00280,Electronics Item 280,Electronics,239.37,132.77,SEL-0430,1
+PROD-00281,Footwear Item 281,Footwear,190.86,87.77,SEL-0073,0
+PROD-00282,Footwear Item 282,Footwear,364.82,222.12,SEL-0390,0
+PROD-00283,Electronics Item 283,Electronics,256.99,152.67,SEL-0287,1
+PROD-00284,Footwear Item 284,Footwear,345.65,152.75,SEL-0072,0
+PROD-00285,Home & Kitchen Item 285,Home & Kitchen,121.22,59.44,SEL-0393,0
+PROD-00286,Footwear Item 286,Footwear,207.22,115.07,SEL-0156,0
+PROD-00287,Footwear Item 287,Footwear,135.18,82.58,SEL-0417,0
+PROD-00288,Footwear Item 288,Footwear,362.47,229.42,SEL-0268,0
+PROD-00289,Apparel Item 289,Apparel,345.73,149.69,SEL-0049,1
+PROD-00290,Home & Kitchen Item 290,Home & Kitchen,89.17,53.91,SEL-0451,0
+PROD-00291,Footwear Item 291,Footwear,392.72,220.39,SEL-0384,0
+PROD-00292,Home & Kitchen Item 292,Home & Kitchen,61.65,38.06,SEL-0159,0
+PROD-00293,Home & Kitchen Item 293,Home & Kitchen,240.59,111.23,SEL-0387,0
+PROD-00294,Home & Kitchen Item 294,Home & Kitchen,205.56,83.69,SEL-0304,0
+PROD-00295,Electronics Item 295,Electronics,353.37,188.66,SEL-0197,1
+PROD-00296,Footwear Item 296,Footwear,172.53,81.12,SEL-0376,0
+PROD-00297,Apparel Item 297,Apparel,306.37,173.22,SEL-0435,1
+PROD-00298,Apparel Item 298,Apparel,401.93,206.27,SEL-0227,1
+PROD-00299,Apparel Item 299,Apparel,370.25,231.25,SEL-0110,1
+PROD-00300,Apparel Item 300,Apparel,52.17,24.68,SEL-0003,1
+PROD-00301,Footwear Item 301,Footwear,418.42,219.74,SEL-0132,0
+PROD-00302,Apparel Item 302,Apparel,314.24,131.65,SEL-0141,1
+PROD-00303,Home & Kitchen Item 303,Home & Kitchen,119.8,67.05,SEL-0169,0
+PROD-00304,Electronics Item 304,Electronics,305.86,163.85,SEL-0428,1
+PROD-00305,Beauty Item 305,Beauty,300.36,167.09,SEL-0500,0
+PROD-00306,Apparel Item 306,Apparel,447.89,197.55,SEL-0277,1
+PROD-00307,Beauty Item 307,Beauty,449.55,277.74,SEL-0124,0
+PROD-00308,Beauty Item 308,Beauty,432.56,200.58,SEL-0365,0
+PROD-00309,Beauty Item 309,Beauty,246.65,144.12,SEL-0292,0
+PROD-00310,Home & Kitchen Item 310,Home & Kitchen,449.81,182.26,SEL-0095,0
+PROD-00311,Apparel Item 311,Apparel,217.57,94.43,SEL-0143,1
+PROD-00312,Footwear Item 312,Footwear,379.49,210.17,SEL-0359,0
+PROD-00313,Home & Kitchen Item 313,Home & Kitchen,196.16,78.7,SEL-0437,0
+PROD-00314,Footwear Item 314,Footwear,321.18,180.48,SEL-0174,0
+PROD-00315,Apparel Item 315,Apparel,276.51,156.8,SEL-0068,1
+PROD-00316,Home & Kitchen Item 316,Home & Kitchen,230.61,128.87,SEL-0027,0
+PROD-00317,Beauty Item 317,Beauty,28.72,18.15,SEL-0026,0
+PROD-00318,Home & Kitchen Item 318,Home & Kitchen,251.56,138.43,SEL-0035,0
+PROD-00319,Home & Kitchen Item 319,Home & Kitchen,17.81,9.75,SEL-0215,0
+PROD-00320,Apparel Item 320,Apparel,313.05,167.3,SEL-0421,1
+PROD-00321,Beauty Item 321,Beauty,70.07,40.96,SEL-0128,0
+PROD-00322,Beauty Item 322,Beauty,327.77,183.89,SEL-0213,0
+PROD-00323,Electronics Item 323,Electronics,304.4,148.45,SEL-0307,1
+PROD-00324,Electronics Item 324,Electronics,83.81,48.78,SEL-0324,1
+PROD-00325,Footwear Item 325,Footwear,293.37,129.82,SEL-0381,0
+PROD-00326,Electronics Item 326,Electronics,44.48,24.39,SEL-0100,1
+PROD-00327,Apparel Item 327,Apparel,325.09,194.11,SEL-0482,1
+PROD-00328,Home & Kitchen Item 328,Home & Kitchen,136.32,77.5,SEL-0280,0
+PROD-00329,Beauty Item 329,Beauty,231.57,106.94,SEL-0134,0
+PROD-00330,Home & Kitchen Item 330,Home & Kitchen,406.63,210.12,SEL-0198,0
+PROD-00331,Apparel Item 331,Apparel,433.39,228.2,SEL-0376,1
+PROD-00332,Home & Kitchen Item 332,Home & Kitchen,288.23,160.51,SEL-0324,0
+PROD-00333,Beauty Item 333,Beauty,100.37,53.38,SEL-0186,0
+PROD-00334,Electronics Item 334,Electronics,359.06,209.27,SEL-0183,1
+PROD-00335,Footwear Item 335,Footwear,374.94,216.57,SEL-0025,0
+PROD-00336,Beauty Item 336,Beauty,355.86,198.33,SEL-0204,0
+PROD-00337,Beauty Item 337,Beauty,395.58,184.55,SEL-0467,0
+PROD-00338,Beauty Item 338,Beauty,61.74,39.37,SEL-0029,0
+PROD-00339,Beauty Item 339,Beauty,207.8,134.32,SEL-0086,0
+PROD-00340,Apparel Item 340,Apparel,271.84,117.43,SEL-0361,1
+PROD-00341,Beauty Item 341,Beauty,197.97,104.34,SEL-0173,0
+PROD-00342,Home & Kitchen Item 342,Home & Kitchen,71.57,44.65,SEL-0083,0
+PROD-00343,Apparel Item 343,Apparel,268.07,125.52,SEL-0331,1
+PROD-00344,Electronics Item 344,Electronics,91.34,51.16,SEL-0247,1
+PROD-00345,Home & Kitchen Item 345,Home & Kitchen,341.97,201.88,SEL-0291,0
+PROD-00346,Home & Kitchen Item 346,Home & Kitchen,61.1,33.9,SEL-0421,0
+PROD-00347,Home & Kitchen Item 347,Home & Kitchen,140.99,86.39,SEL-0313,0
+PROD-00348,Home & Kitchen Item 348,Home & Kitchen,141.04,67.47,SEL-0473,0
+PROD-00349,Apparel Item 349,Apparel,201.7,124.79,SEL-0079,1
+PROD-00350,Electronics Item 350,Electronics,207.81,99.62,SEL-0012,1
+PROD-00351,Electronics Item 351,Electronics,155.95,63.3,SEL-0079,1
+PROD-00352,Beauty Item 352,Beauty,395.33,216.54,SEL-0216,0
+PROD-00353,Footwear Item 353,Footwear,228.7,91.86,SEL-0193,0
+PROD-00354,Apparel Item 354,Apparel,390.35,231.83,SEL-0070,1
+PROD-00355,Electronics Item 355,Electronics,314.5,177.34,SEL-0309,1
+PROD-00356,Apparel Item 356,Apparel,21.58,11.89,SEL-0352,1
+PROD-00357,Apparel Item 357,Apparel,305.26,126.07,SEL-0001,1
+PROD-00358,Beauty Item 358,Beauty,371.22,218.75,SEL-0125,0
+PROD-00359,Electronics Item 359,Electronics,86.55,51.12,SEL-0123,1
+PROD-00360,Footwear Item 360,Footwear,316.18,173.77,SEL-0323,0
+PROD-00361,Footwear Item 361,Footwear,260.57,147.27,SEL-0221,0
+PROD-00362,Footwear Item 362,Footwear,244.52,107.68,SEL-0137,0
+PROD-00363,Home & Kitchen Item 363,Home & Kitchen,322.28,194.86,SEL-0159,0
+PROD-00364,Electronics Item 364,Electronics,400.85,190.11,SEL-0057,1
+PROD-00365,Home & Kitchen Item 365,Home & Kitchen,296.44,136.47,SEL-0124,0
+PROD-00366,Home & Kitchen Item 366,Home & Kitchen,59.71,24.71,SEL-0073,0
+PROD-00367,Home & Kitchen Item 367,Home & Kitchen,374.19,151.38,SEL-0171,0
+PROD-00368,Beauty Item 368,Beauty,438.7,177.61,SEL-0320,0
+PROD-00369,Beauty Item 369,Beauty,243.18,139.67,SEL-0139,0
+PROD-00370,Apparel Item 370,Apparel,342.1,183.14,SEL-0358,1
+PROD-00371,Apparel Item 371,Apparel,363.78,228.19,SEL-0367,1
+PROD-00372,Electronics Item 372,Electronics,295.59,157.97,SEL-0043,1
+PROD-00373,Electronics Item 373,Electronics,312.27,143.22,SEL-0352,1
+PROD-00374,Beauty Item 374,Beauty,391.44,183.5,SEL-0082,0
+PROD-00375,Apparel Item 375,Apparel,403.78,227.33,SEL-0155,1
+PROD-00376,Apparel Item 376,Apparel,245.12,115.08,SEL-0226,1
+PROD-00377,Home & Kitchen Item 377,Home & Kitchen,432.95,236.47,SEL-0127,0
+PROD-00378,Footwear Item 378,Footwear,51.56,31.92,SEL-0157,0
+PROD-00379,Footwear Item 379,Footwear,388.99,239.73,SEL-0031,0
+PROD-00380,Footwear Item 380,Footwear,130.53,53.55,SEL-0264,0
+PROD-00381,Beauty Item 381,Beauty,442.71,235.54,SEL-0310,0
+PROD-00382,Footwear Item 382,Footwear,158.12,69.5,SEL-0397,0
+PROD-00383,Footwear Item 383,Footwear,83.72,35.0,SEL-0134,0
+PROD-00384,Home & Kitchen Item 384,Home & Kitchen,34.19,21.39,SEL-0178,0
+PROD-00385,Electronics Item 385,Electronics,263.4,157.22,SEL-0148,1
+PROD-00386,Beauty Item 386,Beauty,390.72,190.0,SEL-0208,0
+PROD-00387,Apparel Item 387,Apparel,214.99,110.25,SEL-0137,1
+PROD-00388,Home & Kitchen Item 388,Home & Kitchen,351.04,154.89,SEL-0057,0
+PROD-00389,Footwear Item 389,Footwear,250.75,109.18,SEL-0420,0
+PROD-00390,Apparel Item 390,Apparel,199.88,111.12,SEL-0301,1
+PROD-00391,Home & Kitchen Item 391,Home & Kitchen,325.0,156.63,SEL-0026,0
+PROD-00392,Beauty Item 392,Beauty,65.22,29.49,SEL-0090,0
+PROD-00393,Footwear Item 393,Footwear,61.32,32.42,SEL-0237,0
+PROD-00394,Beauty Item 394,Beauty,301.89,185.16,SEL-0275,0
+PROD-00395,Home & Kitchen Item 395,Home & Kitchen,347.05,224.49,SEL-0196,0
+PROD-00396,Apparel Item 396,Apparel,286.68,172.11,SEL-0167,1
+PROD-00397,Electronics Item 397,Electronics,380.97,206.61,SEL-0059,1
+PROD-00398,Footwear Item 398,Footwear,296.57,143.68,SEL-0051,0
+PROD-00399,Beauty Item 399,Beauty,269.33,164.33,SEL-0167,0
+PROD-00400,Apparel Item 400,Apparel,182.51,82.13,SEL-0417,1
+PROD-00401,Apparel Item 401,Apparel,280.45,126.87,SEL-0039,1
+PROD-00402,Electronics Item 402,Electronics,115.49,49.29,SEL-0350,1
+PROD-00403,Home & Kitchen Item 403,Home & Kitchen,42.11,23.81,SEL-0333,0
+PROD-00404,Electronics Item 404,Electronics,413.02,230.36,SEL-0164,1
+PROD-00405,Electronics Item 405,Electronics,106.63,67.7,SEL-0268,1
+PROD-00406,Home & Kitchen Item 406,Home & Kitchen,330.14,184.75,SEL-0138,0
+PROD-00407,Home & Kitchen Item 407,Home & Kitchen,125.68,81.11,SEL-0255,0
+PROD-00408,Home & Kitchen Item 408,Home & Kitchen,106.26,49.67,SEL-0356,0
+PROD-00409,Apparel Item 409,Apparel,365.54,229.32,SEL-0083,1
+PROD-00410,Apparel Item 410,Apparel,392.59,193.77,SEL-0184,1
+PROD-00411,Footwear Item 411,Footwear,421.34,255.06,SEL-0166,0
+PROD-00412,Footwear Item 412,Footwear,274.38,165.01,SEL-0483,0
+PROD-00413,Electronics Item 413,Electronics,410.7,246.85,SEL-0189,1
+PROD-00414,Electronics Item 414,Electronics,110.28,44.31,SEL-0200,1
+PROD-00415,Footwear Item 415,Footwear,134.17,68.86,SEL-0354,0
+PROD-00416,Beauty Item 416,Beauty,262.2,110.18,SEL-0347,0
+PROD-00417,Electronics Item 417,Electronics,160.7,69.54,SEL-0078,1
+PROD-00418,Beauty Item 418,Beauty,412.94,207.05,SEL-0167,0
+PROD-00419,Beauty Item 419,Beauty,294.59,125.87,SEL-0245,0
+PROD-00420,Home & Kitchen Item 420,Home & Kitchen,437.18,217.74,SEL-0054,0
+PROD-00421,Apparel Item 421,Apparel,111.14,44.82,SEL-0102,1
+PROD-00422,Footwear Item 422,Footwear,357.24,149.58,SEL-0408,0
+PROD-00423,Apparel Item 423,Apparel,60.57,33.77,SEL-0355,1
+PROD-00424,Footwear Item 424,Footwear,398.01,218.15,SEL-0351,0
+PROD-00425,Apparel Item 425,Apparel,205.34,125.86,SEL-0366,1
+PROD-00426,Footwear Item 426,Footwear,130.4,70.33,SEL-0240,0
+PROD-00427,Apparel Item 427,Apparel,37.67,17.77,SEL-0464,1
+PROD-00428,Home & Kitchen Item 428,Home & Kitchen,346.57,167.1,SEL-0209,0
+PROD-00429,Beauty Item 429,Beauty,195.34,103.33,SEL-0332,0
+PROD-00430,Footwear Item 430,Footwear,342.36,139.75,SEL-0013,0
+PROD-00431,Beauty Item 431,Beauty,268.13,144.24,SEL-0137,0
+PROD-00432,Footwear Item 432,Footwear,104.18,67.61,SEL-0420,0
+PROD-00433,Footwear Item 433,Footwear,447.43,225.62,SEL-0099,0
+PROD-00434,Home & Kitchen Item 434,Home & Kitchen,420.75,236.29,SEL-0419,0
+PROD-00435,Apparel Item 435,Apparel,333.87,149.98,SEL-0376,1
+PROD-00436,Footwear Item 436,Footwear,81.41,46.66,SEL-0330,0
+PROD-00437,Apparel Item 437,Apparel,256.41,105.77,SEL-0114,1
+PROD-00438,Home & Kitchen Item 438,Home & Kitchen,198.19,84.63,SEL-0276,0
+PROD-00439,Electronics Item 439,Electronics,338.93,174.61,SEL-0276,1
+PROD-00440,Beauty Item 440,Beauty,21.41,13.2,SEL-0499,0
+PROD-00441,Footwear Item 441,Footwear,294.11,145.9,SEL-0131,0
+PROD-00442,Home & Kitchen Item 442,Home & Kitchen,152.11,71.17,SEL-0460,0
+PROD-00443,Apparel Item 443,Apparel,107.0,47.67,SEL-0003,1
+PROD-00444,Footwear Item 444,Footwear,116.98,70.47,SEL-0456,0
+PROD-00445,Apparel Item 445,Apparel,26.51,16.45,SEL-0294,1
+PROD-00446,Electronics Item 446,Electronics,183.79,74.26,SEL-0313,1
+PROD-00447,Footwear Item 447,Footwear,244.56,138.09,SEL-0278,0
+PROD-00448,Beauty Item 448,Beauty,50.83,29.69,SEL-0116,0
+PROD-00449,Footwear Item 449,Footwear,443.77,243.07,SEL-0242,0
+PROD-00450,Beauty Item 450,Beauty,267.82,145.59,SEL-0028,0
+PROD-00451,Apparel Item 451,Apparel,22.54,10.21,SEL-0403,1
+PROD-00452,Footwear Item 452,Footwear,376.01,178.51,SEL-0248,0
+PROD-00453,Home & Kitchen Item 453,Home & Kitchen,245.17,103.19,SEL-0362,0
+PROD-00454,Home & Kitchen Item 454,Home & Kitchen,336.15,141.83,SEL-0042,0
+PROD-00455,Electronics Item 455,Electronics,65.08,42.09,SEL-0182,1
+PROD-00456,Home & Kitchen Item 456,Home & Kitchen,336.76,192.8,SEL-0014,0
+PROD-00457,Electronics Item 457,Electronics,376.59,224.35,SEL-0102,1
+PROD-00458,Apparel Item 458,Apparel,411.67,225.22,SEL-0132,1
+PROD-00459,Beauty Item 459,Beauty,420.49,172.55,SEL-0208,0
+PROD-00460,Apparel Item 460,Apparel,347.29,209.7,SEL-0280,1
+PROD-00461,Beauty Item 461,Beauty,429.34,271.36,SEL-0388,0
+PROD-00462,Beauty Item 462,Beauty,186.19,86.65,SEL-0164,0
+PROD-00463,Electronics Item 463,Electronics,399.89,170.41,SEL-0455,1
+PROD-00464,Home & Kitchen Item 464,Home & Kitchen,329.78,137.5,SEL-0348,0
+PROD-00465,Home & Kitchen Item 465,Home & Kitchen,49.97,21.19,SEL-0002,0
+PROD-00466,Electronics Item 466,Electronics,411.54,216.0,SEL-0083,1
+PROD-00467,Electronics Item 467,Electronics,267.91,163.41,SEL-0387,1
+PROD-00468,Apparel Item 468,Apparel,76.08,31.43,SEL-0433,1
+PROD-00469,Electronics Item 469,Electronics,400.7,215.61,SEL-0046,1
+PROD-00470,Home & Kitchen Item 470,Home & Kitchen,350.96,191.49,SEL-0141,0
+PROD-00471,Electronics Item 471,Electronics,184.53,78.3,SEL-0253,1
+PROD-00472,Electronics Item 472,Electronics,153.1,71.28,SEL-0188,1
+PROD-00473,Beauty Item 473,Beauty,402.07,231.44,SEL-0282,0
+PROD-00474,Electronics Item 474,Electronics,330.69,205.58,SEL-0326,1
+PROD-00475,Apparel Item 475,Apparel,319.72,137.63,SEL-0224,1
+PROD-00476,Electronics Item 476,Electronics,173.02,108.39,SEL-0479,1
+PROD-00477,Footwear Item 477,Footwear,395.98,237.75,SEL-0306,0
+PROD-00478,Footwear Item 478,Footwear,430.68,273.26,SEL-0302,0
+PROD-00479,Beauty Item 479,Beauty,278.13,180.46,SEL-0238,0
+PROD-00480,Beauty Item 480,Beauty,127.15,73.51,SEL-0336,0
+PROD-00481,Footwear Item 481,Footwear,240.66,97.86,SEL-0378,0
+PROD-00482,Beauty Item 482,Beauty,191.8,118.24,SEL-0081,0
+PROD-00483,Beauty Item 483,Beauty,228.54,133.42,SEL-0008,0
+PROD-00484,Home & Kitchen Item 484,Home & Kitchen,383.32,237.77,SEL-0435,0
+PROD-00485,Home & Kitchen Item 485,Home & Kitchen,173.3,77.24,SEL-0040,0
+PROD-00486,Electronics Item 486,Electronics,383.52,199.37,SEL-0081,1
+PROD-00487,Footwear Item 487,Footwear,63.66,39.89,SEL-0124,0
+PROD-00488,Apparel Item 488,Apparel,103.59,55.97,SEL-0368,1
+PROD-00489,Footwear Item 489,Footwear,167.09,74.17,SEL-0309,0
+PROD-00490,Footwear Item 490,Footwear,410.98,217.82,SEL-0491,0
+PROD-00491,Home & Kitchen Item 491,Home & Kitchen,147.91,60.57,SEL-0229,0
+PROD-00492,Home & Kitchen Item 492,Home & Kitchen,378.87,212.02,SEL-0124,0
+PROD-00493,Beauty Item 493,Beauty,123.01,75.06,SEL-0085,0
+PROD-00494,Apparel Item 494,Apparel,15.4,6.19,SEL-0479,1
+PROD-00495,Home & Kitchen Item 495,Home & Kitchen,316.01,178.39,SEL-0193,0
+PROD-00496,Beauty Item 496,Beauty,154.87,69.94,SEL-0229,0
+PROD-00497,Apparel Item 497,Apparel,435.9,281.57,SEL-0159,1
+PROD-00498,Home & Kitchen Item 498,Home & Kitchen,428.42,191.08,SEL-0065,0
+PROD-00499,Footwear Item 499,Footwear,211.95,134.02,SEL-0397,0
+PROD-00500,Footwear Item 500,Footwear,303.07,155.53,SEL-0331,0
+PROD-00501,Apparel Item 501,Apparel,315.47,140.39,SEL-0062,1
+PROD-00502,Apparel Item 502,Apparel,190.37,111.12,SEL-0118,1
+PROD-00503,Home & Kitchen Item 503,Home & Kitchen,421.42,187.51,SEL-0439,0
+PROD-00504,Home & Kitchen Item 504,Home & Kitchen,119.72,66.11,SEL-0022,0
+PROD-00505,Apparel Item 505,Apparel,30.75,16.17,SEL-0339,1
+PROD-00506,Apparel Item 506,Apparel,229.45,133.46,SEL-0083,1
+PROD-00507,Beauty Item 507,Beauty,378.79,234.71,SEL-0146,0
+PROD-00508,Beauty Item 508,Beauty,399.62,204.44,SEL-0053,0
+PROD-00509,Beauty Item 509,Beauty,140.8,57.48,SEL-0280,0
+PROD-00510,Footwear Item 510,Footwear,291.71,189.03,SEL-0024,0
+PROD-00511,Footwear Item 511,Footwear,177.06,75.74,SEL-0221,0
+PROD-00512,Beauty Item 512,Beauty,374.04,223.74,SEL-0374,0
+PROD-00513,Beauty Item 513,Beauty,149.64,78.61,SEL-0440,0
+PROD-00514,Apparel Item 514,Apparel,337.81,178.77,SEL-0358,1
+PROD-00515,Footwear Item 515,Footwear,123.86,73.11,SEL-0357,0
+PROD-00516,Beauty Item 516,Beauty,396.12,207.04,SEL-0433,0
+PROD-00517,Electronics Item 517,Electronics,414.98,225.81,SEL-0271,1
+PROD-00518,Home & Kitchen Item 518,Home & Kitchen,442.09,237.88,SEL-0137,0
+PROD-00519,Beauty Item 519,Beauty,40.91,20.23,SEL-0220,0
+PROD-00520,Footwear Item 520,Footwear,220.87,104.34,SEL-0435,0
+PROD-00521,Beauty Item 521,Beauty,398.16,236.08,SEL-0310,0
+PROD-00522,Electronics Item 522,Electronics,390.84,225.2,SEL-0286,1
+PROD-00523,Apparel Item 523,Apparel,91.57,56.75,SEL-0411,1
+PROD-00524,Footwear Item 524,Footwear,182.07,80.52,SEL-0194,0
+PROD-00525,Apparel Item 525,Apparel,107.48,67.07,SEL-0350,1
+PROD-00526,Home & Kitchen Item 526,Home & Kitchen,186.13,78.82,SEL-0069,0
+PROD-00527,Apparel Item 527,Apparel,332.23,173.33,SEL-0146,1
+PROD-00528,Beauty Item 528,Beauty,336.67,214.45,SEL-0055,0
+PROD-00529,Electronics Item 529,Electronics,419.65,267.19,SEL-0147,1
+PROD-00530,Apparel Item 530,Apparel,388.21,239.73,SEL-0457,1
+PROD-00531,Electronics Item 531,Electronics,281.63,146.84,SEL-0427,1
+PROD-00532,Footwear Item 532,Footwear,401.48,197.14,SEL-0355,0
+PROD-00533,Footwear Item 533,Footwear,60.72,31.81,SEL-0161,0
+PROD-00534,Beauty Item 534,Beauty,297.39,145.52,SEL-0096,0
+PROD-00535,Beauty Item 535,Beauty,426.04,221.34,SEL-0338,0
+PROD-00536,Beauty Item 536,Beauty,432.57,251.74,SEL-0488,0
+PROD-00537,Electronics Item 537,Electronics,420.17,212.6,SEL-0444,1
+PROD-00538,Home & Kitchen Item 538,Home & Kitchen,247.8,142.15,SEL-0472,0
+PROD-00539,Home & Kitchen Item 539,Home & Kitchen,90.89,39.82,SEL-0011,0
+PROD-00540,Home & Kitchen Item 540,Home & Kitchen,89.16,55.01,SEL-0056,0
+PROD-00541,Footwear Item 541,Footwear,257.68,125.38,SEL-0281,0
+PROD-00542,Footwear Item 542,Footwear,300.72,175.11,SEL-0311,0
+PROD-00543,Home & Kitchen Item 543,Home & Kitchen,310.14,149.16,SEL-0016,0
+PROD-00544,Beauty Item 544,Beauty,321.54,166.17,SEL-0123,0
+PROD-00545,Apparel Item 545,Apparel,320.85,132.88,SEL-0379,1
+PROD-00546,Home & Kitchen Item 546,Home & Kitchen,449.41,230.65,SEL-0090,0
+PROD-00547,Apparel Item 547,Apparel,304.0,164.34,SEL-0080,1
+PROD-00548,Home & Kitchen Item 548,Home & Kitchen,46.29,28.81,SEL-0190,0
+PROD-00549,Apparel Item 549,Apparel,57.27,30.83,SEL-0424,1
+PROD-00550,Beauty Item 550,Beauty,76.99,42.85,SEL-0098,0
+PROD-00551,Footwear Item 551,Footwear,383.23,234.01,SEL-0463,0
+PROD-00552,Home & Kitchen Item 552,Home & Kitchen,338.41,174.61,SEL-0148,0
+PROD-00553,Home & Kitchen Item 553,Home & Kitchen,52.74,32.2,SEL-0061,0
+PROD-00554,Beauty Item 554,Beauty,233.34,124.18,SEL-0404,0
+PROD-00555,Electronics Item 555,Electronics,155.08,62.74,SEL-0023,1
+PROD-00556,Home & Kitchen Item 556,Home & Kitchen,104.24,55.75,SEL-0082,0
+PROD-00557,Apparel Item 557,Apparel,31.92,19.8,SEL-0358,1
+PROD-00558,Beauty Item 558,Beauty,105.64,55.58,SEL-0182,0
+PROD-00559,Electronics Item 559,Electronics,207.86,87.34,SEL-0152,1
+PROD-00560,Home & Kitchen Item 560,Home & Kitchen,268.51,140.09,SEL-0202,0
+PROD-00561,Home & Kitchen Item 561,Home & Kitchen,125.22,69.72,SEL-0447,0
+PROD-00562,Footwear Item 562,Footwear,76.87,47.92,SEL-0157,0
+PROD-00563,Electronics Item 563,Electronics,145.19,60.38,SEL-0137,1
+PROD-00564,Beauty Item 564,Beauty,434.92,237.54,SEL-0199,0
+PROD-00565,Apparel Item 565,Apparel,331.43,203.65,SEL-0447,1
+PROD-00566,Home & Kitchen Item 566,Home & Kitchen,23.91,12.67,SEL-0337,0
+PROD-00567,Beauty Item 567,Beauty,176.47,107.97,SEL-0231,0
+PROD-00568,Footwear Item 568,Footwear,35.75,16.92,SEL-0425,0
+PROD-00569,Home & Kitchen Item 569,Home & Kitchen,406.8,219.26,SEL-0373,0
+PROD-00570,Electronics Item 570,Electronics,185.44,82.65,SEL-0103,1
+PROD-00571,Beauty Item 571,Beauty,155.79,91.57,SEL-0294,0
+PROD-00572,Apparel Item 572,Apparel,306.88,184.04,SEL-0166,1
+PROD-00573,Footwear Item 573,Footwear,396.27,230.7,SEL-0099,0
+PROD-00574,Beauty Item 574,Beauty,82.03,36.74,SEL-0360,0
+PROD-00575,Home & Kitchen Item 575,Home & Kitchen,148.61,83.94,SEL-0433,0
+PROD-00576,Apparel Item 576,Apparel,207.07,94.34,SEL-0397,1
+PROD-00577,Home & Kitchen Item 577,Home & Kitchen,248.77,150.39,SEL-0323,0
+PROD-00578,Home & Kitchen Item 578,Home & Kitchen,295.41,168.34,SEL-0239,0
+PROD-00579,Electronics Item 579,Electronics,277.8,134.05,SEL-0253,1
+PROD-00580,Electronics Item 580,Electronics,106.44,48.5,SEL-0475,1
+PROD-00581,Home & Kitchen Item 581,Home & Kitchen,327.77,163.77,SEL-0404,0
+PROD-00582,Footwear Item 582,Footwear,193.84,85.82,SEL-0340,0
+PROD-00583,Electronics Item 583,Electronics,142.48,71.14,SEL-0051,1
+PROD-00584,Electronics Item 584,Electronics,337.89,165.06,SEL-0326,1
+PROD-00585,Electronics Item 585,Electronics,372.09,199.04,SEL-0131,1
+PROD-00586,Electronics Item 586,Electronics,64.63,29.95,SEL-0401,1
+PROD-00587,Apparel Item 587,Apparel,442.26,192.92,SEL-0183,1
+PROD-00588,Home & Kitchen Item 588,Home & Kitchen,407.33,224.88,SEL-0353,0
+PROD-00589,Apparel Item 589,Apparel,361.25,164.03,SEL-0475,1
+PROD-00590,Beauty Item 590,Beauty,364.72,194.53,SEL-0442,0
+PROD-00591,Beauty Item 591,Beauty,207.79,116.3,SEL-0181,0
+PROD-00592,Beauty Item 592,Beauty,17.35,9.87,SEL-0027,0
+PROD-00593,Apparel Item 593,Apparel,306.08,145.4,SEL-0447,1
+PROD-00594,Home & Kitchen Item 594,Home & Kitchen,180.78,73.62,SEL-0081,0
+PROD-00595,Beauty Item 595,Beauty,357.14,180.58,SEL-0037,0
+PROD-00596,Electronics Item 596,Electronics,17.77,8.84,SEL-0267,1
+PROD-00597,Beauty Item 597,Beauty,134.54,76.45,SEL-0487,0
+PROD-00598,Footwear Item 598,Footwear,303.41,140.55,SEL-0418,0
+PROD-00599,Electronics Item 599,Electronics,230.56,113.41,SEL-0490,1
+PROD-00600,Electronics Item 600,Electronics,140.42,58.82,SEL-0173,1
+PROD-00601,Electronics Item 601,Electronics,165.77,93.95,SEL-0235,1
+PROD-00602,Beauty Item 602,Beauty,422.76,184.62,SEL-0101,0
+PROD-00603,Electronics Item 603,Electronics,240.51,106.51,SEL-0098,1
+PROD-00604,Footwear Item 604,Footwear,387.11,165.26,SEL-0101,0
+PROD-00605,Apparel Item 605,Apparel,102.14,59.9,SEL-0373,1
+PROD-00606,Footwear Item 606,Footwear,15.48,7.5,SEL-0049,0
+PROD-00607,Home & Kitchen Item 607,Home & Kitchen,216.93,92.86,SEL-0294,0
+PROD-00608,Electronics Item 608,Electronics,305.7,129.51,SEL-0204,1
+PROD-00609,Footwear Item 609,Footwear,217.7,105.19,SEL-0128,0
+PROD-00610,Beauty Item 610,Beauty,386.08,231.52,SEL-0094,0
+PROD-00611,Home & Kitchen Item 611,Home & Kitchen,75.6,37.88,SEL-0338,0
+PROD-00612,Footwear Item 612,Footwear,410.51,252.2,SEL-0186,0
+PROD-00613,Electronics Item 613,Electronics,438.32,247.37,SEL-0218,1
+PROD-00614,Beauty Item 614,Beauty,279.85,134.46,SEL-0076,0
+PROD-00615,Electronics Item 615,Electronics,149.86,96.4,SEL-0351,1
+PROD-00616,Home & Kitchen Item 616,Home & Kitchen,441.36,177.01,SEL-0430,0
+PROD-00617,Footwear Item 617,Footwear,306.27,143.24,SEL-0109,0
+PROD-00618,Electronics Item 618,Electronics,199.61,91.14,SEL-0241,1
+PROD-00619,Home & Kitchen Item 619,Home & Kitchen,111.18,59.62,SEL-0214,0
+PROD-00620,Beauty Item 620,Beauty,192.24,120.8,SEL-0041,0
+PROD-00621,Footwear Item 621,Footwear,26.04,16.76,SEL-0173,0
+PROD-00622,Footwear Item 622,Footwear,49.53,26.35,SEL-0384,0
+PROD-00623,Home & Kitchen Item 623,Home & Kitchen,434.86,264.97,SEL-0376,0
+PROD-00624,Footwear Item 624,Footwear,322.37,190.65,SEL-0258,0
+PROD-00625,Beauty Item 625,Beauty,213.64,88.08,SEL-0075,0
+PROD-00626,Beauty Item 626,Beauty,340.16,150.31,SEL-0368,0
+PROD-00627,Footwear Item 627,Footwear,438.13,219.34,SEL-0094,0
+PROD-00628,Electronics Item 628,Electronics,140.31,61.56,SEL-0170,1
+PROD-00629,Electronics Item 629,Electronics,104.94,63.47,SEL-0279,1
+PROD-00630,Beauty Item 630,Beauty,129.62,78.79,SEL-0467,0
+PROD-00631,Electronics Item 631,Electronics,429.68,278.4,SEL-0289,1
+PROD-00632,Home & Kitchen Item 632,Home & Kitchen,189.25,88.55,SEL-0099,0
+PROD-00633,Apparel Item 633,Apparel,301.23,127.59,SEL-0318,1
+PROD-00634,Footwear Item 634,Footwear,292.42,188.53,SEL-0465,0
+PROD-00635,Home & Kitchen Item 635,Home & Kitchen,298.76,131.94,SEL-0086,0
+PROD-00636,Beauty Item 636,Beauty,126.75,76.18,SEL-0256,0
+PROD-00637,Apparel Item 637,Apparel,259.79,113.02,SEL-0256,1
+PROD-00638,Beauty Item 638,Beauty,153.21,64.36,SEL-0491,0
+PROD-00639,Apparel Item 639,Apparel,93.84,57.24,SEL-0452,1
+PROD-00640,Home & Kitchen Item 640,Home & Kitchen,377.22,162.32,SEL-0040,0
+PROD-00641,Apparel Item 641,Apparel,262.54,163.03,SEL-0154,1
+PROD-00642,Electronics Item 642,Electronics,274.23,173.99,SEL-0182,1
+PROD-00643,Home & Kitchen Item 643,Home & Kitchen,40.46,22.84,SEL-0221,0
+PROD-00644,Footwear Item 644,Footwear,330.88,140.53,SEL-0055,0
+PROD-00645,Beauty Item 645,Beauty,93.05,39.14,SEL-0162,0
+PROD-00646,Electronics Item 646,Electronics,298.12,178.82,SEL-0162,1
+PROD-00647,Footwear Item 647,Footwear,430.06,270.8,SEL-0047,0
+PROD-00648,Apparel Item 648,Apparel,393.57,233.47,SEL-0042,1
+PROD-00649,Electronics Item 649,Electronics,387.27,242.0,SEL-0431,1
+PROD-00650,Footwear Item 650,Footwear,321.71,174.49,SEL-0344,0
+PROD-00651,Home & Kitchen Item 651,Home & Kitchen,209.02,87.86,SEL-0069,0
+PROD-00652,Apparel Item 652,Apparel,87.08,42.24,SEL-0443,1
+PROD-00653,Footwear Item 653,Footwear,223.3,135.98,SEL-0472,0
+PROD-00654,Apparel Item 654,Apparel,214.75,116.89,SEL-0217,1
+PROD-00655,Footwear Item 655,Footwear,118.29,55.73,SEL-0257,0
+PROD-00656,Beauty Item 656,Beauty,196.7,126.53,SEL-0438,0
+PROD-00657,Home & Kitchen Item 657,Home & Kitchen,111.67,65.05,SEL-0493,0
+PROD-00658,Electronics Item 658,Electronics,72.11,36.61,SEL-0433,1
+PROD-00659,Footwear Item 659,Footwear,216.27,101.02,SEL-0134,0
+PROD-00660,Apparel Item 660,Apparel,309.98,188.67,SEL-0123,1
+PROD-00661,Home & Kitchen Item 661,Home & Kitchen,20.15,10.84,SEL-0465,0
+PROD-00662,Electronics Item 662,Electronics,96.23,59.27,SEL-0172,1
+PROD-00663,Apparel Item 663,Apparel,182.04,104.11,SEL-0239,1
+PROD-00664,Home & Kitchen Item 664,Home & Kitchen,62.7,38.18,SEL-0364,0
+PROD-00665,Apparel Item 665,Apparel,316.32,187.37,SEL-0422,1
+PROD-00666,Home & Kitchen Item 666,Home & Kitchen,101.86,54.01,SEL-0252,0
+PROD-00667,Electronics Item 667,Electronics,97.11,60.59,SEL-0264,1
+PROD-00668,Electronics Item 668,Electronics,82.65,33.2,SEL-0209,1
+PROD-00669,Apparel Item 669,Apparel,226.37,102.6,SEL-0383,1
+PROD-00670,Home & Kitchen Item 670,Home & Kitchen,140.65,70.43,SEL-0343,0
+PROD-00671,Footwear Item 671,Footwear,184.24,113.03,SEL-0477,0
+PROD-00672,Electronics Item 672,Electronics,205.88,101.25,SEL-0292,1
+PROD-00673,Footwear Item 673,Footwear,157.45,98.41,SEL-0370,0
+PROD-00674,Footwear Item 674,Footwear,261.68,128.1,SEL-0028,0
+PROD-00675,Beauty Item 675,Beauty,144.96,69.56,SEL-0461,0
+PROD-00676,Apparel Item 676,Apparel,79.59,49.21,SEL-0383,1
+PROD-00677,Apparel Item 677,Apparel,297.16,169.47,SEL-0318,1
+PROD-00678,Apparel Item 678,Apparel,127.16,78.11,SEL-0087,1
+PROD-00679,Home & Kitchen Item 679,Home & Kitchen,264.18,146.0,SEL-0270,0
+PROD-00680,Electronics Item 680,Electronics,22.3,10.86,SEL-0146,1
+PROD-00681,Electronics Item 681,Electronics,142.99,68.66,SEL-0272,1
+PROD-00682,Beauty Item 682,Beauty,109.84,53.16,SEL-0031,0
+PROD-00683,Beauty Item 683,Beauty,20.05,10.4,SEL-0321,0
+PROD-00684,Beauty Item 684,Beauty,319.57,141.58,SEL-0010,0
+PROD-00685,Footwear Item 685,Footwear,118.06,47.45,SEL-0370,0
+PROD-00686,Apparel Item 686,Apparel,158.3,77.83,SEL-0297,1
+PROD-00687,Home & Kitchen Item 687,Home & Kitchen,69.03,40.78,SEL-0452,0
+PROD-00688,Electronics Item 688,Electronics,202.19,129.26,SEL-0354,1
+PROD-00689,Home & Kitchen Item 689,Home & Kitchen,51.78,29.0,SEL-0486,0
+PROD-00690,Apparel Item 690,Apparel,348.46,164.0,SEL-0426,1
+PROD-00691,Apparel Item 691,Apparel,121.76,78.2,SEL-0214,1
+PROD-00692,Electronics Item 692,Electronics,227.78,135.6,SEL-0060,1
+PROD-00693,Footwear Item 693,Footwear,426.81,231.36,SEL-0042,0
+PROD-00694,Beauty Item 694,Beauty,111.01,56.08,SEL-0293,0
+PROD-00695,Footwear Item 695,Footwear,406.87,234.8,SEL-0261,0
+PROD-00696,Apparel Item 696,Apparel,97.72,45.75,SEL-0424,1
+PROD-00697,Apparel Item 697,Apparel,174.2,80.54,SEL-0118,1
+PROD-00698,Footwear Item 698,Footwear,448.52,200.03,SEL-0386,0
+PROD-00699,Beauty Item 699,Beauty,179.55,79.22,SEL-0179,0
+PROD-00700,Beauty Item 700,Beauty,440.47,201.7,SEL-0483,0
+PROD-00701,Apparel Item 701,Apparel,233.46,95.23,SEL-0385,1
+PROD-00702,Beauty Item 702,Beauty,266.84,130.02,SEL-0165,0
+PROD-00703,Beauty Item 703,Beauty,426.37,254.95,SEL-0438,0
+PROD-00704,Electronics Item 704,Electronics,375.7,212.71,SEL-0360,1
+PROD-00705,Electronics Item 705,Electronics,376.86,161.24,SEL-0393,1
+PROD-00706,Home & Kitchen Item 706,Home & Kitchen,20.15,11.17,SEL-0446,0
+PROD-00707,Footwear Item 707,Footwear,86.95,49.3,SEL-0155,0
+PROD-00708,Apparel Item 708,Apparel,417.21,174.84,SEL-0047,1
+PROD-00709,Beauty Item 709,Beauty,84.5,45.21,SEL-0481,0
+PROD-00710,Home & Kitchen Item 710,Home & Kitchen,176.77,96.35,SEL-0272,0
+PROD-00711,Electronics Item 711,Electronics,342.52,198.93,SEL-0046,1
+PROD-00712,Beauty Item 712,Beauty,417.99,228.67,SEL-0131,0
+PROD-00713,Footwear Item 713,Footwear,274.15,112.81,SEL-0094,0
+PROD-00714,Electronics Item 714,Electronics,319.98,186.7,SEL-0439,1
+PROD-00715,Apparel Item 715,Apparel,192.06,115.16,SEL-0239,1
+PROD-00716,Beauty Item 716,Beauty,85.04,51.77,SEL-0382,0
+PROD-00717,Home & Kitchen Item 717,Home & Kitchen,59.95,36.08,SEL-0405,0
+PROD-00718,Apparel Item 718,Apparel,321.49,149.92,SEL-0313,1
+PROD-00719,Beauty Item 719,Beauty,56.53,30.16,SEL-0249,0
+PROD-00720,Beauty Item 720,Beauty,89.52,50.11,SEL-0197,0
+PROD-00721,Beauty Item 721,Beauty,421.51,175.85,SEL-0030,0
+PROD-00722,Beauty Item 722,Beauty,395.22,208.19,SEL-0241,0
+PROD-00723,Beauty Item 723,Beauty,404.17,180.46,SEL-0015,0
+PROD-00724,Apparel Item 724,Apparel,234.84,118.2,SEL-0310,1
+PROD-00725,Footwear Item 725,Footwear,386.3,178.62,SEL-0401,0
+PROD-00726,Footwear Item 726,Footwear,87.84,42.15,SEL-0144,0
+PROD-00727,Apparel Item 727,Apparel,401.38,223.51,SEL-0250,1
+PROD-00728,Footwear Item 728,Footwear,37.57,15.3,SEL-0080,0
+PROD-00729,Home & Kitchen Item 729,Home & Kitchen,214.74,97.47,SEL-0249,0
+PROD-00730,Home & Kitchen Item 730,Home & Kitchen,248.58,156.79,SEL-0074,0
+PROD-00731,Apparel Item 731,Apparel,104.19,47.73,SEL-0126,1
+PROD-00732,Home & Kitchen Item 732,Home & Kitchen,291.12,185.45,SEL-0447,0
+PROD-00733,Apparel Item 733,Apparel,144.92,85.6,SEL-0062,1
+PROD-00734,Home & Kitchen Item 734,Home & Kitchen,241.9,124.66,SEL-0072,0
+PROD-00735,Electronics Item 735,Electronics,153.96,92.66,SEL-0294,1
+PROD-00736,Apparel Item 736,Apparel,308.11,195.98,SEL-0243,1
+PROD-00737,Beauty Item 737,Beauty,261.58,106.38,SEL-0164,0
+PROD-00738,Home & Kitchen Item 738,Home & Kitchen,440.53,209.22,SEL-0088,0
+PROD-00739,Electronics Item 739,Electronics,124.31,64.77,SEL-0487,1
+PROD-00740,Apparel Item 740,Apparel,231.02,144.55,SEL-0376,1
+PROD-00741,Home & Kitchen Item 741,Home & Kitchen,187.74,120.88,SEL-0298,0
+PROD-00742,Beauty Item 742,Beauty,113.79,54.82,SEL-0201,0
+PROD-00743,Home & Kitchen Item 743,Home & Kitchen,249.73,138.55,SEL-0065,0
+PROD-00744,Electronics Item 744,Electronics,349.92,183.48,SEL-0244,1
+PROD-00745,Footwear Item 745,Footwear,165.27,67.33,SEL-0082,0
+PROD-00746,Footwear Item 746,Footwear,362.19,190.12,SEL-0016,0
+PROD-00747,Electronics Item 747,Electronics,237.38,147.49,SEL-0474,1
+PROD-00748,Electronics Item 748,Electronics,314.86,194.43,SEL-0213,1
+PROD-00749,Apparel Item 749,Apparel,409.26,194.33,SEL-0031,1
+PROD-00750,Footwear Item 750,Footwear,41.58,19.62,SEL-0288,0
+PROD-00751,Apparel Item 751,Apparel,52.81,31.76,SEL-0438,1
+PROD-00752,Home & Kitchen Item 752,Home & Kitchen,169.79,109.6,SEL-0157,0
+PROD-00753,Electronics Item 753,Electronics,51.66,25.96,SEL-0477,1
+PROD-00754,Apparel Item 754,Apparel,335.22,206.67,SEL-0214,1
+PROD-00755,Electronics Item 755,Electronics,100.65,55.25,SEL-0232,1
+PROD-00756,Apparel Item 756,Apparel,381.22,170.81,SEL-0088,1
+PROD-00757,Home & Kitchen Item 757,Home & Kitchen,79.68,39.78,SEL-0301,0
+PROD-00758,Home & Kitchen Item 758,Home & Kitchen,224.67,102.04,SEL-0171,0
+PROD-00759,Beauty Item 759,Beauty,286.71,128.22,SEL-0253,0
+PROD-00760,Footwear Item 760,Footwear,204.76,104.3,SEL-0174,0
+PROD-00761,Beauty Item 761,Beauty,217.69,118.91,SEL-0090,0
+PROD-00762,Footwear Item 762,Footwear,409.69,167.46,SEL-0100,0
+PROD-00763,Home & Kitchen Item 763,Home & Kitchen,302.45,169.53,SEL-0191,0
+PROD-00764,Apparel Item 764,Apparel,438.49,182.06,SEL-0094,1
+PROD-00765,Electronics Item 765,Electronics,430.07,198.41,SEL-0111,1
+PROD-00766,Home & Kitchen Item 766,Home & Kitchen,99.38,46.21,SEL-0363,0
+PROD-00767,Home & Kitchen Item 767,Home & Kitchen,375.81,159.7,SEL-0061,0
+PROD-00768,Apparel Item 768,Apparel,329.88,179.05,SEL-0313,1
+PROD-00769,Home & Kitchen Item 769,Home & Kitchen,112.31,68.35,SEL-0444,0
+PROD-00770,Home & Kitchen Item 770,Home & Kitchen,67.51,35.53,SEL-0005,0
+PROD-00771,Apparel Item 771,Apparel,445.27,277.29,SEL-0449,1
+PROD-00772,Home & Kitchen Item 772,Home & Kitchen,141.54,70.09,SEL-0053,0
+PROD-00773,Footwear Item 773,Footwear,23.92,9.58,SEL-0068,0
+PROD-00774,Footwear Item 774,Footwear,261.44,114.99,SEL-0064,0
+PROD-00775,Footwear Item 775,Footwear,373.46,184.49,SEL-0412,0
+PROD-00776,Footwear Item 776,Footwear,394.93,169.69,SEL-0241,0
+PROD-00777,Home & Kitchen Item 777,Home & Kitchen,359.97,219.11,SEL-0190,0
+PROD-00778,Electronics Item 778,Electronics,235.72,105.84,SEL-0136,1
+PROD-00779,Footwear Item 779,Footwear,287.0,155.31,SEL-0368,0
+PROD-00780,Footwear Item 780,Footwear,411.31,193.17,SEL-0257,0
+PROD-00781,Home & Kitchen Item 781,Home & Kitchen,183.77,87.51,SEL-0235,0
+PROD-00782,Beauty Item 782,Beauty,35.84,14.53,SEL-0405,0
+PROD-00783,Home & Kitchen Item 783,Home & Kitchen,396.21,251.18,SEL-0364,0
+PROD-00784,Apparel Item 784,Apparel,248.13,132.51,SEL-0330,1
+PROD-00785,Footwear Item 785,Footwear,414.01,187.47,SEL-0318,0
+PROD-00786,Apparel Item 786,Apparel,127.01,65.87,SEL-0277,1
+PROD-00787,Footwear Item 787,Footwear,84.8,46.49,SEL-0323,0
+PROD-00788,Beauty Item 788,Beauty,98.38,44.29,SEL-0039,0
+PROD-00789,Electronics Item 789,Electronics,238.54,144.4,SEL-0152,1
+PROD-00790,Beauty Item 790,Beauty,292.15,183.86,SEL-0424,0
+PROD-00791,Home & Kitchen Item 791,Home & Kitchen,242.49,115.47,SEL-0303,0
+PROD-00792,Home & Kitchen Item 792,Home & Kitchen,175.81,82.07,SEL-0331,0
+PROD-00793,Apparel Item 793,Apparel,97.04,50.73,SEL-0184,1
+PROD-00794,Apparel Item 794,Apparel,368.08,177.28,SEL-0197,1
+PROD-00795,Home & Kitchen Item 795,Home & Kitchen,351.84,166.05,SEL-0078,0
+PROD-00796,Home & Kitchen Item 796,Home & Kitchen,430.53,185.07,SEL-0342,0
+PROD-00797,Home & Kitchen Item 797,Home & Kitchen,382.62,207.7,SEL-0038,0
+PROD-00798,Footwear Item 798,Footwear,271.86,117.42,SEL-0351,0
+PROD-00799,Beauty Item 799,Beauty,301.24,129.44,SEL-0245,0
+PROD-00800,Footwear Item 800,Footwear,261.35,168.41,SEL-0431,0
+PROD-00801,Electronics Item 801,Electronics,294.99,120.56,SEL-0048,1
+PROD-00802,Footwear Item 802,Footwear,277.87,125.22,SEL-0123,0
+PROD-00803,Home & Kitchen Item 803,Home & Kitchen,353.18,168.63,SEL-0116,0
+PROD-00804,Footwear Item 804,Footwear,177.03,80.21,SEL-0487,0
+PROD-00805,Apparel Item 805,Apparel,443.03,205.07,SEL-0323,1
+PROD-00806,Home & Kitchen Item 806,Home & Kitchen,101.27,54.46,SEL-0484,0
+PROD-00807,Beauty Item 807,Beauty,287.2,117.46,SEL-0243,0
+PROD-00808,Footwear Item 808,Footwear,100.04,49.79,SEL-0285,0
+PROD-00809,Home & Kitchen Item 809,Home & Kitchen,38.74,20.36,SEL-0225,0
+PROD-00810,Apparel Item 810,Apparel,147.19,66.14,SEL-0134,1
+PROD-00811,Apparel Item 811,Apparel,216.7,92.87,SEL-0390,1
+PROD-00812,Footwear Item 812,Footwear,215.06,127.09,SEL-0314,0
+PROD-00813,Home & Kitchen Item 813,Home & Kitchen,106.05,63.54,SEL-0044,0
+PROD-00814,Beauty Item 814,Beauty,76.08,45.79,SEL-0267,0
+PROD-00815,Electronics Item 815,Electronics,80.65,42.07,SEL-0057,1
+PROD-00816,Apparel Item 816,Apparel,116.91,64.8,SEL-0395,1
+PROD-00817,Electronics Item 817,Electronics,444.39,194.26,SEL-0428,1
+PROD-00818,Beauty Item 818,Beauty,26.67,14.58,SEL-0304,0
+PROD-00819,Footwear Item 819,Footwear,426.77,181.51,SEL-0479,0
+PROD-00820,Apparel Item 820,Apparel,73.51,37.31,SEL-0383,1
+PROD-00821,Electronics Item 821,Electronics,403.7,193.65,SEL-0316,1
+PROD-00822,Apparel Item 822,Apparel,423.36,214.19,SEL-0045,1
+PROD-00823,Electronics Item 823,Electronics,291.9,176.66,SEL-0077,1
+PROD-00824,Home & Kitchen Item 824,Home & Kitchen,186.13,102.17,SEL-0132,0
+PROD-00825,Home & Kitchen Item 825,Home & Kitchen,217.41,104.12,SEL-0077,0
+PROD-00826,Footwear Item 826,Footwear,43.39,18.73,SEL-0170,0
+PROD-00827,Beauty Item 827,Beauty,253.92,117.16,SEL-0287,0
+PROD-00828,Apparel Item 828,Apparel,313.33,186.32,SEL-0077,1
+PROD-00829,Beauty Item 829,Beauty,72.71,37.23,SEL-0233,0
+PROD-00830,Electronics Item 830,Electronics,143.91,66.13,SEL-0047,1
+PROD-00831,Footwear Item 831,Footwear,261.59,112.8,SEL-0181,0
+PROD-00832,Home & Kitchen Item 832,Home & Kitchen,368.72,239.09,SEL-0045,0
+PROD-00833,Home & Kitchen Item 833,Home & Kitchen,277.1,137.26,SEL-0426,0
+PROD-00834,Footwear Item 834,Footwear,171.71,107.64,SEL-0414,0
+PROD-00835,Apparel Item 835,Apparel,47.22,22.87,SEL-0210,1
+PROD-00836,Beauty Item 836,Beauty,189.97,86.85,SEL-0270,0
+PROD-00837,Electronics Item 837,Electronics,320.2,197.82,SEL-0014,1
+PROD-00838,Beauty Item 838,Beauty,55.79,25.12,SEL-0328,0
+PROD-00839,Home & Kitchen Item 839,Home & Kitchen,25.92,16.32,SEL-0107,0
+PROD-00840,Footwear Item 840,Footwear,56.68,36.07,SEL-0089,0
+PROD-00841,Home & Kitchen Item 841,Home & Kitchen,181.81,80.6,SEL-0218,0
+PROD-00842,Home & Kitchen Item 842,Home & Kitchen,249.84,110.4,SEL-0205,0
+PROD-00843,Electronics Item 843,Electronics,322.16,179.58,SEL-0068,1
+PROD-00844,Apparel Item 844,Apparel,117.24,75.33,SEL-0401,1
+PROD-00845,Apparel Item 845,Apparel,420.38,194.84,SEL-0386,1
+PROD-00846,Electronics Item 846,Electronics,275.16,148.92,SEL-0379,1
+PROD-00847,Footwear Item 847,Footwear,65.7,36.04,SEL-0363,0
+PROD-00848,Beauty Item 848,Beauty,139.68,57.29,SEL-0408,0
+PROD-00849,Footwear Item 849,Footwear,140.96,73.94,SEL-0054,0
+PROD-00850,Beauty Item 850,Beauty,399.98,249.51,SEL-0329,0
+PROD-00851,Apparel Item 851,Apparel,101.46,60.47,SEL-0482,1
+PROD-00852,Home & Kitchen Item 852,Home & Kitchen,233.6,150.43,SEL-0107,0
+PROD-00853,Home & Kitchen Item 853,Home & Kitchen,100.9,59.89,SEL-0300,0
+PROD-00854,Footwear Item 854,Footwear,28.01,11.43,SEL-0011,0
+PROD-00855,Electronics Item 855,Electronics,31.03,17.85,SEL-0032,1
+PROD-00856,Beauty Item 856,Beauty,276.53,137.89,SEL-0489,0
+PROD-00857,Home & Kitchen Item 857,Home & Kitchen,125.69,67.45,SEL-0023,0
+PROD-00858,Footwear Item 858,Footwear,187.11,83.63,SEL-0144,0
+PROD-00859,Electronics Item 859,Electronics,370.96,175.27,SEL-0320,1
+PROD-00860,Apparel Item 860,Apparel,413.45,260.03,SEL-0379,1
+PROD-00861,Electronics Item 861,Electronics,24.38,15.09,SEL-0303,1
+PROD-00862,Apparel Item 862,Apparel,31.25,19.4,SEL-0044,1
+PROD-00863,Footwear Item 863,Footwear,180.47,108.8,SEL-0286,0
+PROD-00864,Electronics Item 864,Electronics,331.65,159.85,SEL-0241,1
+PROD-00865,Footwear Item 865,Footwear,301.91,160.56,SEL-0042,0
+PROD-00866,Apparel Item 866,Apparel,393.03,199.19,SEL-0040,1
+PROD-00867,Home & Kitchen Item 867,Home & Kitchen,118.03,56.28,SEL-0418,0
+PROD-00868,Home & Kitchen Item 868,Home & Kitchen,76.86,40.46,SEL-0022,0
+PROD-00869,Apparel Item 869,Apparel,46.36,18.65,SEL-0052,1
+PROD-00870,Beauty Item 870,Beauty,425.67,230.38,SEL-0131,0
+PROD-00871,Beauty Item 871,Beauty,103.18,60.26,SEL-0158,0
+PROD-00872,Home & Kitchen Item 872,Home & Kitchen,122.64,73.1,SEL-0279,0
+PROD-00873,Home & Kitchen Item 873,Home & Kitchen,253.25,130.0,SEL-0370,0
+PROD-00874,Electronics Item 874,Electronics,62.4,35.87,SEL-0166,1
+PROD-00875,Electronics Item 875,Electronics,426.73,202.99,SEL-0384,1
+PROD-00876,Home & Kitchen Item 876,Home & Kitchen,164.0,66.39,SEL-0411,0
+PROD-00877,Beauty Item 877,Beauty,224.7,99.28,SEL-0428,0
+PROD-00878,Electronics Item 878,Electronics,260.88,122.1,SEL-0108,1
+PROD-00879,Apparel Item 879,Apparel,429.93,232.37,SEL-0275,1
+PROD-00880,Electronics Item 880,Electronics,208.66,112.84,SEL-0108,1
+PROD-00881,Electronics Item 881,Electronics,351.4,184.7,SEL-0018,1
+PROD-00882,Electronics Item 882,Electronics,240.73,151.09,SEL-0126,1
+PROD-00883,Footwear Item 883,Footwear,179.66,116.01,SEL-0401,0
+PROD-00884,Apparel Item 884,Apparel,359.43,191.39,SEL-0097,1
+PROD-00885,Home & Kitchen Item 885,Home & Kitchen,190.54,122.66,SEL-0284,0
+PROD-00886,Beauty Item 886,Beauty,413.23,196.26,SEL-0183,0
+PROD-00887,Beauty Item 887,Beauty,420.21,204.07,SEL-0371,0
+PROD-00888,Home & Kitchen Item 888,Home & Kitchen,376.93,151.7,SEL-0133,0
+PROD-00889,Footwear Item 889,Footwear,276.38,122.78,SEL-0133,0
+PROD-00890,Beauty Item 890,Beauty,197.93,108.33,SEL-0028,0
+PROD-00891,Electronics Item 891,Electronics,359.42,147.4,SEL-0305,1
+PROD-00892,Beauty Item 892,Beauty,120.73,59.16,SEL-0302,0
+PROD-00893,Apparel Item 893,Apparel,140.17,84.58,SEL-0332,1
+PROD-00894,Apparel Item 894,Apparel,403.97,215.79,SEL-0433,1
+PROD-00895,Home & Kitchen Item 895,Home & Kitchen,291.03,170.6,SEL-0474,0
+PROD-00896,Footwear Item 896,Footwear,440.43,196.28,SEL-0098,0
+PROD-00897,Footwear Item 897,Footwear,258.8,111.4,SEL-0309,0
+PROD-00898,Beauty Item 898,Beauty,413.83,166.98,SEL-0025,0
+PROD-00899,Footwear Item 899,Footwear,134.29,82.35,SEL-0442,0
+PROD-00900,Footwear Item 900,Footwear,362.63,165.65,SEL-0069,0
+PROD-00901,Beauty Item 901,Beauty,255.87,126.94,SEL-0073,0
+PROD-00902,Apparel Item 902,Apparel,156.23,88.58,SEL-0152,1
+PROD-00903,Electronics Item 903,Electronics,257.59,128.02,SEL-0460,1
+PROD-00904,Home & Kitchen Item 904,Home & Kitchen,290.3,181.62,SEL-0425,0
+PROD-00905,Apparel Item 905,Apparel,320.01,161.61,SEL-0005,1
+PROD-00906,Footwear Item 906,Footwear,234.07,150.38,SEL-0405,0
+PROD-00907,Footwear Item 907,Footwear,53.37,29.32,SEL-0067,0
+PROD-00908,Beauty Item 908,Beauty,416.63,188.15,SEL-0280,0
+PROD-00909,Home & Kitchen Item 909,Home & Kitchen,336.43,195.9,SEL-0446,0
+PROD-00910,Electronics Item 910,Electronics,176.48,88.07,SEL-0063,1
+PROD-00911,Beauty Item 911,Beauty,444.76,286.1,SEL-0080,0
+PROD-00912,Beauty Item 912,Beauty,76.34,33.0,SEL-0017,0
+PROD-00913,Electronics Item 913,Electronics,195.32,83.06,SEL-0374,1
+PROD-00914,Electronics Item 914,Electronics,126.25,64.63,SEL-0375,1
+PROD-00915,Footwear Item 915,Footwear,170.65,93.35,SEL-0264,0
+PROD-00916,Beauty Item 916,Beauty,79.05,40.99,SEL-0366,0
+PROD-00917,Apparel Item 917,Apparel,148.69,84.41,SEL-0467,1
+PROD-00918,Apparel Item 918,Apparel,311.68,192.12,SEL-0100,1
+PROD-00919,Beauty Item 919,Beauty,105.58,67.39,SEL-0408,0
+PROD-00920,Electronics Item 920,Electronics,240.2,131.65,SEL-0124,1
+PROD-00921,Home & Kitchen Item 921,Home & Kitchen,311.45,194.51,SEL-0140,0
+PROD-00922,Electronics Item 922,Electronics,389.21,167.59,SEL-0079,1
+PROD-00923,Electronics Item 923,Electronics,117.69,63.64,SEL-0188,1
+PROD-00924,Home & Kitchen Item 924,Home & Kitchen,398.47,186.39,SEL-0148,0
+PROD-00925,Electronics Item 925,Electronics,177.49,74.28,SEL-0333,1
+PROD-00926,Home & Kitchen Item 926,Home & Kitchen,247.65,107.13,SEL-0319,0
+PROD-00927,Beauty Item 927,Beauty,338.0,155.35,SEL-0391,0
+PROD-00928,Home & Kitchen Item 928,Home & Kitchen,141.14,81.5,SEL-0102,0
+PROD-00929,Apparel Item 929,Apparel,36.63,15.37,SEL-0231,1
+PROD-00930,Home & Kitchen Item 930,Home & Kitchen,429.97,237.39,SEL-0336,0
+PROD-00931,Electronics Item 931,Electronics,419.37,207.94,SEL-0188,1
+PROD-00932,Beauty Item 932,Beauty,80.13,32.54,SEL-0369,0
+PROD-00933,Home & Kitchen Item 933,Home & Kitchen,310.6,169.96,SEL-0119,0
+PROD-00934,Electronics Item 934,Electronics,338.09,138.12,SEL-0025,1
+PROD-00935,Home & Kitchen Item 935,Home & Kitchen,63.89,29.75,SEL-0158,0
+PROD-00936,Beauty Item 936,Beauty,442.09,247.1,SEL-0034,0
+PROD-00937,Beauty Item 937,Beauty,18.35,11.21,SEL-0131,0
+PROD-00938,Apparel Item 938,Apparel,188.54,80.02,SEL-0394,1
+PROD-00939,Beauty Item 939,Beauty,325.75,145.19,SEL-0119,0
+PROD-00940,Electronics Item 940,Electronics,103.15,61.77,SEL-0077,1
+PROD-00941,Beauty Item 941,Beauty,206.84,129.74,SEL-0436,0
+PROD-00942,Beauty Item 942,Beauty,338.96,195.56,SEL-0269,0
+PROD-00943,Electronics Item 943,Electronics,378.85,208.2,SEL-0333,1
+PROD-00944,Electronics Item 944,Electronics,322.86,201.48,SEL-0313,1
+PROD-00945,Beauty Item 945,Beauty,117.04,64.99,SEL-0034,0
+PROD-00946,Beauty Item 946,Beauty,389.77,247.97,SEL-0438,0
+PROD-00947,Home & Kitchen Item 947,Home & Kitchen,40.47,26.1,SEL-0173,0
+PROD-00948,Beauty Item 948,Beauty,260.98,124.32,SEL-0093,0
+PROD-00949,Apparel Item 949,Apparel,24.12,15.63,SEL-0388,1
+PROD-00950,Apparel Item 950,Apparel,403.42,185.41,SEL-0266,1
+PROD-00951,Apparel Item 951,Apparel,207.0,113.54,SEL-0046,1
+PROD-00952,Apparel Item 952,Apparel,77.47,44.34,SEL-0060,1
+PROD-00953,Beauty Item 953,Beauty,183.78,108.95,SEL-0189,0
+PROD-00954,Home & Kitchen Item 954,Home & Kitchen,410.23,224.81,SEL-0440,0
+PROD-00955,Electronics Item 955,Electronics,394.48,159.26,SEL-0323,1
+PROD-00956,Beauty Item 956,Beauty,335.35,177.69,SEL-0231,0
+PROD-00957,Footwear Item 957,Footwear,344.64,210.91,SEL-0056,0
+PROD-00958,Beauty Item 958,Beauty,209.39,90.01,SEL-0107,0
+PROD-00959,Apparel Item 959,Apparel,32.75,20.53,SEL-0078,1
+PROD-00960,Footwear Item 960,Footwear,411.75,219.92,SEL-0368,0
+PROD-00961,Beauty Item 961,Beauty,62.63,25.52,SEL-0361,0
+PROD-00962,Home & Kitchen Item 962,Home & Kitchen,37.56,15.67,SEL-0313,0
+PROD-00963,Home & Kitchen Item 963,Home & Kitchen,260.83,111.61,SEL-0332,0
+PROD-00964,Footwear Item 964,Footwear,305.47,186.84,SEL-0324,0
+PROD-00965,Electronics Item 965,Electronics,238.61,120.97,SEL-0223,1
+PROD-00966,Footwear Item 966,Footwear,321.34,172.99,SEL-0207,0
+PROD-00967,Home & Kitchen Item 967,Home & Kitchen,316.48,201.34,SEL-0415,0
+PROD-00968,Footwear Item 968,Footwear,336.27,150.37,SEL-0249,0
+PROD-00969,Apparel Item 969,Apparel,348.29,145.46,SEL-0184,1
+PROD-00970,Apparel Item 970,Apparel,204.27,85.91,SEL-0235,1
+PROD-00971,Electronics Item 971,Electronics,94.1,50.08,SEL-0286,1
+PROD-00972,Footwear Item 972,Footwear,178.03,111.75,SEL-0030,0
+PROD-00973,Footwear Item 973,Footwear,358.47,209.01,SEL-0062,0
+PROD-00974,Footwear Item 974,Footwear,104.93,61.53,SEL-0309,0
+PROD-00975,Footwear Item 975,Footwear,18.03,9.62,SEL-0028,0
+PROD-00976,Electronics Item 976,Electronics,354.17,205.41,SEL-0285,1
+PROD-00977,Home & Kitchen Item 977,Home & Kitchen,415.54,219.29,SEL-0179,0
+PROD-00978,Beauty Item 978,Beauty,123.27,61.71,SEL-0479,0
+PROD-00979,Electronics Item 979,Electronics,315.55,185.65,SEL-0008,1
+PROD-00980,Home & Kitchen Item 980,Home & Kitchen,274.58,140.68,SEL-0253,0
+PROD-00981,Home & Kitchen Item 981,Home & Kitchen,228.01,118.11,SEL-0490,0
+PROD-00982,Home & Kitchen Item 982,Home & Kitchen,311.6,143.63,SEL-0254,0
+PROD-00983,Footwear Item 983,Footwear,420.82,222.76,SEL-0061,0
+PROD-00984,Electronics Item 984,Electronics,221.65,101.04,SEL-0116,1
+PROD-00985,Home & Kitchen Item 985,Home & Kitchen,166.14,69.5,SEL-0481,0
+PROD-00986,Beauty Item 986,Beauty,131.8,79.02,SEL-0457,0
+PROD-00987,Beauty Item 987,Beauty,117.63,48.51,SEL-0035,0
+PROD-00988,Apparel Item 988,Apparel,121.5,54.07,SEL-0359,1
+PROD-00989,Home & Kitchen Item 989,Home & Kitchen,315.83,193.31,SEL-0198,0
+PROD-00990,Electronics Item 990,Electronics,48.5,30.45,SEL-0360,1
+PROD-00991,Footwear Item 991,Footwear,131.44,69.43,SEL-0493,0
+PROD-00992,Apparel Item 992,Apparel,346.29,204.66,SEL-0058,1
+PROD-00993,Home & Kitchen Item 993,Home & Kitchen,163.44,81.3,SEL-0333,0
+PROD-00994,Footwear Item 994,Footwear,123.11,54.29,SEL-0290,0
+PROD-00995,Electronics Item 995,Electronics,156.44,72.23,SEL-0387,1
+PROD-00996,Electronics Item 996,Electronics,327.61,196.48,SEL-0142,1
+PROD-00997,Apparel Item 997,Apparel,88.78,38.52,SEL-0277,1
+PROD-00998,Apparel Item 998,Apparel,129.16,66.83,SEL-0462,1
+PROD-00999,Home & Kitchen Item 999,Home & Kitchen,214.21,126.62,SEL-0435,0
+PROD-01000,Footwear Item 1000,Footwear,350.27,160.49,SEL-0062,0
+PROD-01001,Beauty Item 1001,Beauty,435.94,235.69,SEL-0363,0
+PROD-01002,Footwear Item 1002,Footwear,216.9,120.11,SEL-0070,0
+PROD-01003,Electronics Item 1003,Electronics,332.89,212.82,SEL-0136,1
+PROD-01004,Electronics Item 1004,Electronics,270.47,133.21,SEL-0276,1
+PROD-01005,Home & Kitchen Item 1005,Home & Kitchen,236.25,113.45,SEL-0448,0
+PROD-01006,Beauty Item 1006,Beauty,332.37,192.54,SEL-0002,0
+PROD-01007,Home & Kitchen Item 1007,Home & Kitchen,301.67,161.87,SEL-0359,0
+PROD-01008,Electronics Item 1008,Electronics,133.1,74.55,SEL-0413,1
+PROD-01009,Electronics Item 1009,Electronics,159.73,98.39,SEL-0039,1
+PROD-01010,Footwear Item 1010,Footwear,308.5,167.62,SEL-0168,0
+PROD-01011,Beauty Item 1011,Beauty,292.07,148.72,SEL-0449,0
+PROD-01012,Footwear Item 1012,Footwear,260.24,139.98,SEL-0299,0
+PROD-01013,Footwear Item 1013,Footwear,245.86,115.69,SEL-0293,0
+PROD-01014,Home & Kitchen Item 1014,Home & Kitchen,260.89,141.45,SEL-0318,0
+PROD-01015,Footwear Item 1015,Footwear,333.44,160.21,SEL-0275,0
+PROD-01016,Apparel Item 1016,Apparel,422.92,198.56,SEL-0342,1
+PROD-01017,Apparel Item 1017,Apparel,360.6,233.59,SEL-0413,1
+PROD-01018,Footwear Item 1018,Footwear,227.44,127.34,SEL-0258,0
+PROD-01019,Beauty Item 1019,Beauty,169.39,78.33,SEL-0327,0
+PROD-01020,Footwear Item 1020,Footwear,309.28,169.84,SEL-0284,0
+PROD-01021,Electronics Item 1021,Electronics,395.45,229.56,SEL-0145,1
+PROD-01022,Electronics Item 1022,Electronics,241.74,111.82,SEL-0134,1
+PROD-01023,Beauty Item 1023,Beauty,374.67,202.63,SEL-0386,0
+PROD-01024,Home & Kitchen Item 1024,Home & Kitchen,425.77,274.32,SEL-0442,0
+PROD-01025,Apparel Item 1025,Apparel,108.52,61.24,SEL-0222,1
+PROD-01026,Apparel Item 1026,Apparel,221.77,106.45,SEL-0290,1
+PROD-01027,Home & Kitchen Item 1027,Home & Kitchen,177.47,78.39,SEL-0225,0
+PROD-01028,Footwear Item 1028,Footwear,116.2,61.19,SEL-0344,0
+PROD-01029,Beauty Item 1029,Beauty,104.44,52.33,SEL-0406,0
+PROD-01030,Footwear Item 1030,Footwear,124.66,80.49,SEL-0479,0
+PROD-01031,Home & Kitchen Item 1031,Home & Kitchen,300.58,124.07,SEL-0273,0
+PROD-01032,Beauty Item 1032,Beauty,449.2,259.9,SEL-0169,0
+PROD-01033,Apparel Item 1033,Apparel,78.94,45.91,SEL-0239,1
+PROD-01034,Apparel Item 1034,Apparel,190.18,77.17,SEL-0204,1
+PROD-01035,Footwear Item 1035,Footwear,269.32,158.2,SEL-0208,0
+PROD-01036,Electronics Item 1036,Electronics,186.81,93.28,SEL-0008,1
+PROD-01037,Home & Kitchen Item 1037,Home & Kitchen,308.56,128.63,SEL-0088,0
+PROD-01038,Home & Kitchen Item 1038,Home & Kitchen,407.88,246.4,SEL-0176,0
+PROD-01039,Footwear Item 1039,Footwear,165.58,99.38,SEL-0237,0
+PROD-01040,Home & Kitchen Item 1040,Home & Kitchen,58.67,25.98,SEL-0038,0
+PROD-01041,Apparel Item 1041,Apparel,131.28,80.24,SEL-0451,1
+PROD-01042,Footwear Item 1042,Footwear,420.23,212.14,SEL-0362,0
+PROD-01043,Apparel Item 1043,Apparel,286.04,136.11,SEL-0411,1
+PROD-01044,Beauty Item 1044,Beauty,237.53,102.89,SEL-0414,0
+PROD-01045,Beauty Item 1045,Beauty,157.26,93.83,SEL-0137,0
+PROD-01046,Electronics Item 1046,Electronics,84.61,36.72,SEL-0334,1
+PROD-01047,Home & Kitchen Item 1047,Home & Kitchen,102.71,63.46,SEL-0184,0
+PROD-01048,Beauty Item 1048,Beauty,223.86,112.86,SEL-0071,0
+PROD-01049,Home & Kitchen Item 1049,Home & Kitchen,62.88,30.17,SEL-0185,0
+PROD-01050,Apparel Item 1050,Apparel,396.28,234.11,SEL-0489,1
+PROD-01051,Footwear Item 1051,Footwear,349.04,154.12,SEL-0333,0
+PROD-01052,Beauty Item 1052,Beauty,30.61,16.89,SEL-0484,0
+PROD-01053,Footwear Item 1053,Footwear,396.62,172.31,SEL-0081,0
+PROD-01054,Beauty Item 1054,Beauty,417.98,187.7,SEL-0151,0
+PROD-01055,Home & Kitchen Item 1055,Home & Kitchen,320.04,162.61,SEL-0331,0
+PROD-01056,Beauty Item 1056,Beauty,240.13,122.96,SEL-0208,0
+PROD-01057,Beauty Item 1057,Beauty,221.69,134.64,SEL-0034,0
+PROD-01058,Apparel Item 1058,Apparel,186.57,94.22,SEL-0270,1
+PROD-01059,Electronics Item 1059,Electronics,363.26,146.13,SEL-0009,1
+PROD-01060,Apparel Item 1060,Apparel,80.05,50.92,SEL-0321,1
+PROD-01061,Footwear Item 1061,Footwear,317.66,185.6,SEL-0310,0
+PROD-01062,Home & Kitchen Item 1062,Home & Kitchen,335.13,154.29,SEL-0251,0
+PROD-01063,Home & Kitchen Item 1063,Home & Kitchen,38.95,25.28,SEL-0162,0
+PROD-01064,Beauty Item 1064,Beauty,75.22,43.12,SEL-0264,0
+PROD-01065,Home & Kitchen Item 1065,Home & Kitchen,407.55,199.33,SEL-0235,0
+PROD-01066,Electronics Item 1066,Electronics,64.91,37.55,SEL-0027,1
+PROD-01067,Electronics Item 1067,Electronics,435.27,218.61,SEL-0425,1
+PROD-01068,Beauty Item 1068,Beauty,146.87,66.73,SEL-0056,0
+PROD-01069,Beauty Item 1069,Beauty,411.78,266.36,SEL-0395,0
+PROD-01070,Footwear Item 1070,Footwear,445.59,281.83,SEL-0064,0
+PROD-01071,Beauty Item 1071,Beauty,321.29,168.19,SEL-0189,0
+PROD-01072,Apparel Item 1072,Apparel,203.32,118.1,SEL-0430,1
+PROD-01073,Apparel Item 1073,Apparel,382.54,236.83,SEL-0350,1
+PROD-01074,Apparel Item 1074,Apparel,32.61,20.43,SEL-0212,1
+PROD-01075,Electronics Item 1075,Electronics,89.9,47.82,SEL-0271,1
+PROD-01076,Home & Kitchen Item 1076,Home & Kitchen,428.12,209.41,SEL-0409,0
+PROD-01077,Footwear Item 1077,Footwear,308.5,132.27,SEL-0087,0
+PROD-01078,Beauty Item 1078,Beauty,94.05,52.96,SEL-0289,0
+PROD-01079,Footwear Item 1079,Footwear,31.0,14.66,SEL-0398,0
+PROD-01080,Electronics Item 1080,Electronics,97.86,47.2,SEL-0439,1
+PROD-01081,Beauty Item 1081,Beauty,435.99,246.51,SEL-0250,0
+PROD-01082,Beauty Item 1082,Beauty,68.2,28.35,SEL-0108,0
+PROD-01083,Electronics Item 1083,Electronics,251.1,151.76,SEL-0255,1
+PROD-01084,Home & Kitchen Item 1084,Home & Kitchen,244.75,106.3,SEL-0252,0
+PROD-01085,Beauty Item 1085,Beauty,59.79,36.13,SEL-0105,0
+PROD-01086,Home & Kitchen Item 1086,Home & Kitchen,176.78,113.23,SEL-0352,0
+PROD-01087,Electronics Item 1087,Electronics,354.39,197.02,SEL-0227,1
+PROD-01088,Footwear Item 1088,Footwear,204.51,92.97,SEL-0152,0
+PROD-01089,Beauty Item 1089,Beauty,384.77,247.33,SEL-0034,0
+PROD-01090,Home & Kitchen Item 1090,Home & Kitchen,284.09,149.78,SEL-0111,0
+PROD-01091,Beauty Item 1091,Beauty,439.34,257.56,SEL-0403,0
+PROD-01092,Home & Kitchen Item 1092,Home & Kitchen,218.01,136.22,SEL-0067,0
+PROD-01093,Beauty Item 1093,Beauty,124.57,67.16,SEL-0156,0
+PROD-01094,Beauty Item 1094,Beauty,437.63,258.47,SEL-0303,0
+PROD-01095,Beauty Item 1095,Beauty,117.82,48.2,SEL-0219,0
+PROD-01096,Footwear Item 1096,Footwear,366.74,157.96,SEL-0464,0
+PROD-01097,Beauty Item 1097,Beauty,287.86,175.55,SEL-0321,0
+PROD-01098,Home & Kitchen Item 1098,Home & Kitchen,57.28,30.21,SEL-0451,0
+PROD-01099,Footwear Item 1099,Footwear,265.02,117.26,SEL-0387,0
+PROD-01100,Apparel Item 1100,Apparel,313.07,152.0,SEL-0063,1
+PROD-01101,Home & Kitchen Item 1101,Home & Kitchen,395.16,202.75,SEL-0157,0
+PROD-01102,Home & Kitchen Item 1102,Home & Kitchen,225.73,135.09,SEL-0122,0
+PROD-01103,Apparel Item 1103,Apparel,175.65,104.42,SEL-0060,1
+PROD-01104,Footwear Item 1104,Footwear,269.18,166.48,SEL-0431,0
+PROD-01105,Beauty Item 1105,Beauty,141.83,82.57,SEL-0014,0
+PROD-01106,Home & Kitchen Item 1106,Home & Kitchen,115.12,65.72,SEL-0047,0
+PROD-01107,Apparel Item 1107,Apparel,184.72,81.47,SEL-0268,1
+PROD-01108,Beauty Item 1108,Beauty,59.81,37.29,SEL-0148,0
+PROD-01109,Footwear Item 1109,Footwear,236.68,137.05,SEL-0171,0
+PROD-01110,Home & Kitchen Item 1110,Home & Kitchen,262.34,127.43,SEL-0181,0
+PROD-01111,Beauty Item 1111,Beauty,354.14,201.42,SEL-0419,0
+PROD-01112,Beauty Item 1112,Beauty,359.51,226.75,SEL-0476,0
+PROD-01113,Electronics Item 1113,Electronics,266.49,128.8,SEL-0268,1
+PROD-01114,Apparel Item 1114,Apparel,185.63,77.71,SEL-0281,1
+PROD-01115,Beauty Item 1115,Beauty,319.82,154.04,SEL-0319,0
+PROD-01116,Footwear Item 1116,Footwear,94.88,59.1,SEL-0287,0
+PROD-01117,Electronics Item 1117,Electronics,131.7,75.76,SEL-0448,1
+PROD-01118,Beauty Item 1118,Beauty,368.09,232.9,SEL-0162,0
+PROD-01119,Beauty Item 1119,Beauty,188.37,99.24,SEL-0109,0
+PROD-01120,Footwear Item 1120,Footwear,89.29,48.34,SEL-0315,0
+PROD-01121,Electronics Item 1121,Electronics,171.29,101.03,SEL-0309,1
+PROD-01122,Electronics Item 1122,Electronics,384.32,218.85,SEL-0419,1
+PROD-01123,Apparel Item 1123,Apparel,210.92,134.24,SEL-0368,1
+PROD-01124,Beauty Item 1124,Beauty,143.22,86.09,SEL-0243,0
+PROD-01125,Apparel Item 1125,Apparel,338.37,146.77,SEL-0458,1
+PROD-01126,Electronics Item 1126,Electronics,75.44,38.29,SEL-0225,1
+PROD-01127,Apparel Item 1127,Apparel,238.64,114.54,SEL-0469,1
+PROD-01128,Footwear Item 1128,Footwear,199.69,83.06,SEL-0292,0
+PROD-01129,Home & Kitchen Item 1129,Home & Kitchen,174.29,89.26,SEL-0123,0
+PROD-01130,Footwear Item 1130,Footwear,99.73,54.1,SEL-0491,0
+PROD-01131,Electronics Item 1131,Electronics,224.32,114.74,SEL-0334,1
+PROD-01132,Footwear Item 1132,Footwear,409.64,233.78,SEL-0127,0
+PROD-01133,Electronics Item 1133,Electronics,24.54,15.81,SEL-0045,1
+PROD-01134,Footwear Item 1134,Footwear,228.79,129.2,SEL-0274,0
+PROD-01135,Beauty Item 1135,Beauty,251.45,147.85,SEL-0044,0
+PROD-01136,Beauty Item 1136,Beauty,201.59,121.29,SEL-0447,0
+PROD-01137,Footwear Item 1137,Footwear,170.15,100.25,SEL-0400,0
+PROD-01138,Apparel Item 1138,Apparel,434.64,243.93,SEL-0215,1
+PROD-01139,Electronics Item 1139,Electronics,113.86,62.53,SEL-0066,1
+PROD-01140,Beauty Item 1140,Beauty,422.19,246.9,SEL-0009,0
+PROD-01141,Electronics Item 1141,Electronics,352.72,193.89,SEL-0244,1
+PROD-01142,Beauty Item 1142,Beauty,246.18,149.67,SEL-0281,0
+PROD-01143,Home & Kitchen Item 1143,Home & Kitchen,185.87,115.67,SEL-0175,0
+PROD-01144,Footwear Item 1144,Footwear,367.61,191.33,SEL-0158,0
+PROD-01145,Beauty Item 1145,Beauty,188.34,115.08,SEL-0113,0
+PROD-01146,Footwear Item 1146,Footwear,254.37,137.33,SEL-0451,0
+PROD-01147,Home & Kitchen Item 1147,Home & Kitchen,348.09,153.43,SEL-0228,0
+PROD-01148,Electronics Item 1148,Electronics,200.46,106.29,SEL-0057,1
+PROD-01149,Footwear Item 1149,Footwear,176.78,88.03,SEL-0120,0
+PROD-01150,Beauty Item 1150,Beauty,282.22,115.81,SEL-0093,0
+PROD-01151,Home & Kitchen Item 1151,Home & Kitchen,293.96,148.01,SEL-0305,0
+PROD-01152,Beauty Item 1152,Beauty,320.25,136.92,SEL-0075,0
+PROD-01153,Home & Kitchen Item 1153,Home & Kitchen,227.19,132.34,SEL-0487,0
+PROD-01154,Home & Kitchen Item 1154,Home & Kitchen,28.58,14.02,SEL-0423,0
+PROD-01155,Beauty Item 1155,Beauty,36.89,22.97,SEL-0219,0
+PROD-01156,Footwear Item 1156,Footwear,199.23,81.5,SEL-0227,0
+PROD-01157,Electronics Item 1157,Electronics,134.26,66.77,SEL-0293,1
+PROD-01158,Electronics Item 1158,Electronics,405.99,194.14,SEL-0499,1
+PROD-01159,Home & Kitchen Item 1159,Home & Kitchen,332.28,152.62,SEL-0384,0
+PROD-01160,Beauty Item 1160,Beauty,402.17,197.61,SEL-0202,0
+PROD-01161,Home & Kitchen Item 1161,Home & Kitchen,75.02,45.72,SEL-0385,0
+PROD-01162,Electronics Item 1162,Electronics,229.3,97.77,SEL-0003,1
+PROD-01163,Home & Kitchen Item 1163,Home & Kitchen,341.97,153.67,SEL-0286,0
+PROD-01164,Home & Kitchen Item 1164,Home & Kitchen,365.0,166.05,SEL-0414,0
+PROD-01165,Electronics Item 1165,Electronics,166.58,99.48,SEL-0009,1
+PROD-01166,Footwear Item 1166,Footwear,316.11,205.0,SEL-0335,0
+PROD-01167,Home & Kitchen Item 1167,Home & Kitchen,426.49,178.94,SEL-0345,0
+PROD-01168,Footwear Item 1168,Footwear,381.99,199.05,SEL-0213,0
+PROD-01169,Home & Kitchen Item 1169,Home & Kitchen,72.68,41.08,SEL-0227,0
+PROD-01170,Beauty Item 1170,Beauty,270.66,121.51,SEL-0112,0
+PROD-01171,Home & Kitchen Item 1171,Home & Kitchen,186.99,109.64,SEL-0263,0
+PROD-01172,Home & Kitchen Item 1172,Home & Kitchen,236.72,99.36,SEL-0202,0
+PROD-01173,Apparel Item 1173,Apparel,246.46,136.14,SEL-0135,1
+PROD-01174,Beauty Item 1174,Beauty,217.34,98.01,SEL-0050,0
+PROD-01175,Beauty Item 1175,Beauty,340.65,180.83,SEL-0043,0
+PROD-01176,Footwear Item 1176,Footwear,138.06,82.0,SEL-0214,0
+PROD-01177,Footwear Item 1177,Footwear,432.29,192.87,SEL-0252,0
+PROD-01178,Home & Kitchen Item 1178,Home & Kitchen,293.58,158.1,SEL-0085,0
+PROD-01179,Electronics Item 1179,Electronics,346.25,188.43,SEL-0484,1
+PROD-01180,Home & Kitchen Item 1180,Home & Kitchen,232.14,143.11,SEL-0097,0
+PROD-01181,Apparel Item 1181,Apparel,431.92,174.47,SEL-0376,1
+PROD-01182,Home & Kitchen Item 1182,Home & Kitchen,71.86,37.8,SEL-0181,0
+PROD-01183,Apparel Item 1183,Apparel,231.25,114.21,SEL-0069,1
+PROD-01184,Home & Kitchen Item 1184,Home & Kitchen,433.6,219.44,SEL-0175,0
+PROD-01185,Footwear Item 1185,Footwear,262.66,122.3,SEL-0006,0
+PROD-01186,Home & Kitchen Item 1186,Home & Kitchen,255.29,116.5,SEL-0291,0
+PROD-01187,Footwear Item 1187,Footwear,19.04,10.0,SEL-0482,0
+PROD-01188,Electronics Item 1188,Electronics,312.7,152.47,SEL-0112,1
+PROD-01189,Electronics Item 1189,Electronics,402.35,191.34,SEL-0482,1
+PROD-01190,Beauty Item 1190,Beauty,18.87,10.33,SEL-0129,0
+PROD-01191,Home & Kitchen Item 1191,Home & Kitchen,270.02,140.64,SEL-0419,0
+PROD-01192,Beauty Item 1192,Beauty,139.41,68.88,SEL-0133,0
+PROD-01193,Home & Kitchen Item 1193,Home & Kitchen,38.37,19.7,SEL-0070,0
+PROD-01194,Electronics Item 1194,Electronics,217.6,107.59,SEL-0302,1
+PROD-01195,Apparel Item 1195,Apparel,155.65,79.92,SEL-0244,1
+PROD-01196,Beauty Item 1196,Beauty,413.84,186.6,SEL-0256,0
+PROD-01197,Beauty Item 1197,Beauty,78.92,50.97,SEL-0240,0
+PROD-01198,Electronics Item 1198,Electronics,352.04,203.11,SEL-0381,1
+PROD-01199,Electronics Item 1199,Electronics,340.83,138.49,SEL-0387,1
+PROD-01200,Apparel Item 1200,Apparel,178.33,91.61,SEL-0015,1
+PROD-01201,Beauty Item 1201,Beauty,214.71,89.04,SEL-0435,0
+PROD-01202,Electronics Item 1202,Electronics,302.27,160.21,SEL-0234,1
+PROD-01203,Electronics Item 1203,Electronics,121.33,73.78,SEL-0340,1
+PROD-01204,Apparel Item 1204,Apparel,98.63,53.64,SEL-0399,1
+PROD-01205,Apparel Item 1205,Apparel,129.99,62.68,SEL-0063,1
+PROD-01206,Footwear Item 1206,Footwear,410.25,254.99,SEL-0236,0
+PROD-01207,Home & Kitchen Item 1207,Home & Kitchen,170.33,75.56,SEL-0394,0
+PROD-01208,Footwear Item 1208,Footwear,427.38,247.51,SEL-0330,0
+PROD-01209,Apparel Item 1209,Apparel,81.24,51.67,SEL-0416,1
+PROD-01210,Electronics Item 1210,Electronics,130.37,61.2,SEL-0308,1
+PROD-01211,Apparel Item 1211,Apparel,91.7,38.77,SEL-0321,1
+PROD-01212,Beauty Item 1212,Beauty,272.5,153.24,SEL-0253,0
+PROD-01213,Electronics Item 1213,Electronics,381.59,227.91,SEL-0345,1
+PROD-01214,Footwear Item 1214,Footwear,365.89,197.38,SEL-0423,0
+PROD-01215,Footwear Item 1215,Footwear,291.97,119.81,SEL-0216,0
+PROD-01216,Footwear Item 1216,Footwear,57.25,28.86,SEL-0081,0
+PROD-01217,Electronics Item 1217,Electronics,239.19,134.3,SEL-0085,1
+PROD-01218,Home & Kitchen Item 1218,Home & Kitchen,327.21,146.98,SEL-0365,0
+PROD-01219,Home & Kitchen Item 1219,Home & Kitchen,52.94,26.28,SEL-0014,0
+PROD-01220,Home & Kitchen Item 1220,Home & Kitchen,328.87,173.35,SEL-0131,0
+PROD-01221,Apparel Item 1221,Apparel,204.13,89.27,SEL-0325,1
+PROD-01222,Apparel Item 1222,Apparel,315.09,195.09,SEL-0460,1
+PROD-01223,Beauty Item 1223,Beauty,31.43,12.98,SEL-0453,0
+PROD-01224,Electronics Item 1224,Electronics,178.45,99.5,SEL-0481,1
+PROD-01225,Beauty Item 1225,Beauty,310.61,155.76,SEL-0122,0
+PROD-01226,Apparel Item 1226,Apparel,214.82,111.87,SEL-0256,1
+PROD-01227,Electronics Item 1227,Electronics,182.74,82.21,SEL-0182,1
+PROD-01228,Footwear Item 1228,Footwear,222.57,131.08,SEL-0064,0
+PROD-01229,Electronics Item 1229,Electronics,405.49,244.58,SEL-0354,1
+PROD-01230,Apparel Item 1230,Apparel,100.97,60.93,SEL-0131,1
+PROD-01231,Footwear Item 1231,Footwear,228.18,111.54,SEL-0275,0
+PROD-01232,Footwear Item 1232,Footwear,160.49,94.04,SEL-0148,0
+PROD-01233,Electronics Item 1233,Electronics,360.29,196.37,SEL-0117,1
+PROD-01234,Home & Kitchen Item 1234,Home & Kitchen,214.58,119.64,SEL-0116,0
+PROD-01235,Apparel Item 1235,Apparel,172.5,95.06,SEL-0223,1
+PROD-01236,Apparel Item 1236,Apparel,326.54,163.2,SEL-0293,1
+PROD-01237,Home & Kitchen Item 1237,Home & Kitchen,60.11,26.53,SEL-0375,0
+PROD-01238,Beauty Item 1238,Beauty,195.24,83.56,SEL-0025,0
+PROD-01239,Beauty Item 1239,Beauty,276.95,116.18,SEL-0356,0
+PROD-01240,Apparel Item 1240,Apparel,212.18,124.4,SEL-0002,1
+PROD-01241,Home & Kitchen Item 1241,Home & Kitchen,293.88,166.56,SEL-0279,0
+PROD-01242,Home & Kitchen Item 1242,Home & Kitchen,133.49,78.86,SEL-0252,0
+PROD-01243,Footwear Item 1243,Footwear,85.0,35.63,SEL-0224,0
+PROD-01244,Beauty Item 1244,Beauty,366.65,158.82,SEL-0261,0
+PROD-01245,Beauty Item 1245,Beauty,198.65,129.11,SEL-0446,0
+PROD-01246,Footwear Item 1246,Footwear,186.36,102.64,SEL-0233,0
+PROD-01247,Electronics Item 1247,Electronics,249.72,112.82,SEL-0405,1
+PROD-01248,Beauty Item 1248,Beauty,145.0,76.75,SEL-0331,0
+PROD-01249,Footwear Item 1249,Footwear,42.37,18.27,SEL-0440,0
+PROD-01250,Home & Kitchen Item 1250,Home & Kitchen,99.3,54.96,SEL-0071,0
+PROD-01251,Electronics Item 1251,Electronics,168.23,86.36,SEL-0160,1
+PROD-01252,Apparel Item 1252,Apparel,412.18,267.22,SEL-0151,1
+PROD-01253,Home & Kitchen Item 1253,Home & Kitchen,429.94,262.81,SEL-0322,0
+PROD-01254,Electronics Item 1254,Electronics,312.26,148.24,SEL-0456,1
+PROD-01255,Footwear Item 1255,Footwear,231.46,127.92,SEL-0143,0
+PROD-01256,Home & Kitchen Item 1256,Home & Kitchen,153.5,89.59,SEL-0089,0
+PROD-01257,Electronics Item 1257,Electronics,67.46,43.04,SEL-0222,1
+PROD-01258,Apparel Item 1258,Apparel,422.75,171.41,SEL-0189,1
+PROD-01259,Home & Kitchen Item 1259,Home & Kitchen,82.65,42.45,SEL-0385,0
+PROD-01260,Home & Kitchen Item 1260,Home & Kitchen,138.98,56.92,SEL-0036,0
+PROD-01261,Beauty Item 1261,Beauty,338.68,163.06,SEL-0040,0
+PROD-01262,Electronics Item 1262,Electronics,179.68,110.4,SEL-0166,1
+PROD-01263,Electronics Item 1263,Electronics,92.53,39.27,SEL-0017,1
+PROD-01264,Beauty Item 1264,Beauty,388.03,158.4,SEL-0234,0
+PROD-01265,Footwear Item 1265,Footwear,133.38,69.66,SEL-0124,0
+PROD-01266,Footwear Item 1266,Footwear,363.42,165.86,SEL-0282,0
+PROD-01267,Beauty Item 1267,Beauty,70.05,35.74,SEL-0083,0
+PROD-01268,Home & Kitchen Item 1268,Home & Kitchen,75.05,43.96,SEL-0461,0
+PROD-01269,Apparel Item 1269,Apparel,187.32,98.86,SEL-0038,1
+PROD-01270,Footwear Item 1270,Footwear,76.21,33.52,SEL-0147,0
+PROD-01271,Apparel Item 1271,Apparel,133.04,71.89,SEL-0473,1
+PROD-01272,Electronics Item 1272,Electronics,132.66,72.38,SEL-0190,1
+PROD-01273,Electronics Item 1273,Electronics,325.22,140.69,SEL-0100,1
+PROD-01274,Footwear Item 1274,Footwear,249.73,148.03,SEL-0061,0
+PROD-01275,Home & Kitchen Item 1275,Home & Kitchen,435.04,203.72,SEL-0406,0
+PROD-01276,Electronics Item 1276,Electronics,45.22,26.2,SEL-0331,1
+PROD-01277,Apparel Item 1277,Apparel,84.95,54.36,SEL-0418,1
+PROD-01278,Home & Kitchen Item 1278,Home & Kitchen,188.23,91.85,SEL-0373,0
+PROD-01279,Footwear Item 1279,Footwear,324.7,149.65,SEL-0121,0
+PROD-01280,Electronics Item 1280,Electronics,423.39,220.32,SEL-0325,1
+PROD-01281,Footwear Item 1281,Footwear,110.37,44.29,SEL-0316,0
+PROD-01282,Home & Kitchen Item 1282,Home & Kitchen,340.5,198.37,SEL-0110,0
+PROD-01283,Home & Kitchen Item 1283,Home & Kitchen,275.63,140.12,SEL-0232,0
+PROD-01284,Home & Kitchen Item 1284,Home & Kitchen,296.42,127.55,SEL-0299,0
+PROD-01285,Beauty Item 1285,Beauty,355.21,177.28,SEL-0135,0
+PROD-01286,Beauty Item 1286,Beauty,160.17,83.13,SEL-0434,0
+PROD-01287,Apparel Item 1287,Apparel,223.71,135.25,SEL-0176,1
+PROD-01288,Home & Kitchen Item 1288,Home & Kitchen,275.95,165.75,SEL-0470,0
+PROD-01289,Home & Kitchen Item 1289,Home & Kitchen,286.38,176.24,SEL-0080,0
+PROD-01290,Electronics Item 1290,Electronics,249.8,115.27,SEL-0338,1
+PROD-01291,Apparel Item 1291,Apparel,179.94,100.16,SEL-0247,1
+PROD-01292,Apparel Item 1292,Apparel,286.4,168.41,SEL-0139,1
+PROD-01293,Footwear Item 1293,Footwear,316.22,167.42,SEL-0307,0
+PROD-01294,Home & Kitchen Item 1294,Home & Kitchen,84.41,49.71,SEL-0169,0
+PROD-01295,Electronics Item 1295,Electronics,302.89,179.19,SEL-0183,1
+PROD-01296,Footwear Item 1296,Footwear,262.1,123.49,SEL-0223,0
+PROD-01297,Beauty Item 1297,Beauty,44.38,20.03,SEL-0468,0
+PROD-01298,Home & Kitchen Item 1298,Home & Kitchen,162.71,70.11,SEL-0498,0
+PROD-01299,Apparel Item 1299,Apparel,29.17,13.09,SEL-0184,1
+PROD-01300,Home & Kitchen Item 1300,Home & Kitchen,105.41,65.73,SEL-0319,0
+PROD-01301,Home & Kitchen Item 1301,Home & Kitchen,402.91,174.03,SEL-0265,0
+PROD-01302,Beauty Item 1302,Beauty,189.87,82.83,SEL-0416,0
+PROD-01303,Electronics Item 1303,Electronics,446.5,267.71,SEL-0254,1
+PROD-01304,Electronics Item 1304,Electronics,222.04,104.99,SEL-0038,1
+PROD-01305,Electronics Item 1305,Electronics,310.95,124.75,SEL-0270,1
+PROD-01306,Footwear Item 1306,Footwear,346.55,194.52,SEL-0365,0
+PROD-01307,Electronics Item 1307,Electronics,68.9,42.39,SEL-0492,1
+PROD-01308,Footwear Item 1308,Footwear,158.32,90.9,SEL-0059,0
+PROD-01309,Beauty Item 1309,Beauty,431.0,178.25,SEL-0487,0
+PROD-01310,Home & Kitchen Item 1310,Home & Kitchen,25.8,11.42,SEL-0219,0
+PROD-01311,Footwear Item 1311,Footwear,154.68,86.05,SEL-0373,0
+PROD-01312,Beauty Item 1312,Beauty,435.9,228.08,SEL-0446,0
+PROD-01313,Footwear Item 1313,Footwear,305.37,197.62,SEL-0427,0
+PROD-01314,Beauty Item 1314,Beauty,277.92,116.08,SEL-0191,0
+PROD-01315,Electronics Item 1315,Electronics,42.41,26.1,SEL-0464,1
+PROD-01316,Electronics Item 1316,Electronics,196.52,117.22,SEL-0367,1
+PROD-01317,Beauty Item 1317,Beauty,280.94,159.42,SEL-0487,0
+PROD-01318,Apparel Item 1318,Apparel,385.52,176.4,SEL-0004,1
+PROD-01319,Beauty Item 1319,Beauty,36.83,15.87,SEL-0316,0
+PROD-01320,Footwear Item 1320,Footwear,347.72,153.05,SEL-0281,0
+PROD-01321,Beauty Item 1321,Beauty,19.77,11.53,SEL-0354,0
+PROD-01322,Home & Kitchen Item 1322,Home & Kitchen,401.09,254.38,SEL-0025,0
+PROD-01323,Apparel Item 1323,Apparel,42.26,18.26,SEL-0070,1
+PROD-01324,Beauty Item 1324,Beauty,330.69,214.5,SEL-0018,0
+PROD-01325,Apparel Item 1325,Apparel,203.89,129.3,SEL-0184,1
+PROD-01326,Apparel Item 1326,Apparel,222.44,130.0,SEL-0427,1
+PROD-01327,Beauty Item 1327,Beauty,283.07,171.22,SEL-0185,0
+PROD-01328,Beauty Item 1328,Beauty,444.84,255.63,SEL-0483,0
+PROD-01329,Electronics Item 1329,Electronics,191.14,82.42,SEL-0309,1
+PROD-01330,Beauty Item 1330,Beauty,283.74,139.96,SEL-0306,0
+PROD-01331,Beauty Item 1331,Beauty,242.48,156.11,SEL-0162,0
+PROD-01332,Electronics Item 1332,Electronics,394.72,253.59,SEL-0472,1
+PROD-01333,Electronics Item 1333,Electronics,130.74,63.61,SEL-0435,1
+PROD-01334,Home & Kitchen Item 1334,Home & Kitchen,440.05,198.99,SEL-0025,0
+PROD-01335,Beauty Item 1335,Beauty,365.54,235.47,SEL-0456,0
+PROD-01336,Footwear Item 1336,Footwear,181.86,106.9,SEL-0225,0
+PROD-01337,Apparel Item 1337,Apparel,399.33,234.88,SEL-0285,1
+PROD-01338,Electronics Item 1338,Electronics,284.36,161.45,SEL-0250,1
+PROD-01339,Beauty Item 1339,Beauty,117.61,57.89,SEL-0001,0
+PROD-01340,Footwear Item 1340,Footwear,93.14,51.34,SEL-0309,0
+PROD-01341,Apparel Item 1341,Apparel,25.7,13.61,SEL-0018,1
+PROD-01342,Beauty Item 1342,Beauty,250.0,133.84,SEL-0278,0
+PROD-01343,Footwear Item 1343,Footwear,357.48,180.66,SEL-0156,0
+PROD-01344,Apparel Item 1344,Apparel,127.22,67.85,SEL-0386,1
+PROD-01345,Footwear Item 1345,Footwear,231.47,129.3,SEL-0029,0
+PROD-01346,Electronics Item 1346,Electronics,233.44,94.74,SEL-0305,1
+PROD-01347,Beauty Item 1347,Beauty,213.88,124.68,SEL-0328,0
+PROD-01348,Footwear Item 1348,Footwear,300.43,193.99,SEL-0469,0
+PROD-01349,Footwear Item 1349,Footwear,129.5,78.5,SEL-0360,0
+PROD-01350,Beauty Item 1350,Beauty,192.8,99.27,SEL-0101,0
+PROD-01351,Apparel Item 1351,Apparel,180.42,73.76,SEL-0241,1
+PROD-01352,Beauty Item 1352,Beauty,100.43,63.93,SEL-0097,0
+PROD-01353,Footwear Item 1353,Footwear,184.85,76.76,SEL-0247,0
+PROD-01354,Home & Kitchen Item 1354,Home & Kitchen,246.87,119.05,SEL-0017,0
+PROD-01355,Apparel Item 1355,Apparel,171.1,100.99,SEL-0277,1
+PROD-01356,Footwear Item 1356,Footwear,68.88,42.34,SEL-0031,0
+PROD-01357,Home & Kitchen Item 1357,Home & Kitchen,404.4,197.01,SEL-0059,0
+PROD-01358,Apparel Item 1358,Apparel,108.24,52.71,SEL-0125,1
+PROD-01359,Electronics Item 1359,Electronics,51.7,23.27,SEL-0185,1
+PROD-01360,Beauty Item 1360,Beauty,404.16,193.32,SEL-0155,0
+PROD-01361,Apparel Item 1361,Apparel,314.97,187.25,SEL-0234,1
+PROD-01362,Apparel Item 1362,Apparel,194.14,113.75,SEL-0072,1
+PROD-01363,Footwear Item 1363,Footwear,407.54,180.04,SEL-0088,0
+PROD-01364,Home & Kitchen Item 1364,Home & Kitchen,26.14,10.93,SEL-0429,0
+PROD-01365,Apparel Item 1365,Apparel,357.05,155.38,SEL-0217,1
+PROD-01366,Beauty Item 1366,Beauty,170.64,103.11,SEL-0258,0
+PROD-01367,Apparel Item 1367,Apparel,123.12,50.42,SEL-0090,1
+PROD-01368,Apparel Item 1368,Apparel,191.97,115.62,SEL-0456,1
+PROD-01369,Footwear Item 1369,Footwear,257.66,118.49,SEL-0115,0
+PROD-01370,Apparel Item 1370,Apparel,145.77,63.98,SEL-0045,1
+PROD-01371,Home & Kitchen Item 1371,Home & Kitchen,337.63,195.08,SEL-0114,0
+PROD-01372,Footwear Item 1372,Footwear,109.19,67.38,SEL-0284,0
+PROD-01373,Electronics Item 1373,Electronics,62.86,39.8,SEL-0435,1
+PROD-01374,Electronics Item 1374,Electronics,328.86,134.96,SEL-0066,1
+PROD-01375,Footwear Item 1375,Footwear,260.94,149.62,SEL-0346,0
+PROD-01376,Home & Kitchen Item 1376,Home & Kitchen,198.51,119.89,SEL-0344,0
+PROD-01377,Footwear Item 1377,Footwear,204.88,87.95,SEL-0270,0
+PROD-01378,Footwear Item 1378,Footwear,115.92,50.21,SEL-0222,0
+PROD-01379,Footwear Item 1379,Footwear,112.05,65.97,SEL-0340,0
+PROD-01380,Footwear Item 1380,Footwear,216.95,101.93,SEL-0387,0
+PROD-01381,Apparel Item 1381,Apparel,85.0,37.51,SEL-0370,1
+PROD-01382,Beauty Item 1382,Beauty,305.36,160.26,SEL-0250,0
+PROD-01383,Electronics Item 1383,Electronics,302.82,143.46,SEL-0436,1
+PROD-01384,Home & Kitchen Item 1384,Home & Kitchen,327.67,134.56,SEL-0272,0
+PROD-01385,Apparel Item 1385,Apparel,385.69,203.06,SEL-0360,1
+PROD-01386,Electronics Item 1386,Electronics,148.96,79.05,SEL-0244,1
+PROD-01387,Beauty Item 1387,Beauty,204.61,90.0,SEL-0178,0
+PROD-01388,Footwear Item 1388,Footwear,23.27,10.02,SEL-0258,0
+PROD-01389,Beauty Item 1389,Beauty,22.07,13.86,SEL-0133,0
+PROD-01390,Electronics Item 1390,Electronics,99.79,59.96,SEL-0038,1
+PROD-01391,Electronics Item 1391,Electronics,40.1,16.48,SEL-0270,1
+PROD-01392,Apparel Item 1392,Apparel,252.52,104.58,SEL-0428,1
+PROD-01393,Apparel Item 1393,Apparel,276.99,122.46,SEL-0417,1
+PROD-01394,Home & Kitchen Item 1394,Home & Kitchen,134.54,57.87,SEL-0386,0
+PROD-01395,Footwear Item 1395,Footwear,145.32,66.18,SEL-0164,0
+PROD-01396,Beauty Item 1396,Beauty,395.6,206.27,SEL-0410,0
+PROD-01397,Footwear Item 1397,Footwear,269.86,154.55,SEL-0407,0
+PROD-01398,Beauty Item 1398,Beauty,88.34,37.37,SEL-0442,0
+PROD-01399,Footwear Item 1399,Footwear,253.1,144.66,SEL-0112,0
+PROD-01400,Electronics Item 1400,Electronics,163.53,74.05,SEL-0386,1
+PROD-01401,Electronics Item 1401,Electronics,289.19,177.67,SEL-0008,1
+PROD-01402,Footwear Item 1402,Footwear,393.52,209.77,SEL-0451,0
+PROD-01403,Home & Kitchen Item 1403,Home & Kitchen,162.67,89.37,SEL-0486,0
+PROD-01404,Electronics Item 1404,Electronics,359.32,189.03,SEL-0065,1
+PROD-01405,Home & Kitchen Item 1405,Home & Kitchen,275.19,151.18,SEL-0034,0
+PROD-01406,Electronics Item 1406,Electronics,70.86,31.54,SEL-0192,1
+PROD-01407,Apparel Item 1407,Apparel,44.17,23.77,SEL-0292,1
+PROD-01408,Apparel Item 1408,Apparel,84.92,36.74,SEL-0447,1
+PROD-01409,Footwear Item 1409,Footwear,81.94,46.54,SEL-0237,0
+PROD-01410,Beauty Item 1410,Beauty,298.12,178.84,SEL-0239,0
+PROD-01411,Apparel Item 1411,Apparel,276.61,114.37,SEL-0019,1
+PROD-01412,Electronics Item 1412,Electronics,159.49,85.31,SEL-0085,1
+PROD-01413,Electronics Item 1413,Electronics,30.68,16.24,SEL-0081,1
+PROD-01414,Apparel Item 1414,Apparel,147.65,90.15,SEL-0213,1
+PROD-01415,Apparel Item 1415,Apparel,200.23,85.66,SEL-0026,1
+PROD-01416,Beauty Item 1416,Beauty,331.3,203.43,SEL-0224,0
+PROD-01417,Apparel Item 1417,Apparel,103.85,43.01,SEL-0468,1
+PROD-01418,Footwear Item 1418,Footwear,62.69,32.56,SEL-0005,0
+PROD-01419,Beauty Item 1419,Beauty,250.2,101.66,SEL-0168,0
+PROD-01420,Apparel Item 1420,Apparel,286.38,146.45,SEL-0097,1
+PROD-01421,Electronics Item 1421,Electronics,402.88,237.68,SEL-0327,1
+PROD-01422,Apparel Item 1422,Apparel,281.3,165.75,SEL-0232,1
+PROD-01423,Footwear Item 1423,Footwear,123.41,54.77,SEL-0081,0
+PROD-01424,Footwear Item 1424,Footwear,210.07,108.24,SEL-0241,0
+PROD-01425,Electronics Item 1425,Electronics,116.69,61.39,SEL-0364,1
+PROD-01426,Beauty Item 1426,Beauty,102.65,45.64,SEL-0141,0
+PROD-01427,Electronics Item 1427,Electronics,85.8,48.69,SEL-0318,1
+PROD-01428,Apparel Item 1428,Apparel,344.91,205.97,SEL-0015,1
+PROD-01429,Electronics Item 1429,Electronics,108.92,59.53,SEL-0331,1
+PROD-01430,Beauty Item 1430,Beauty,447.92,262.48,SEL-0056,0
+PROD-01431,Home & Kitchen Item 1431,Home & Kitchen,72.95,39.14,SEL-0318,0
+PROD-01432,Electronics Item 1432,Electronics,138.43,87.58,SEL-0289,1
+PROD-01433,Beauty Item 1433,Beauty,383.71,185.76,SEL-0417,0
+PROD-01434,Home & Kitchen Item 1434,Home & Kitchen,150.58,62.99,SEL-0494,0
+PROD-01435,Beauty Item 1435,Beauty,213.61,102.84,SEL-0185,0
+PROD-01436,Beauty Item 1436,Beauty,120.94,63.22,SEL-0187,0
+PROD-01437,Home & Kitchen Item 1437,Home & Kitchen,443.59,208.94,SEL-0298,0
+PROD-01438,Electronics Item 1438,Electronics,340.45,146.93,SEL-0141,1
+PROD-01439,Home & Kitchen Item 1439,Home & Kitchen,333.82,186.34,SEL-0415,0
+PROD-01440,Electronics Item 1440,Electronics,57.76,31.1,SEL-0010,1
+PROD-01441,Beauty Item 1441,Beauty,310.65,197.62,SEL-0127,0
+PROD-01442,Electronics Item 1442,Electronics,253.73,113.27,SEL-0289,1
+PROD-01443,Footwear Item 1443,Footwear,100.99,45.11,SEL-0011,0
+PROD-01444,Home & Kitchen Item 1444,Home & Kitchen,171.69,86.15,SEL-0317,0
+PROD-01445,Home & Kitchen Item 1445,Home & Kitchen,161.87,77.15,SEL-0468,0
+PROD-01446,Apparel Item 1446,Apparel,362.97,220.83,SEL-0273,1
+PROD-01447,Beauty Item 1447,Beauty,101.16,53.06,SEL-0489,0
+PROD-01448,Beauty Item 1448,Beauty,20.74,12.19,SEL-0389,0
+PROD-01449,Electronics Item 1449,Electronics,292.32,167.76,SEL-0221,1
+PROD-01450,Footwear Item 1450,Footwear,97.65,43.02,SEL-0238,0
+PROD-01451,Beauty Item 1451,Beauty,187.74,89.91,SEL-0184,0
+PROD-01452,Footwear Item 1452,Footwear,251.13,124.53,SEL-0465,0
+PROD-01453,Apparel Item 1453,Apparel,96.26,51.97,SEL-0045,1
+PROD-01454,Home & Kitchen Item 1454,Home & Kitchen,89.42,50.9,SEL-0328,0
+PROD-01455,Footwear Item 1455,Footwear,176.7,79.86,SEL-0444,0
+PROD-01456,Beauty Item 1456,Beauty,148.82,66.58,SEL-0080,0
+PROD-01457,Home & Kitchen Item 1457,Home & Kitchen,444.32,271.2,SEL-0032,0
+PROD-01458,Footwear Item 1458,Footwear,176.24,75.72,SEL-0307,0
+PROD-01459,Footwear Item 1459,Footwear,353.76,188.95,SEL-0192,0
+PROD-01460,Electronics Item 1460,Electronics,299.56,180.07,SEL-0274,1
+PROD-01461,Home & Kitchen Item 1461,Home & Kitchen,351.72,211.04,SEL-0461,0
+PROD-01462,Footwear Item 1462,Footwear,34.81,21.36,SEL-0481,0
+PROD-01463,Electronics Item 1463,Electronics,416.18,198.26,SEL-0355,1
+PROD-01464,Beauty Item 1464,Beauty,54.02,34.77,SEL-0370,0
+PROD-01465,Footwear Item 1465,Footwear,76.78,32.8,SEL-0467,0
+PROD-01466,Electronics Item 1466,Electronics,302.83,190.07,SEL-0035,1
+PROD-01467,Electronics Item 1467,Electronics,154.41,85.77,SEL-0192,1
+PROD-01468,Home & Kitchen Item 1468,Home & Kitchen,165.98,73.42,SEL-0146,0
+PROD-01469,Electronics Item 1469,Electronics,305.67,176.74,SEL-0442,1
+PROD-01470,Footwear Item 1470,Footwear,32.38,14.82,SEL-0440,0
+PROD-01471,Apparel Item 1471,Apparel,85.1,51.52,SEL-0242,1
+PROD-01472,Beauty Item 1472,Beauty,62.36,39.82,SEL-0047,0
+PROD-01473,Footwear Item 1473,Footwear,185.96,92.64,SEL-0500,0
+PROD-01474,Footwear Item 1474,Footwear,429.09,185.77,SEL-0212,0
+PROD-01475,Beauty Item 1475,Beauty,232.35,117.98,SEL-0090,0
+PROD-01476,Beauty Item 1476,Beauty,222.6,133.88,SEL-0204,0
+PROD-01477,Electronics Item 1477,Electronics,318.13,145.89,SEL-0194,1
+PROD-01478,Footwear Item 1478,Footwear,24.94,10.32,SEL-0230,0
+PROD-01479,Electronics Item 1479,Electronics,95.96,55.39,SEL-0411,1
+PROD-01480,Home & Kitchen Item 1480,Home & Kitchen,286.68,126.42,SEL-0459,0
+PROD-01481,Electronics Item 1481,Electronics,137.28,66.93,SEL-0392,1
+PROD-01482,Home & Kitchen Item 1482,Home & Kitchen,370.17,238.4,SEL-0056,0
+PROD-01483,Apparel Item 1483,Apparel,166.42,101.21,SEL-0398,1
+PROD-01484,Footwear Item 1484,Footwear,438.59,269.42,SEL-0033,0
+PROD-01485,Home & Kitchen Item 1485,Home & Kitchen,310.21,184.17,SEL-0156,0
+PROD-01486,Apparel Item 1486,Apparel,363.02,218.6,SEL-0464,1
+PROD-01487,Beauty Item 1487,Beauty,208.38,115.58,SEL-0324,0
+PROD-01488,Electronics Item 1488,Electronics,301.18,149.02,SEL-0468,1
+PROD-01489,Apparel Item 1489,Apparel,317.99,163.08,SEL-0175,1
+PROD-01490,Home & Kitchen Item 1490,Home & Kitchen,377.01,238.35,SEL-0431,0
+PROD-01491,Footwear Item 1491,Footwear,430.48,205.94,SEL-0126,0
+PROD-01492,Beauty Item 1492,Beauty,320.75,174.29,SEL-0124,0
+PROD-01493,Beauty Item 1493,Beauty,314.29,150.98,SEL-0261,0
+PROD-01494,Apparel Item 1494,Apparel,145.62,61.76,SEL-0166,1
+PROD-01495,Apparel Item 1495,Apparel,355.94,152.87,SEL-0398,1
+PROD-01496,Electronics Item 1496,Electronics,185.06,85.52,SEL-0054,1
+PROD-01497,Beauty Item 1497,Beauty,422.51,170.73,SEL-0497,0
+PROD-01498,Beauty Item 1498,Beauty,180.15,100.41,SEL-0051,0
+PROD-01499,Electronics Item 1499,Electronics,85.72,40.91,SEL-0124,1
+PROD-01500,Footwear Item 1500,Footwear,23.61,14.3,SEL-0165,0
+PROD-01501,Electronics Item 1501,Electronics,22.91,12.69,SEL-0317,1
+PROD-01502,Home & Kitchen Item 1502,Home & Kitchen,211.91,93.91,SEL-0223,0
+PROD-01503,Home & Kitchen Item 1503,Home & Kitchen,180.81,104.44,SEL-0031,0
+PROD-01504,Apparel Item 1504,Apparel,280.2,148.12,SEL-0364,1
+PROD-01505,Electronics Item 1505,Electronics,130.74,67.94,SEL-0039,1
+PROD-01506,Electronics Item 1506,Electronics,302.54,148.86,SEL-0220,1
+PROD-01507,Apparel Item 1507,Apparel,69.9,31.02,SEL-0178,1
+PROD-01508,Footwear Item 1508,Footwear,242.27,141.52,SEL-0058,0
+PROD-01509,Electronics Item 1509,Electronics,428.03,239.4,SEL-0202,1
+PROD-01510,Beauty Item 1510,Beauty,318.48,202.46,SEL-0015,0
+PROD-01511,Electronics Item 1511,Electronics,254.29,104.24,SEL-0333,1
+PROD-01512,Footwear Item 1512,Footwear,337.5,198.77,SEL-0108,0
+PROD-01513,Electronics Item 1513,Electronics,431.86,209.4,SEL-0329,1
+PROD-01514,Beauty Item 1514,Beauty,214.78,104.9,SEL-0237,0
+PROD-01515,Home & Kitchen Item 1515,Home & Kitchen,142.43,91.06,SEL-0463,0
+PROD-01516,Home & Kitchen Item 1516,Home & Kitchen,437.12,228.18,SEL-0120,0
+PROD-01517,Footwear Item 1517,Footwear,134.65,57.12,SEL-0055,0
+PROD-01518,Footwear Item 1518,Footwear,109.93,66.55,SEL-0382,0
+PROD-01519,Beauty Item 1519,Beauty,80.17,39.71,SEL-0451,0
+PROD-01520,Home & Kitchen Item 1520,Home & Kitchen,165.26,66.63,SEL-0144,0
+PROD-01521,Home & Kitchen Item 1521,Home & Kitchen,154.41,78.79,SEL-0437,0
+PROD-01522,Home & Kitchen Item 1522,Home & Kitchen,348.11,187.33,SEL-0445,0
+PROD-01523,Home & Kitchen Item 1523,Home & Kitchen,34.52,19.88,SEL-0370,0
+PROD-01524,Beauty Item 1524,Beauty,313.88,140.5,SEL-0050,0
+PROD-01525,Footwear Item 1525,Footwear,425.42,233.54,SEL-0488,0
+PROD-01526,Footwear Item 1526,Footwear,132.62,72.35,SEL-0405,0
+PROD-01527,Apparel Item 1527,Apparel,38.53,19.81,SEL-0083,1
+PROD-01528,Footwear Item 1528,Footwear,378.69,162.14,SEL-0042,0
+PROD-01529,Home & Kitchen Item 1529,Home & Kitchen,398.18,190.92,SEL-0294,0
+PROD-01530,Electronics Item 1530,Electronics,73.82,47.47,SEL-0403,1
+PROD-01531,Home & Kitchen Item 1531,Home & Kitchen,301.8,171.68,SEL-0271,0
+PROD-01532,Home & Kitchen Item 1532,Home & Kitchen,250.13,138.9,SEL-0195,0
+PROD-01533,Footwear Item 1533,Footwear,342.65,149.77,SEL-0240,0
+PROD-01534,Apparel Item 1534,Apparel,367.15,201.64,SEL-0052,1
+PROD-01535,Beauty Item 1535,Beauty,43.26,22.09,SEL-0410,0
+PROD-01536,Electronics Item 1536,Electronics,390.96,191.83,SEL-0396,1
+PROD-01537,Electronics Item 1537,Electronics,97.64,61.73,SEL-0226,1
+PROD-01538,Apparel Item 1538,Apparel,431.03,184.82,SEL-0026,1
+PROD-01539,Home & Kitchen Item 1539,Home & Kitchen,342.51,206.33,SEL-0018,0
+PROD-01540,Beauty Item 1540,Beauty,55.98,34.28,SEL-0488,0
+PROD-01541,Beauty Item 1541,Beauty,117.54,72.66,SEL-0049,0
+PROD-01542,Beauty Item 1542,Beauty,162.71,81.38,SEL-0337,0
+PROD-01543,Footwear Item 1543,Footwear,338.33,150.64,SEL-0008,0
+PROD-01544,Home & Kitchen Item 1544,Home & Kitchen,273.57,124.07,SEL-0498,0
+PROD-01545,Electronics Item 1545,Electronics,58.17,29.89,SEL-0089,1
+PROD-01546,Electronics Item 1546,Electronics,356.79,151.35,SEL-0392,1
+PROD-01547,Home & Kitchen Item 1547,Home & Kitchen,273.18,157.06,SEL-0154,0
+PROD-01548,Electronics Item 1548,Electronics,252.66,163.38,SEL-0158,1
+PROD-01549,Footwear Item 1549,Footwear,282.48,122.49,SEL-0437,0
+PROD-01550,Beauty Item 1550,Beauty,362.96,193.64,SEL-0196,0
+PROD-01551,Electronics Item 1551,Electronics,304.62,188.38,SEL-0021,1
+PROD-01552,Footwear Item 1552,Footwear,279.83,112.87,SEL-0024,0
+PROD-01553,Beauty Item 1553,Beauty,31.97,19.7,SEL-0457,0
+PROD-01554,Home & Kitchen Item 1554,Home & Kitchen,293.67,117.55,SEL-0297,0
+PROD-01555,Home & Kitchen Item 1555,Home & Kitchen,441.41,229.88,SEL-0420,0
+PROD-01556,Footwear Item 1556,Footwear,384.1,176.4,SEL-0400,0
+PROD-01557,Footwear Item 1557,Footwear,378.67,229.35,SEL-0274,0
+PROD-01558,Footwear Item 1558,Footwear,66.48,35.68,SEL-0079,0
+PROD-01559,Electronics Item 1559,Electronics,331.59,206.6,SEL-0127,1
+PROD-01560,Home & Kitchen Item 1560,Home & Kitchen,407.74,189.68,SEL-0179,0
+PROD-01561,Electronics Item 1561,Electronics,329.8,175.06,SEL-0214,1
+PROD-01562,Electronics Item 1562,Electronics,444.58,238.39,SEL-0499,1
+PROD-01563,Beauty Item 1563,Beauty,189.6,85.73,SEL-0044,0
+PROD-01564,Footwear Item 1564,Footwear,422.94,170.32,SEL-0281,0
+PROD-01565,Electronics Item 1565,Electronics,285.78,129.14,SEL-0336,1
+PROD-01566,Beauty Item 1566,Beauty,294.76,151.75,SEL-0475,0
+PROD-01567,Apparel Item 1567,Apparel,36.65,19.62,SEL-0159,1
+PROD-01568,Beauty Item 1568,Beauty,162.81,67.64,SEL-0478,0
+PROD-01569,Apparel Item 1569,Apparel,349.82,213.51,SEL-0194,1
+PROD-01570,Apparel Item 1570,Apparel,204.07,103.26,SEL-0194,1
+PROD-01571,Apparel Item 1571,Apparel,391.73,230.17,SEL-0094,1
+PROD-01572,Apparel Item 1572,Apparel,409.37,203.57,SEL-0205,1
+PROD-01573,Footwear Item 1573,Footwear,167.13,70.18,SEL-0216,0
+PROD-01574,Electronics Item 1574,Electronics,307.57,163.22,SEL-0079,1
+PROD-01575,Electronics Item 1575,Electronics,91.7,51.98,SEL-0442,1
+PROD-01576,Apparel Item 1576,Apparel,231.33,133.96,SEL-0232,1
+PROD-01577,Electronics Item 1577,Electronics,406.26,247.55,SEL-0002,1
+PROD-01578,Apparel Item 1578,Apparel,447.25,260.25,SEL-0050,1
+PROD-01579,Electronics Item 1579,Electronics,270.9,159.07,SEL-0076,1
+PROD-01580,Beauty Item 1580,Beauty,346.25,175.4,SEL-0337,0
+PROD-01581,Footwear Item 1581,Footwear,425.62,212.36,SEL-0497,0
+PROD-01582,Home & Kitchen Item 1582,Home & Kitchen,83.23,45.06,SEL-0316,0
+PROD-01583,Apparel Item 1583,Apparel,385.38,200.75,SEL-0341,1
+PROD-01584,Beauty Item 1584,Beauty,320.17,151.77,SEL-0312,0
+PROD-01585,Beauty Item 1585,Beauty,116.67,72.58,SEL-0134,0
+PROD-01586,Footwear Item 1586,Footwear,440.8,280.52,SEL-0134,0
+PROD-01587,Footwear Item 1587,Footwear,85.15,43.68,SEL-0194,0
+PROD-01588,Apparel Item 1588,Apparel,127.68,63.28,SEL-0433,1
+PROD-01589,Apparel Item 1589,Apparel,371.39,177.9,SEL-0197,1
+PROD-01590,Beauty Item 1590,Beauty,439.82,247.52,SEL-0142,0
+PROD-01591,Beauty Item 1591,Beauty,81.05,44.54,SEL-0264,0
+PROD-01592,Footwear Item 1592,Footwear,235.3,123.37,SEL-0441,0
+PROD-01593,Apparel Item 1593,Apparel,366.73,217.54,SEL-0371,1
+PROD-01594,Apparel Item 1594,Apparel,75.34,45.91,SEL-0449,1
+PROD-01595,Beauty Item 1595,Beauty,432.43,188.58,SEL-0402,0
+PROD-01596,Home & Kitchen Item 1596,Home & Kitchen,27.94,16.22,SEL-0090,0
+PROD-01597,Beauty Item 1597,Beauty,69.29,35.68,SEL-0289,0
+PROD-01598,Home & Kitchen Item 1598,Home & Kitchen,254.33,114.46,SEL-0236,0
+PROD-01599,Apparel Item 1599,Apparel,289.98,118.53,SEL-0032,1
+PROD-01600,Beauty Item 1600,Beauty,264.81,129.76,SEL-0088,0
+PROD-01601,Footwear Item 1601,Footwear,286.51,173.12,SEL-0218,0
+PROD-01602,Electronics Item 1602,Electronics,129.54,53.94,SEL-0228,1
+PROD-01603,Apparel Item 1603,Apparel,264.07,163.88,SEL-0089,1
+PROD-01604,Apparel Item 1604,Apparel,152.34,63.08,SEL-0211,1
+PROD-01605,Beauty Item 1605,Beauty,380.03,198.32,SEL-0487,0
+PROD-01606,Electronics Item 1606,Electronics,241.54,115.16,SEL-0057,1
+PROD-01607,Electronics Item 1607,Electronics,273.2,165.17,SEL-0248,1
+PROD-01608,Electronics Item 1608,Electronics,266.25,173.06,SEL-0430,1
+PROD-01609,Beauty Item 1609,Beauty,41.6,22.96,SEL-0214,0
+PROD-01610,Beauty Item 1610,Beauty,47.98,29.45,SEL-0348,0
+PROD-01611,Home & Kitchen Item 1611,Home & Kitchen,378.43,225.35,SEL-0120,0
+PROD-01612,Home & Kitchen Item 1612,Home & Kitchen,437.71,213.36,SEL-0277,0
+PROD-01613,Home & Kitchen Item 1613,Home & Kitchen,38.92,18.39,SEL-0153,0
+PROD-01614,Footwear Item 1614,Footwear,353.34,205.52,SEL-0140,0
+PROD-01615,Apparel Item 1615,Apparel,353.24,195.0,SEL-0273,1
+PROD-01616,Home & Kitchen Item 1616,Home & Kitchen,188.73,101.42,SEL-0426,0
+PROD-01617,Footwear Item 1617,Footwear,397.88,219.79,SEL-0317,0
+PROD-01618,Footwear Item 1618,Footwear,26.28,14.01,SEL-0302,0
+PROD-01619,Beauty Item 1619,Beauty,419.41,170.1,SEL-0276,0
+PROD-01620,Electronics Item 1620,Electronics,375.85,238.98,SEL-0199,1
+PROD-01621,Electronics Item 1621,Electronics,81.92,43.5,SEL-0303,1
+PROD-01622,Home & Kitchen Item 1622,Home & Kitchen,204.02,98.89,SEL-0037,0
+PROD-01623,Apparel Item 1623,Apparel,243.67,130.66,SEL-0219,1
+PROD-01624,Apparel Item 1624,Apparel,140.74,81.85,SEL-0280,1
+PROD-01625,Apparel Item 1625,Apparel,238.11,137.12,SEL-0210,1
+PROD-01626,Footwear Item 1626,Footwear,341.53,219.42,SEL-0307,0
+PROD-01627,Footwear Item 1627,Footwear,43.98,21.44,SEL-0331,0
+PROD-01628,Footwear Item 1628,Footwear,410.6,259.3,SEL-0115,0
+PROD-01629,Beauty Item 1629,Beauty,286.87,117.05,SEL-0268,0
+PROD-01630,Footwear Item 1630,Footwear,133.13,58.08,SEL-0484,0
+PROD-01631,Apparel Item 1631,Apparel,81.78,48.6,SEL-0430,1
+PROD-01632,Apparel Item 1632,Apparel,163.56,73.43,SEL-0412,1
+PROD-01633,Electronics Item 1633,Electronics,69.21,40.02,SEL-0228,1
+PROD-01634,Apparel Item 1634,Apparel,76.35,35.65,SEL-0033,1
+PROD-01635,Footwear Item 1635,Footwear,296.62,163.02,SEL-0462,0
+PROD-01636,Footwear Item 1636,Footwear,310.06,132.82,SEL-0076,0
+PROD-01637,Home & Kitchen Item 1637,Home & Kitchen,108.29,67.98,SEL-0436,0
+PROD-01638,Beauty Item 1638,Beauty,126.96,75.72,SEL-0301,0
+PROD-01639,Apparel Item 1639,Apparel,398.54,250.69,SEL-0291,1
+PROD-01640,Beauty Item 1640,Beauty,91.33,48.58,SEL-0324,0
+PROD-01641,Apparel Item 1641,Apparel,343.39,203.66,SEL-0304,1
+PROD-01642,Electronics Item 1642,Electronics,83.92,52.9,SEL-0202,1
+PROD-01643,Electronics Item 1643,Electronics,274.54,125.67,SEL-0031,1
+PROD-01644,Beauty Item 1644,Beauty,344.49,214.08,SEL-0061,0
+PROD-01645,Footwear Item 1645,Footwear,196.58,118.3,SEL-0231,0
+PROD-01646,Home & Kitchen Item 1646,Home & Kitchen,62.87,38.5,SEL-0037,0
+PROD-01647,Apparel Item 1647,Apparel,119.62,76.3,SEL-0012,1
+PROD-01648,Apparel Item 1648,Apparel,366.91,172.65,SEL-0291,1
+PROD-01649,Home & Kitchen Item 1649,Home & Kitchen,418.95,201.99,SEL-0056,0
+PROD-01650,Beauty Item 1650,Beauty,326.77,186.1,SEL-0065,0
+PROD-01651,Beauty Item 1651,Beauty,268.65,158.96,SEL-0331,0
+PROD-01652,Apparel Item 1652,Apparel,397.55,202.85,SEL-0166,1
+PROD-01653,Electronics Item 1653,Electronics,327.54,171.83,SEL-0078,1
+PROD-01654,Home & Kitchen Item 1654,Home & Kitchen,382.76,216.81,SEL-0471,0
+PROD-01655,Apparel Item 1655,Apparel,251.53,106.27,SEL-0004,1
+PROD-01656,Electronics Item 1656,Electronics,50.34,21.0,SEL-0279,1
+PROD-01657,Beauty Item 1657,Beauty,73.9,38.05,SEL-0053,0
+PROD-01658,Electronics Item 1658,Electronics,96.27,51.21,SEL-0240,1
+PROD-01659,Footwear Item 1659,Footwear,340.95,212.33,SEL-0441,0
+PROD-01660,Apparel Item 1660,Apparel,202.83,82.49,SEL-0112,1
+PROD-01661,Home & Kitchen Item 1661,Home & Kitchen,237.71,143.16,SEL-0095,0
+PROD-01662,Electronics Item 1662,Electronics,257.8,130.51,SEL-0374,1
+PROD-01663,Beauty Item 1663,Beauty,331.56,143.15,SEL-0077,0
+PROD-01664,Electronics Item 1664,Electronics,376.32,175.99,SEL-0030,1
+PROD-01665,Beauty Item 1665,Beauty,133.55,84.62,SEL-0333,0
+PROD-01666,Footwear Item 1666,Footwear,404.36,255.21,SEL-0337,0
+PROD-01667,Beauty Item 1667,Beauty,162.62,98.47,SEL-0153,0
+PROD-01668,Home & Kitchen Item 1668,Home & Kitchen,221.73,118.66,SEL-0019,0
+PROD-01669,Footwear Item 1669,Footwear,153.85,94.71,SEL-0200,0
+PROD-01670,Electronics Item 1670,Electronics,32.7,17.97,SEL-0095,1
+PROD-01671,Apparel Item 1671,Apparel,379.27,225.78,SEL-0414,1
+PROD-01672,Beauty Item 1672,Beauty,138.93,85.47,SEL-0141,0
+PROD-01673,Home & Kitchen Item 1673,Home & Kitchen,299.31,162.88,SEL-0048,0
+PROD-01674,Apparel Item 1674,Apparel,23.79,13.52,SEL-0422,1
+PROD-01675,Apparel Item 1675,Apparel,291.99,127.69,SEL-0325,1
+PROD-01676,Footwear Item 1676,Footwear,98.57,43.73,SEL-0169,0
+PROD-01677,Electronics Item 1677,Electronics,182.34,93.13,SEL-0090,1
+PROD-01678,Apparel Item 1678,Apparel,352.35,176.16,SEL-0420,1
+PROD-01679,Home & Kitchen Item 1679,Home & Kitchen,29.58,12.47,SEL-0071,0
+PROD-01680,Beauty Item 1680,Beauty,297.65,184.72,SEL-0303,0
+PROD-01681,Beauty Item 1681,Beauty,111.92,59.67,SEL-0027,0
+PROD-01682,Beauty Item 1682,Beauty,379.65,225.16,SEL-0455,0
+PROD-01683,Footwear Item 1683,Footwear,402.16,200.2,SEL-0114,0
+PROD-01684,Home & Kitchen Item 1684,Home & Kitchen,99.4,46.62,SEL-0223,0
+PROD-01685,Apparel Item 1685,Apparel,242.89,108.26,SEL-0382,1
+PROD-01686,Home & Kitchen Item 1686,Home & Kitchen,372.38,162.48,SEL-0365,0
+PROD-01687,Footwear Item 1687,Footwear,381.04,221.57,SEL-0231,0
+PROD-01688,Footwear Item 1688,Footwear,433.52,244.44,SEL-0437,0
+PROD-01689,Electronics Item 1689,Electronics,171.44,80.26,SEL-0468,1
+PROD-01690,Home & Kitchen Item 1690,Home & Kitchen,67.66,35.47,SEL-0239,0
+PROD-01691,Beauty Item 1691,Beauty,222.33,90.69,SEL-0301,0
+PROD-01692,Footwear Item 1692,Footwear,229.86,128.59,SEL-0180,0
+PROD-01693,Footwear Item 1693,Footwear,285.68,130.65,SEL-0486,0
+PROD-01694,Electronics Item 1694,Electronics,150.16,73.79,SEL-0478,1
+PROD-01695,Beauty Item 1695,Beauty,275.57,131.32,SEL-0427,0
+PROD-01696,Footwear Item 1696,Footwear,27.42,15.96,SEL-0459,0
+PROD-01697,Apparel Item 1697,Apparel,70.86,29.83,SEL-0173,1
+PROD-01698,Beauty Item 1698,Beauty,417.28,232.77,SEL-0258,0
+PROD-01699,Home & Kitchen Item 1699,Home & Kitchen,272.63,137.96,SEL-0386,0
+PROD-01700,Electronics Item 1700,Electronics,135.88,72.34,SEL-0022,1
+PROD-01701,Apparel Item 1701,Apparel,209.95,136.29,SEL-0039,1
+PROD-01702,Apparel Item 1702,Apparel,390.02,201.16,SEL-0054,1
+PROD-01703,Home & Kitchen Item 1703,Home & Kitchen,255.85,134.7,SEL-0321,0
+PROD-01704,Electronics Item 1704,Electronics,178.2,77.47,SEL-0339,1
+PROD-01705,Footwear Item 1705,Footwear,150.45,94.26,SEL-0372,0
+PROD-01706,Electronics Item 1706,Electronics,353.78,203.46,SEL-0181,1
+PROD-01707,Footwear Item 1707,Footwear,446.18,212.75,SEL-0072,0
+PROD-01708,Home & Kitchen Item 1708,Home & Kitchen,247.77,114.71,SEL-0238,0
+PROD-01709,Home & Kitchen Item 1709,Home & Kitchen,46.41,22.85,SEL-0198,0
+PROD-01710,Apparel Item 1710,Apparel,296.76,158.92,SEL-0041,1
+PROD-01711,Apparel Item 1711,Apparel,397.86,239.11,SEL-0056,1
+PROD-01712,Apparel Item 1712,Apparel,339.09,169.06,SEL-0135,1
+PROD-01713,Home & Kitchen Item 1713,Home & Kitchen,298.54,125.66,SEL-0315,0
+PROD-01714,Footwear Item 1714,Footwear,130.87,70.99,SEL-0099,0
+PROD-01715,Home & Kitchen Item 1715,Home & Kitchen,305.58,158.87,SEL-0301,0
+PROD-01716,Home & Kitchen Item 1716,Home & Kitchen,145.85,67.39,SEL-0052,0
+PROD-01717,Apparel Item 1717,Apparel,271.2,168.97,SEL-0386,1
+PROD-01718,Electronics Item 1718,Electronics,441.36,227.31,SEL-0065,1
+PROD-01719,Apparel Item 1719,Apparel,375.81,187.09,SEL-0398,1
+PROD-01720,Electronics Item 1720,Electronics,211.45,131.29,SEL-0353,1
+PROD-01721,Footwear Item 1721,Footwear,212.92,124.94,SEL-0214,0
+PROD-01722,Footwear Item 1722,Footwear,120.78,58.14,SEL-0341,0
+PROD-01723,Beauty Item 1723,Beauty,183.32,79.46,SEL-0408,0
+PROD-01724,Beauty Item 1724,Beauty,391.56,206.34,SEL-0483,0
+PROD-01725,Beauty Item 1725,Beauty,176.56,76.22,SEL-0034,0
+PROD-01726,Footwear Item 1726,Footwear,346.62,150.01,SEL-0280,0
+PROD-01727,Apparel Item 1727,Apparel,266.9,115.96,SEL-0378,1
+PROD-01728,Apparel Item 1728,Apparel,237.8,110.65,SEL-0133,1
+PROD-01729,Apparel Item 1729,Apparel,442.44,253.98,SEL-0499,1
+PROD-01730,Home & Kitchen Item 1730,Home & Kitchen,247.51,155.93,SEL-0408,0
+PROD-01731,Beauty Item 1731,Beauty,386.39,205.65,SEL-0058,0
+PROD-01732,Apparel Item 1732,Apparel,424.11,224.53,SEL-0140,1
+PROD-01733,Beauty Item 1733,Beauty,373.84,192.02,SEL-0420,0
+PROD-01734,Beauty Item 1734,Beauty,114.88,57.82,SEL-0350,0
+PROD-01735,Home & Kitchen Item 1735,Home & Kitchen,343.62,168.61,SEL-0038,0
+PROD-01736,Footwear Item 1736,Footwear,402.57,241.75,SEL-0228,0
+PROD-01737,Apparel Item 1737,Apparel,356.4,171.19,SEL-0182,1
+PROD-01738,Home & Kitchen Item 1738,Home & Kitchen,64.24,28.86,SEL-0002,0
+PROD-01739,Footwear Item 1739,Footwear,143.66,88.69,SEL-0239,0
+PROD-01740,Footwear Item 1740,Footwear,233.56,109.67,SEL-0278,0
+PROD-01741,Apparel Item 1741,Apparel,270.95,173.55,SEL-0352,1
+PROD-01742,Beauty Item 1742,Beauty,53.71,27.16,SEL-0370,0
+PROD-01743,Electronics Item 1743,Electronics,326.89,161.74,SEL-0339,1
+PROD-01744,Beauty Item 1744,Beauty,191.29,118.43,SEL-0079,0
+PROD-01745,Beauty Item 1745,Beauty,242.52,122.24,SEL-0112,0
+PROD-01746,Electronics Item 1746,Electronics,365.36,187.04,SEL-0151,1
+PROD-01747,Footwear Item 1747,Footwear,388.91,221.62,SEL-0132,0
+PROD-01748,Electronics Item 1748,Electronics,398.56,188.42,SEL-0469,1
+PROD-01749,Electronics Item 1749,Electronics,110.87,60.31,SEL-0159,1
+PROD-01750,Home & Kitchen Item 1750,Home & Kitchen,182.19,79.65,SEL-0278,0
+PROD-01751,Home & Kitchen Item 1751,Home & Kitchen,411.28,166.61,SEL-0003,0
+PROD-01752,Home & Kitchen Item 1752,Home & Kitchen,141.56,76.81,SEL-0349,0
+PROD-01753,Footwear Item 1753,Footwear,444.76,227.39,SEL-0268,0
+PROD-01754,Electronics Item 1754,Electronics,309.13,134.22,SEL-0027,1
+PROD-01755,Apparel Item 1755,Apparel,343.89,174.98,SEL-0426,1
+PROD-01756,Electronics Item 1756,Electronics,190.3,86.77,SEL-0036,1
+PROD-01757,Footwear Item 1757,Footwear,381.32,162.12,SEL-0330,0
+PROD-01758,Home & Kitchen Item 1758,Home & Kitchen,374.09,173.24,SEL-0302,0
+PROD-01759,Footwear Item 1759,Footwear,302.03,167.52,SEL-0112,0
+PROD-01760,Home & Kitchen Item 1760,Home & Kitchen,323.74,202.71,SEL-0439,0
+PROD-01761,Footwear Item 1761,Footwear,131.57,81.58,SEL-0034,0
+PROD-01762,Apparel Item 1762,Apparel,142.74,76.11,SEL-0294,1
+PROD-01763,Home & Kitchen Item 1763,Home & Kitchen,191.26,119.94,SEL-0363,0
+PROD-01764,Home & Kitchen Item 1764,Home & Kitchen,429.4,203.31,SEL-0418,0
+PROD-01765,Electronics Item 1765,Electronics,432.79,221.31,SEL-0059,1
+PROD-01766,Footwear Item 1766,Footwear,283.32,163.26,SEL-0248,0
+PROD-01767,Beauty Item 1767,Beauty,319.02,130.76,SEL-0269,0
+PROD-01768,Beauty Item 1768,Beauty,133.92,55.57,SEL-0412,0
+PROD-01769,Electronics Item 1769,Electronics,304.55,176.07,SEL-0291,1
+PROD-01770,Footwear Item 1770,Footwear,138.43,55.61,SEL-0480,0
+PROD-01771,Apparel Item 1771,Apparel,221.84,102.51,SEL-0225,1
+PROD-01772,Electronics Item 1772,Electronics,29.92,17.15,SEL-0035,1
+PROD-01773,Home & Kitchen Item 1773,Home & Kitchen,18.18,10.05,SEL-0462,0
+PROD-01774,Apparel Item 1774,Apparel,99.71,44.84,SEL-0227,1
+PROD-01775,Footwear Item 1775,Footwear,337.64,164.73,SEL-0395,0
+PROD-01776,Home & Kitchen Item 1776,Home & Kitchen,381.8,219.4,SEL-0267,0
+PROD-01777,Beauty Item 1777,Beauty,252.46,106.31,SEL-0048,0
+PROD-01778,Footwear Item 1778,Footwear,149.52,82.43,SEL-0362,0
+PROD-01779,Home & Kitchen Item 1779,Home & Kitchen,128.32,75.27,SEL-0027,0
+PROD-01780,Footwear Item 1780,Footwear,117.96,51.0,SEL-0214,0
+PROD-01781,Home & Kitchen Item 1781,Home & Kitchen,275.97,128.15,SEL-0025,0
+PROD-01782,Footwear Item 1782,Footwear,315.4,185.62,SEL-0004,0
+PROD-01783,Beauty Item 1783,Beauty,18.49,11.68,SEL-0494,0
+PROD-01784,Electronics Item 1784,Electronics,148.99,88.91,SEL-0027,1
+PROD-01785,Home & Kitchen Item 1785,Home & Kitchen,74.59,47.76,SEL-0064,0
+PROD-01786,Home & Kitchen Item 1786,Home & Kitchen,377.24,162.76,SEL-0496,0
+PROD-01787,Beauty Item 1787,Beauty,444.27,178.19,SEL-0254,0
+PROD-01788,Electronics Item 1788,Electronics,186.55,108.28,SEL-0088,1
+PROD-01789,Footwear Item 1789,Footwear,233.38,121.93,SEL-0010,0
+PROD-01790,Home & Kitchen Item 1790,Home & Kitchen,125.8,64.03,SEL-0104,0
+PROD-01791,Electronics Item 1791,Electronics,360.17,186.1,SEL-0312,1
+PROD-01792,Footwear Item 1792,Footwear,436.13,224.93,SEL-0486,0
+PROD-01793,Home & Kitchen Item 1793,Home & Kitchen,315.25,141.22,SEL-0169,0
+PROD-01794,Home & Kitchen Item 1794,Home & Kitchen,81.51,39.84,SEL-0280,0
+PROD-01795,Footwear Item 1795,Footwear,193.95,97.38,SEL-0157,0
+PROD-01796,Beauty Item 1796,Beauty,162.93,103.2,SEL-0013,0
+PROD-01797,Electronics Item 1797,Electronics,203.62,87.66,SEL-0434,1
+PROD-01798,Home & Kitchen Item 1798,Home & Kitchen,274.15,135.41,SEL-0151,0
+PROD-01799,Footwear Item 1799,Footwear,265.39,119.29,SEL-0140,0
+PROD-01800,Home & Kitchen Item 1800,Home & Kitchen,41.08,17.68,SEL-0255,0
+PROD-01801,Footwear Item 1801,Footwear,39.51,19.85,SEL-0305,0
+PROD-01802,Home & Kitchen Item 1802,Home & Kitchen,52.48,29.37,SEL-0388,0
+PROD-01803,Apparel Item 1803,Apparel,394.61,237.01,SEL-0423,1
+PROD-01804,Beauty Item 1804,Beauty,439.06,178.9,SEL-0034,0
+PROD-01805,Electronics Item 1805,Electronics,331.59,142.32,SEL-0196,1
+PROD-01806,Beauty Item 1806,Beauty,208.4,117.65,SEL-0367,0
+PROD-01807,Beauty Item 1807,Beauty,101.58,44.8,SEL-0066,0
+PROD-01808,Electronics Item 1808,Electronics,381.12,224.1,SEL-0248,1
+PROD-01809,Beauty Item 1809,Beauty,274.62,130.39,SEL-0458,0
+PROD-01810,Apparel Item 1810,Apparel,396.14,176.14,SEL-0405,1
+PROD-01811,Footwear Item 1811,Footwear,417.24,271.14,SEL-0208,0
+PROD-01812,Electronics Item 1812,Electronics,32.91,18.23,SEL-0242,1
+PROD-01813,Footwear Item 1813,Footwear,67.57,30.33,SEL-0429,0
+PROD-01814,Home & Kitchen Item 1814,Home & Kitchen,193.94,101.08,SEL-0436,0
+PROD-01815,Apparel Item 1815,Apparel,26.22,10.7,SEL-0103,1
+PROD-01816,Footwear Item 1816,Footwear,130.89,53.77,SEL-0077,0
+PROD-01817,Footwear Item 1817,Footwear,410.96,260.58,SEL-0089,0
+PROD-01818,Electronics Item 1818,Electronics,315.11,189.5,SEL-0195,1
+PROD-01819,Home & Kitchen Item 1819,Home & Kitchen,98.3,47.77,SEL-0401,0
+PROD-01820,Electronics Item 1820,Electronics,417.25,226.66,SEL-0412,1
+PROD-01821,Home & Kitchen Item 1821,Home & Kitchen,205.62,106.43,SEL-0433,0
+PROD-01822,Electronics Item 1822,Electronics,38.71,21.2,SEL-0434,1
+PROD-01823,Footwear Item 1823,Footwear,174.97,110.03,SEL-0084,0
+PROD-01824,Footwear Item 1824,Footwear,221.52,130.8,SEL-0210,0
+PROD-01825,Apparel Item 1825,Apparel,308.2,138.51,SEL-0313,1
+PROD-01826,Footwear Item 1826,Footwear,434.96,198.14,SEL-0405,0
+PROD-01827,Beauty Item 1827,Beauty,416.14,263.73,SEL-0417,0
+PROD-01828,Footwear Item 1828,Footwear,176.39,70.8,SEL-0232,0
+PROD-01829,Beauty Item 1829,Beauty,234.73,127.04,SEL-0330,0
+PROD-01830,Footwear Item 1830,Footwear,148.85,62.61,SEL-0300,0
+PROD-01831,Beauty Item 1831,Beauty,424.27,221.65,SEL-0260,0
+PROD-01832,Beauty Item 1832,Beauty,345.93,184.67,SEL-0420,0
+PROD-01833,Footwear Item 1833,Footwear,30.27,17.81,SEL-0369,0
+PROD-01834,Beauty Item 1834,Beauty,431.06,188.04,SEL-0281,0
+PROD-01835,Apparel Item 1835,Apparel,345.25,172.43,SEL-0378,1
+PROD-01836,Home & Kitchen Item 1836,Home & Kitchen,224.69,135.94,SEL-0003,0
+PROD-01837,Beauty Item 1837,Beauty,408.18,165.07,SEL-0461,0
+PROD-01838,Beauty Item 1838,Beauty,296.05,187.2,SEL-0141,0
+PROD-01839,Apparel Item 1839,Apparel,310.4,155.11,SEL-0065,1
+PROD-01840,Apparel Item 1840,Apparel,268.87,123.72,SEL-0327,1
+PROD-01841,Electronics Item 1841,Electronics,332.64,210.12,SEL-0174,1
+PROD-01842,Home & Kitchen Item 1842,Home & Kitchen,115.98,62.78,SEL-0222,0
+PROD-01843,Electronics Item 1843,Electronics,99.17,54.51,SEL-0438,1
+PROD-01844,Beauty Item 1844,Beauty,424.71,171.73,SEL-0287,0
+PROD-01845,Apparel Item 1845,Apparel,245.56,140.52,SEL-0050,1
+PROD-01846,Beauty Item 1846,Beauty,330.42,206.12,SEL-0214,0
+PROD-01847,Footwear Item 1847,Footwear,112.26,63.19,SEL-0394,0
+PROD-01848,Home & Kitchen Item 1848,Home & Kitchen,26.29,12.65,SEL-0015,0
+PROD-01849,Footwear Item 1849,Footwear,113.84,73.86,SEL-0055,0
+PROD-01850,Apparel Item 1850,Apparel,379.46,233.06,SEL-0151,1
+PROD-01851,Apparel Item 1851,Apparel,386.84,221.96,SEL-0445,1
+PROD-01852,Apparel Item 1852,Apparel,194.41,89.06,SEL-0225,1
+PROD-01853,Home & Kitchen Item 1853,Home & Kitchen,353.71,160.89,SEL-0306,0
+PROD-01854,Electronics Item 1854,Electronics,439.92,281.75,SEL-0456,1
+PROD-01855,Beauty Item 1855,Beauty,325.69,170.91,SEL-0477,0
+PROD-01856,Beauty Item 1856,Beauty,183.38,103.48,SEL-0133,0
+PROD-01857,Beauty Item 1857,Beauty,118.44,50.25,SEL-0326,0
+PROD-01858,Beauty Item 1858,Beauty,113.65,66.29,SEL-0499,0
+PROD-01859,Beauty Item 1859,Beauty,298.28,160.21,SEL-0174,0
+PROD-01860,Electronics Item 1860,Electronics,370.17,166.66,SEL-0223,1
+PROD-01861,Footwear Item 1861,Footwear,47.44,27.67,SEL-0241,0
+PROD-01862,Home & Kitchen Item 1862,Home & Kitchen,37.86,18.55,SEL-0312,0
+PROD-01863,Footwear Item 1863,Footwear,81.13,38.09,SEL-0256,0
+PROD-01864,Footwear Item 1864,Footwear,42.94,22.96,SEL-0022,0
+PROD-01865,Beauty Item 1865,Beauty,58.0,36.42,SEL-0176,0
+PROD-01866,Beauty Item 1866,Beauty,185.85,96.89,SEL-0423,0
+PROD-01867,Electronics Item 1867,Electronics,142.48,69.34,SEL-0355,1
+PROD-01868,Home & Kitchen Item 1868,Home & Kitchen,197.67,115.14,SEL-0213,0
+PROD-01869,Apparel Item 1869,Apparel,317.27,164.07,SEL-0174,1
+PROD-01870,Footwear Item 1870,Footwear,267.22,142.57,SEL-0254,0
+PROD-01871,Apparel Item 1871,Apparel,161.59,103.22,SEL-0500,1
+PROD-01872,Home & Kitchen Item 1872,Home & Kitchen,144.61,59.14,SEL-0307,0
+PROD-01873,Footwear Item 1873,Footwear,201.73,109.98,SEL-0203,0
+PROD-01874,Apparel Item 1874,Apparel,231.83,121.16,SEL-0492,1
+PROD-01875,Apparel Item 1875,Apparel,175.61,81.49,SEL-0236,1
+PROD-01876,Electronics Item 1876,Electronics,371.82,226.37,SEL-0470,1
+PROD-01877,Home & Kitchen Item 1877,Home & Kitchen,442.53,275.66,SEL-0241,0
+PROD-01878,Home & Kitchen Item 1878,Home & Kitchen,55.01,33.79,SEL-0123,0
+PROD-01879,Home & Kitchen Item 1879,Home & Kitchen,415.32,175.1,SEL-0437,0
+PROD-01880,Footwear Item 1880,Footwear,26.65,14.65,SEL-0276,0
+PROD-01881,Electronics Item 1881,Electronics,88.89,54.6,SEL-0181,1
+PROD-01882,Beauty Item 1882,Beauty,204.68,129.37,SEL-0202,0
+PROD-01883,Footwear Item 1883,Footwear,204.65,91.77,SEL-0208,0
+PROD-01884,Home & Kitchen Item 1884,Home & Kitchen,163.04,70.59,SEL-0253,0
+PROD-01885,Footwear Item 1885,Footwear,261.18,146.32,SEL-0060,0
+PROD-01886,Apparel Item 1886,Apparel,121.43,56.81,SEL-0286,1
+PROD-01887,Footwear Item 1887,Footwear,179.29,72.64,SEL-0066,0
+PROD-01888,Footwear Item 1888,Footwear,370.04,220.8,SEL-0444,0
+PROD-01889,Home & Kitchen Item 1889,Home & Kitchen,344.31,140.59,SEL-0295,0
+PROD-01890,Apparel Item 1890,Apparel,103.2,48.76,SEL-0332,1
+PROD-01891,Home & Kitchen Item 1891,Home & Kitchen,95.6,50.07,SEL-0373,0
+PROD-01892,Apparel Item 1892,Apparel,57.99,27.48,SEL-0476,1
+PROD-01893,Apparel Item 1893,Apparel,184.46,103.89,SEL-0402,1
+PROD-01894,Apparel Item 1894,Apparel,274.14,128.83,SEL-0422,1
+PROD-01895,Home & Kitchen Item 1895,Home & Kitchen,118.19,50.53,SEL-0466,0
+PROD-01896,Apparel Item 1896,Apparel,328.93,186.27,SEL-0228,1
+PROD-01897,Electronics Item 1897,Electronics,413.37,250.91,SEL-0482,1
+PROD-01898,Electronics Item 1898,Electronics,65.52,26.38,SEL-0228,1
+PROD-01899,Beauty Item 1899,Beauty,271.72,168.77,SEL-0475,0
+PROD-01900,Electronics Item 1900,Electronics,268.77,161.75,SEL-0220,1
+PROD-01901,Beauty Item 1901,Beauty,55.15,24.27,SEL-0067,0
+PROD-01902,Electronics Item 1902,Electronics,246.28,147.35,SEL-0334,1
+PROD-01903,Home & Kitchen Item 1903,Home & Kitchen,102.88,48.65,SEL-0053,0
+PROD-01904,Beauty Item 1904,Beauty,276.75,119.27,SEL-0038,0
+PROD-01905,Footwear Item 1905,Footwear,172.61,88.04,SEL-0103,0
+PROD-01906,Footwear Item 1906,Footwear,304.87,128.06,SEL-0490,0
+PROD-01907,Electronics Item 1907,Electronics,326.41,204.32,SEL-0243,1
+PROD-01908,Footwear Item 1908,Footwear,95.15,47.89,SEL-0466,0
+PROD-01909,Electronics Item 1909,Electronics,88.32,55.42,SEL-0261,1
+PROD-01910,Electronics Item 1910,Electronics,346.74,185.64,SEL-0429,1
+PROD-01911,Footwear Item 1911,Footwear,40.83,18.16,SEL-0119,0
+PROD-01912,Footwear Item 1912,Footwear,74.24,41.24,SEL-0171,0
+PROD-01913,Apparel Item 1913,Apparel,307.5,149.11,SEL-0317,1
+PROD-01914,Beauty Item 1914,Beauty,113.71,46.55,SEL-0064,0
+PROD-01915,Electronics Item 1915,Electronics,151.9,80.26,SEL-0324,1
+PROD-01916,Footwear Item 1916,Footwear,288.1,124.85,SEL-0093,0
+PROD-01917,Beauty Item 1917,Beauty,151.76,72.76,SEL-0218,0
+PROD-01918,Footwear Item 1918,Footwear,290.51,132.09,SEL-0106,0
+PROD-01919,Footwear Item 1919,Footwear,231.04,139.53,SEL-0457,0
+PROD-01920,Apparel Item 1920,Apparel,62.14,27.54,SEL-0292,1
+PROD-01921,Electronics Item 1921,Electronics,433.79,226.09,SEL-0128,1
+PROD-01922,Electronics Item 1922,Electronics,147.27,61.79,SEL-0330,1
+PROD-01923,Home & Kitchen Item 1923,Home & Kitchen,423.75,174.67,SEL-0201,0
+PROD-01924,Apparel Item 1924,Apparel,431.2,278.92,SEL-0248,1
+PROD-01925,Beauty Item 1925,Beauty,121.38,64.28,SEL-0382,0
+PROD-01926,Apparel Item 1926,Apparel,374.53,169.31,SEL-0263,1
+PROD-01927,Beauty Item 1927,Beauty,343.68,190.47,SEL-0296,0
+PROD-01928,Electronics Item 1928,Electronics,242.13,125.78,SEL-0064,1
+PROD-01929,Home & Kitchen Item 1929,Home & Kitchen,385.41,202.08,SEL-0378,0
+PROD-01930,Home & Kitchen Item 1930,Home & Kitchen,396.5,255.1,SEL-0130,0
+PROD-01931,Electronics Item 1931,Electronics,313.99,126.37,SEL-0438,1
+PROD-01932,Footwear Item 1932,Footwear,121.62,57.1,SEL-0270,0
+PROD-01933,Apparel Item 1933,Apparel,385.93,176.88,SEL-0356,1
+PROD-01934,Home & Kitchen Item 1934,Home & Kitchen,148.49,61.69,SEL-0386,0
+PROD-01935,Footwear Item 1935,Footwear,310.13,177.26,SEL-0429,0
+PROD-01936,Beauty Item 1936,Beauty,157.5,63.23,SEL-0185,0
+PROD-01937,Home & Kitchen Item 1937,Home & Kitchen,416.92,190.32,SEL-0172,0
+PROD-01938,Beauty Item 1938,Beauty,35.67,18.49,SEL-0110,0
+PROD-01939,Footwear Item 1939,Footwear,139.14,59.85,SEL-0341,0
+PROD-01940,Beauty Item 1940,Beauty,125.1,51.89,SEL-0447,0
+PROD-01941,Footwear Item 1941,Footwear,54.17,24.69,SEL-0205,0
+PROD-01942,Beauty Item 1942,Beauty,286.51,171.98,SEL-0258,0
+PROD-01943,Apparel Item 1943,Apparel,414.06,195.13,SEL-0278,1
+PROD-01944,Home & Kitchen Item 1944,Home & Kitchen,20.71,11.56,SEL-0340,0
+PROD-01945,Home & Kitchen Item 1945,Home & Kitchen,383.27,242.87,SEL-0452,0
+PROD-01946,Footwear Item 1946,Footwear,72.43,36.56,SEL-0462,0
+PROD-01947,Beauty Item 1947,Beauty,268.72,119.89,SEL-0500,0
+PROD-01948,Electronics Item 1948,Electronics,85.08,41.85,SEL-0105,1
+PROD-01949,Home & Kitchen Item 1949,Home & Kitchen,126.51,68.26,SEL-0197,0
+PROD-01950,Beauty Item 1950,Beauty,148.5,79.54,SEL-0245,0
+PROD-01951,Beauty Item 1951,Beauty,315.34,133.84,SEL-0411,0
+PROD-01952,Apparel Item 1952,Apparel,351.84,183.03,SEL-0070,1
+PROD-01953,Electronics Item 1953,Electronics,169.79,77.03,SEL-0301,1
+PROD-01954,Home & Kitchen Item 1954,Home & Kitchen,401.01,185.31,SEL-0263,0
+PROD-01955,Apparel Item 1955,Apparel,68.4,37.48,SEL-0353,1
+PROD-01956,Electronics Item 1956,Electronics,285.23,143.8,SEL-0485,1
+PROD-01957,Home & Kitchen Item 1957,Home & Kitchen,376.64,155.09,SEL-0205,0
+PROD-01958,Apparel Item 1958,Apparel,280.41,169.9,SEL-0406,1
+PROD-01959,Electronics Item 1959,Electronics,365.01,151.21,SEL-0043,1
+PROD-01960,Home & Kitchen Item 1960,Home & Kitchen,75.66,45.01,SEL-0132,0
+PROD-01961,Electronics Item 1961,Electronics,246.86,144.16,SEL-0255,1
+PROD-01962,Beauty Item 1962,Beauty,311.36,180.51,SEL-0154,0
+PROD-01963,Footwear Item 1963,Footwear,195.93,84.66,SEL-0487,0
+PROD-01964,Footwear Item 1964,Footwear,148.23,85.21,SEL-0252,0
+PROD-01965,Beauty Item 1965,Beauty,220.68,136.38,SEL-0368,0
+PROD-01966,Electronics Item 1966,Electronics,379.09,159.37,SEL-0314,1
+PROD-01967,Beauty Item 1967,Beauty,114.47,55.09,SEL-0317,0
+PROD-01968,Footwear Item 1968,Footwear,113.49,70.17,SEL-0029,0
+PROD-01969,Footwear Item 1969,Footwear,333.05,215.26,SEL-0180,0
+PROD-01970,Electronics Item 1970,Electronics,447.95,201.39,SEL-0274,1
+PROD-01971,Footwear Item 1971,Footwear,396.67,234.97,SEL-0116,0
+PROD-01972,Beauty Item 1972,Beauty,134.94,86.99,SEL-0002,0
+PROD-01973,Electronics Item 1973,Electronics,440.86,227.59,SEL-0417,1
+PROD-01974,Beauty Item 1974,Beauty,222.3,142.29,SEL-0377,0
+PROD-01975,Electronics Item 1975,Electronics,155.7,92.54,SEL-0168,1
+PROD-01976,Footwear Item 1976,Footwear,381.58,158.12,SEL-0292,0
+PROD-01977,Home & Kitchen Item 1977,Home & Kitchen,21.93,13.35,SEL-0001,0
+PROD-01978,Electronics Item 1978,Electronics,223.15,112.15,SEL-0148,1
+PROD-01979,Electronics Item 1979,Electronics,31.88,13.71,SEL-0261,1
+PROD-01980,Home & Kitchen Item 1980,Home & Kitchen,188.09,108.06,SEL-0203,0
+PROD-01981,Footwear Item 1981,Footwear,251.91,113.92,SEL-0267,0
+PROD-01982,Beauty Item 1982,Beauty,412.74,200.82,SEL-0492,0
+PROD-01983,Apparel Item 1983,Apparel,191.62,86.89,SEL-0253,1
+PROD-01984,Home & Kitchen Item 1984,Home & Kitchen,267.65,149.69,SEL-0300,0
+PROD-01985,Apparel Item 1985,Apparel,197.69,92.85,SEL-0228,1
+PROD-01986,Footwear Item 1986,Footwear,333.52,161.71,SEL-0046,0
+PROD-01987,Electronics Item 1987,Electronics,234.23,112.81,SEL-0342,1
+PROD-01988,Electronics Item 1988,Electronics,263.73,120.01,SEL-0406,1
+PROD-01989,Footwear Item 1989,Footwear,431.23,229.49,SEL-0135,0
+PROD-01990,Beauty Item 1990,Beauty,157.18,68.79,SEL-0326,0
+PROD-01991,Beauty Item 1991,Beauty,20.02,9.08,SEL-0193,0
+PROD-01992,Footwear Item 1992,Footwear,112.74,49.01,SEL-0490,0
+PROD-01993,Footwear Item 1993,Footwear,240.46,141.56,SEL-0341,0
+PROD-01994,Footwear Item 1994,Footwear,416.12,232.53,SEL-0006,0
+PROD-01995,Footwear Item 1995,Footwear,235.99,134.31,SEL-0213,0
+PROD-01996,Footwear Item 1996,Footwear,274.64,133.33,SEL-0122,0
+PROD-01997,Footwear Item 1997,Footwear,250.69,156.48,SEL-0132,0
+PROD-01998,Electronics Item 1998,Electronics,154.59,67.68,SEL-0071,1
+PROD-01999,Apparel Item 1999,Apparel,354.14,153.08,SEL-0253,1
+PROD-02000,Beauty Item 2000,Beauty,327.51,141.03,SEL-0112,0
+PROD-02001,Apparel Item 2001,Apparel,73.46,30.4,SEL-0196,1
+PROD-02002,Electronics Item 2002,Electronics,435.98,189.25,SEL-0179,1
+PROD-02003,Home & Kitchen Item 2003,Home & Kitchen,79.53,34.42,SEL-0135,0
+PROD-02004,Apparel Item 2004,Apparel,217.88,95.98,SEL-0267,1
+PROD-02005,Home & Kitchen Item 2005,Home & Kitchen,56.84,25.29,SEL-0491,0
+PROD-02006,Electronics Item 2006,Electronics,209.54,85.41,SEL-0107,1
+PROD-02007,Beauty Item 2007,Beauty,272.25,116.48,SEL-0492,0
+PROD-02008,Home & Kitchen Item 2008,Home & Kitchen,437.95,235.84,SEL-0295,0
+PROD-02009,Electronics Item 2009,Electronics,102.51,41.03,SEL-0491,1
+PROD-02010,Footwear Item 2010,Footwear,69.54,28.24,SEL-0125,0
+PROD-02011,Beauty Item 2011,Beauty,168.09,76.11,SEL-0480,0
+PROD-02012,Footwear Item 2012,Footwear,48.52,25.17,SEL-0318,0
+PROD-02013,Beauty Item 2013,Beauty,105.13,62.65,SEL-0459,0
+PROD-02014,Beauty Item 2014,Beauty,340.88,193.32,SEL-0018,0
+PROD-02015,Apparel Item 2015,Apparel,278.44,156.48,SEL-0239,1
+PROD-02016,Beauty Item 2016,Beauty,268.97,166.99,SEL-0437,0
+PROD-02017,Apparel Item 2017,Apparel,44.21,28.02,SEL-0061,1
+PROD-02018,Home & Kitchen Item 2018,Home & Kitchen,168.61,75.44,SEL-0460,0
+PROD-02019,Beauty Item 2019,Beauty,160.68,102.44,SEL-0125,0
+PROD-02020,Home & Kitchen Item 2020,Home & Kitchen,388.42,175.71,SEL-0256,0
+PROD-02021,Beauty Item 2021,Beauty,169.93,109.29,SEL-0287,0
+PROD-02022,Apparel Item 2022,Apparel,205.08,126.28,SEL-0034,1
+PROD-02023,Footwear Item 2023,Footwear,398.98,188.54,SEL-0494,0
+PROD-02024,Beauty Item 2024,Beauty,55.93,35.85,SEL-0330,0
+PROD-02025,Electronics Item 2025,Electronics,151.78,96.25,SEL-0107,1
+PROD-02026,Footwear Item 2026,Footwear,252.64,119.87,SEL-0119,0
+PROD-02027,Apparel Item 2027,Apparel,296.4,190.08,SEL-0500,1
+PROD-02028,Electronics Item 2028,Electronics,19.6,9.29,SEL-0326,1
+PROD-02029,Home & Kitchen Item 2029,Home & Kitchen,330.41,164.75,SEL-0167,0
+PROD-02030,Apparel Item 2030,Apparel,374.44,234.41,SEL-0147,1
+PROD-02031,Footwear Item 2031,Footwear,113.13,52.91,SEL-0459,0
+PROD-02032,Home & Kitchen Item 2032,Home & Kitchen,184.47,110.17,SEL-0470,0
+PROD-02033,Home & Kitchen Item 2033,Home & Kitchen,227.34,110.49,SEL-0055,0
+PROD-02034,Apparel Item 2034,Apparel,278.49,170.23,SEL-0457,1
+PROD-02035,Footwear Item 2035,Footwear,400.73,161.47,SEL-0148,0
+PROD-02036,Apparel Item 2036,Apparel,268.07,163.92,SEL-0235,1
+PROD-02037,Electronics Item 2037,Electronics,207.02,83.95,SEL-0135,1
+PROD-02038,Electronics Item 2038,Electronics,311.96,166.24,SEL-0059,1
+PROD-02039,Beauty Item 2039,Beauty,406.32,184.27,SEL-0421,0
+PROD-02040,Home & Kitchen Item 2040,Home & Kitchen,244.29,157.49,SEL-0186,0
+PROD-02041,Beauty Item 2041,Beauty,239.65,112.71,SEL-0032,0
+PROD-02042,Footwear Item 2042,Footwear,353.62,159.82,SEL-0072,0
+PROD-02043,Electronics Item 2043,Electronics,163.65,76.4,SEL-0146,1
+PROD-02044,Beauty Item 2044,Beauty,348.92,225.24,SEL-0419,0
+PROD-02045,Electronics Item 2045,Electronics,396.94,213.59,SEL-0106,1
+PROD-02046,Electronics Item 2046,Electronics,278.35,148.71,SEL-0241,1
+PROD-02047,Electronics Item 2047,Electronics,416.61,193.76,SEL-0320,1
+PROD-02048,Apparel Item 2048,Apparel,354.96,154.82,SEL-0361,1
+PROD-02049,Beauty Item 2049,Beauty,143.56,92.19,SEL-0063,0
+PROD-02050,Home & Kitchen Item 2050,Home & Kitchen,302.32,140.19,SEL-0002,0
+PROD-02051,Beauty Item 2051,Beauty,63.31,39.34,SEL-0387,0
+PROD-02052,Home & Kitchen Item 2052,Home & Kitchen,226.88,145.25,SEL-0295,0
+PROD-02053,Beauty Item 2053,Beauty,298.49,150.01,SEL-0292,0
+PROD-02054,Beauty Item 2054,Beauty,90.9,39.5,SEL-0124,0
+PROD-02055,Electronics Item 2055,Electronics,174.63,109.78,SEL-0282,1
+PROD-02056,Home & Kitchen Item 2056,Home & Kitchen,35.94,22.93,SEL-0086,0
+PROD-02057,Home & Kitchen Item 2057,Home & Kitchen,85.93,50.46,SEL-0163,0
+PROD-02058,Home & Kitchen Item 2058,Home & Kitchen,277.58,133.37,SEL-0351,0
+PROD-02059,Beauty Item 2059,Beauty,263.63,118.01,SEL-0301,0
+PROD-02060,Home & Kitchen Item 2060,Home & Kitchen,339.36,187.81,SEL-0102,0
+PROD-02061,Beauty Item 2061,Beauty,226.1,146.06,SEL-0044,0
+PROD-02062,Apparel Item 2062,Apparel,208.71,117.74,SEL-0482,1
+PROD-02063,Electronics Item 2063,Electronics,173.91,74.42,SEL-0412,1
+PROD-02064,Footwear Item 2064,Footwear,248.5,109.99,SEL-0450,0
+PROD-02065,Apparel Item 2065,Apparel,161.26,67.31,SEL-0190,1
+PROD-02066,Home & Kitchen Item 2066,Home & Kitchen,410.91,173.76,SEL-0252,0
+PROD-02067,Electronics Item 2067,Electronics,90.64,37.43,SEL-0116,1
+PROD-02068,Electronics Item 2068,Electronics,198.64,99.04,SEL-0331,1
+PROD-02069,Electronics Item 2069,Electronics,27.41,14.65,SEL-0361,1
+PROD-02070,Electronics Item 2070,Electronics,320.18,164.73,SEL-0371,1
+PROD-02071,Home & Kitchen Item 2071,Home & Kitchen,315.88,183.61,SEL-0210,0
+PROD-02072,Electronics Item 2072,Electronics,115.15,46.79,SEL-0367,1
+PROD-02073,Footwear Item 2073,Footwear,221.04,114.03,SEL-0195,0
+PROD-02074,Footwear Item 2074,Footwear,189.16,87.72,SEL-0219,0
+PROD-02075,Electronics Item 2075,Electronics,183.91,74.75,SEL-0251,1
+PROD-02076,Beauty Item 2076,Beauty,183.65,112.5,SEL-0312,0
+PROD-02077,Home & Kitchen Item 2077,Home & Kitchen,445.31,276.12,SEL-0132,0
+PROD-02078,Footwear Item 2078,Footwear,415.82,219.5,SEL-0340,0
+PROD-02079,Footwear Item 2079,Footwear,276.65,147.45,SEL-0447,0
+PROD-02080,Footwear Item 2080,Footwear,349.43,192.81,SEL-0436,0
+PROD-02081,Apparel Item 2081,Apparel,277.09,155.46,SEL-0458,1
+PROD-02082,Apparel Item 2082,Apparel,159.3,73.73,SEL-0297,1
+PROD-02083,Footwear Item 2083,Footwear,273.48,150.93,SEL-0214,0
+PROD-02084,Beauty Item 2084,Beauty,59.22,32.97,SEL-0094,0
+PROD-02085,Home & Kitchen Item 2085,Home & Kitchen,305.18,149.37,SEL-0486,0
+PROD-02086,Home & Kitchen Item 2086,Home & Kitchen,145.87,77.71,SEL-0490,0
+PROD-02087,Footwear Item 2087,Footwear,390.24,245.44,SEL-0142,0
+PROD-02088,Footwear Item 2088,Footwear,275.29,116.1,SEL-0423,0
+PROD-02089,Home & Kitchen Item 2089,Home & Kitchen,402.04,230.42,SEL-0052,0
+PROD-02090,Beauty Item 2090,Beauty,353.88,181.62,SEL-0435,0
+PROD-02091,Apparel Item 2091,Apparel,171.38,98.93,SEL-0150,1
+PROD-02092,Apparel Item 2092,Apparel,138.38,79.66,SEL-0016,1
+PROD-02093,Footwear Item 2093,Footwear,98.18,49.78,SEL-0071,0
+PROD-02094,Home & Kitchen Item 2094,Home & Kitchen,363.85,156.43,SEL-0312,0
+PROD-02095,Apparel Item 2095,Apparel,396.93,246.89,SEL-0360,1
+PROD-02096,Beauty Item 2096,Beauty,17.52,8.87,SEL-0382,0
+PROD-02097,Footwear Item 2097,Footwear,99.88,59.38,SEL-0121,0
+PROD-02098,Electronics Item 2098,Electronics,274.99,116.94,SEL-0195,1
+PROD-02099,Footwear Item 2099,Footwear,114.93,47.13,SEL-0086,0
+PROD-02100,Electronics Item 2100,Electronics,18.08,8.09,SEL-0412,1
+PROD-02101,Footwear Item 2101,Footwear,120.2,75.64,SEL-0124,0
+PROD-02102,Home & Kitchen Item 2102,Home & Kitchen,147.76,59.19,SEL-0283,0
+PROD-02103,Home & Kitchen Item 2103,Home & Kitchen,333.54,206.19,SEL-0221,0
+PROD-02104,Home & Kitchen Item 2104,Home & Kitchen,398.58,242.59,SEL-0311,0
+PROD-02105,Home & Kitchen Item 2105,Home & Kitchen,385.89,198.31,SEL-0456,0
+PROD-02106,Beauty Item 2106,Beauty,311.7,192.05,SEL-0145,0
+PROD-02107,Beauty Item 2107,Beauty,430.87,211.45,SEL-0147,0
+PROD-02108,Electronics Item 2108,Electronics,405.79,262.36,SEL-0359,1
+PROD-02109,Beauty Item 2109,Beauty,240.34,101.12,SEL-0247,0
+PROD-02110,Footwear Item 2110,Footwear,143.12,72.06,SEL-0206,0
+PROD-02111,Home & Kitchen Item 2111,Home & Kitchen,322.29,176.04,SEL-0106,0
+PROD-02112,Apparel Item 2112,Apparel,363.57,224.04,SEL-0043,1
+PROD-02113,Apparel Item 2113,Apparel,71.46,37.14,SEL-0121,1
+PROD-02114,Apparel Item 2114,Apparel,329.06,143.55,SEL-0058,1
+PROD-02115,Footwear Item 2115,Footwear,161.81,105.07,SEL-0359,0
+PROD-02116,Apparel Item 2116,Apparel,42.67,25.52,SEL-0319,1
+PROD-02117,Apparel Item 2117,Apparel,229.11,147.35,SEL-0083,1
+PROD-02118,Electronics Item 2118,Electronics,168.45,94.42,SEL-0196,1
+PROD-02119,Footwear Item 2119,Footwear,215.85,122.73,SEL-0041,0
+PROD-02120,Footwear Item 2120,Footwear,416.28,190.45,SEL-0473,0
+PROD-02121,Apparel Item 2121,Apparel,311.36,177.29,SEL-0387,1
+PROD-02122,Footwear Item 2122,Footwear,409.01,192.76,SEL-0109,0
+PROD-02123,Electronics Item 2123,Electronics,142.11,63.68,SEL-0288,1
+PROD-02124,Electronics Item 2124,Electronics,372.3,154.23,SEL-0296,1
+PROD-02125,Home & Kitchen Item 2125,Home & Kitchen,400.92,206.61,SEL-0119,0
+PROD-02126,Electronics Item 2126,Electronics,51.02,29.65,SEL-0302,1
+PROD-02127,Home & Kitchen Item 2127,Home & Kitchen,27.86,13.91,SEL-0076,0
+PROD-02128,Apparel Item 2128,Apparel,40.23,20.08,SEL-0449,1
+PROD-02129,Home & Kitchen Item 2129,Home & Kitchen,384.41,209.47,SEL-0135,0
+PROD-02130,Home & Kitchen Item 2130,Home & Kitchen,102.63,59.09,SEL-0258,0
+PROD-02131,Apparel Item 2131,Apparel,69.36,31.62,SEL-0493,1
+PROD-02132,Home & Kitchen Item 2132,Home & Kitchen,201.89,124.25,SEL-0260,0
+PROD-02133,Electronics Item 2133,Electronics,99.51,40.25,SEL-0390,1
+PROD-02134,Apparel Item 2134,Apparel,231.8,115.39,SEL-0335,1
+PROD-02135,Footwear Item 2135,Footwear,231.22,104.37,SEL-0159,0
+PROD-02136,Home & Kitchen Item 2136,Home & Kitchen,109.84,53.24,SEL-0441,0
+PROD-02137,Electronics Item 2137,Electronics,161.66,89.92,SEL-0265,1
+PROD-02138,Footwear Item 2138,Footwear,158.04,90.28,SEL-0452,0
+PROD-02139,Apparel Item 2139,Apparel,380.02,193.46,SEL-0447,1
+PROD-02140,Apparel Item 2140,Apparel,364.17,192.45,SEL-0416,1
+PROD-02141,Apparel Item 2141,Apparel,44.98,21.53,SEL-0026,1
+PROD-02142,Electronics Item 2142,Electronics,366.76,212.56,SEL-0061,1
+PROD-02143,Footwear Item 2143,Footwear,248.83,149.63,SEL-0356,0
+PROD-02144,Apparel Item 2144,Apparel,215.32,125.08,SEL-0468,1
+PROD-02145,Electronics Item 2145,Electronics,324.49,203.51,SEL-0440,1
+PROD-02146,Beauty Item 2146,Beauty,124.33,72.92,SEL-0121,0
+PROD-02147,Electronics Item 2147,Electronics,104.28,60.24,SEL-0198,1
+PROD-02148,Beauty Item 2148,Beauty,217.12,140.87,SEL-0375,0
+PROD-02149,Footwear Item 2149,Footwear,112.83,53.06,SEL-0016,0
+PROD-02150,Apparel Item 2150,Apparel,343.02,137.67,SEL-0482,1
+PROD-02151,Apparel Item 2151,Apparel,49.26,21.87,SEL-0068,1
+PROD-02152,Home & Kitchen Item 2152,Home & Kitchen,374.77,153.95,SEL-0403,0
+PROD-02153,Apparel Item 2153,Apparel,367.63,152.56,SEL-0395,1
+PROD-02154,Footwear Item 2154,Footwear,169.5,93.63,SEL-0253,0
+PROD-02155,Electronics Item 2155,Electronics,298.01,155.55,SEL-0472,1
+PROD-02156,Footwear Item 2156,Footwear,28.52,16.61,SEL-0025,0
+PROD-02157,Apparel Item 2157,Apparel,357.26,227.68,SEL-0061,1
+PROD-02158,Electronics Item 2158,Electronics,427.21,239.82,SEL-0401,1
+PROD-02159,Footwear Item 2159,Footwear,26.05,12.62,SEL-0235,0
+PROD-02160,Apparel Item 2160,Apparel,260.94,140.34,SEL-0498,1
+PROD-02161,Apparel Item 2161,Apparel,371.56,200.98,SEL-0186,1
+PROD-02162,Apparel Item 2162,Apparel,163.21,89.37,SEL-0099,1
+PROD-02163,Home & Kitchen Item 2163,Home & Kitchen,116.95,71.85,SEL-0240,0
+PROD-02164,Home & Kitchen Item 2164,Home & Kitchen,107.42,46.25,SEL-0051,0
+PROD-02165,Home & Kitchen Item 2165,Home & Kitchen,404.28,222.24,SEL-0019,0
+PROD-02166,Electronics Item 2166,Electronics,75.74,42.77,SEL-0275,1
+PROD-02167,Footwear Item 2167,Footwear,310.84,155.43,SEL-0019,0
+PROD-02168,Electronics Item 2168,Electronics,194.34,108.35,SEL-0062,1
+PROD-02169,Electronics Item 2169,Electronics,52.38,22.17,SEL-0454,1
+PROD-02170,Apparel Item 2170,Apparel,178.07,114.53,SEL-0032,1
+PROD-02171,Beauty Item 2171,Beauty,421.49,205.48,SEL-0350,0
+PROD-02172,Beauty Item 2172,Beauty,321.85,195.68,SEL-0339,0
+PROD-02173,Apparel Item 2173,Apparel,366.59,217.16,SEL-0097,1
+PROD-02174,Beauty Item 2174,Beauty,69.95,33.86,SEL-0385,0
+PROD-02175,Electronics Item 2175,Electronics,287.83,174.31,SEL-0123,1
+PROD-02176,Footwear Item 2176,Footwear,219.8,140.38,SEL-0054,0
+PROD-02177,Home & Kitchen Item 2177,Home & Kitchen,117.71,58.55,SEL-0293,0
+PROD-02178,Electronics Item 2178,Electronics,151.79,67.87,SEL-0387,1
+PROD-02179,Electronics Item 2179,Electronics,338.71,213.63,SEL-0208,1
+PROD-02180,Footwear Item 2180,Footwear,380.14,195.66,SEL-0393,0
+PROD-02181,Beauty Item 2181,Beauty,442.39,209.73,SEL-0198,0
+PROD-02182,Footwear Item 2182,Footwear,78.66,44.21,SEL-0044,0
+PROD-02183,Electronics Item 2183,Electronics,28.29,12.87,SEL-0248,1
+PROD-02184,Apparel Item 2184,Apparel,213.52,113.15,SEL-0092,1
+PROD-02185,Apparel Item 2185,Apparel,274.19,159.12,SEL-0095,1
+PROD-02186,Electronics Item 2186,Electronics,292.62,166.4,SEL-0142,1
+PROD-02187,Apparel Item 2187,Apparel,246.22,129.27,SEL-0398,1
+PROD-02188,Beauty Item 2188,Beauty,222.47,131.52,SEL-0348,0
+PROD-02189,Footwear Item 2189,Footwear,343.13,166.51,SEL-0498,0
+PROD-02190,Home & Kitchen Item 2190,Home & Kitchen,49.87,21.55,SEL-0476,0
+PROD-02191,Footwear Item 2191,Footwear,127.91,79.16,SEL-0108,0
+PROD-02192,Home & Kitchen Item 2192,Home & Kitchen,226.35,117.69,SEL-0421,0
+PROD-02193,Electronics Item 2193,Electronics,416.08,219.41,SEL-0156,1
+PROD-02194,Electronics Item 2194,Electronics,374.49,190.85,SEL-0330,1
+PROD-02195,Home & Kitchen Item 2195,Home & Kitchen,142.83,75.8,SEL-0299,0
+PROD-02196,Apparel Item 2196,Apparel,104.69,52.57,SEL-0341,1
+PROD-02197,Electronics Item 2197,Electronics,425.88,213.08,SEL-0302,1
+PROD-02198,Beauty Item 2198,Beauty,48.91,30.88,SEL-0008,0
+PROD-02199,Beauty Item 2199,Beauty,391.36,174.91,SEL-0299,0
+PROD-02200,Beauty Item 2200,Beauty,161.75,89.63,SEL-0130,0
+PROD-02201,Beauty Item 2201,Beauty,186.39,83.89,SEL-0449,0
+PROD-02202,Home & Kitchen Item 2202,Home & Kitchen,288.28,164.92,SEL-0195,0
+PROD-02203,Apparel Item 2203,Apparel,338.74,182.05,SEL-0407,1
+PROD-02204,Home & Kitchen Item 2204,Home & Kitchen,277.44,142.93,SEL-0233,0
+PROD-02205,Electronics Item 2205,Electronics,215.08,115.85,SEL-0285,1
+PROD-02206,Beauty Item 2206,Beauty,235.19,136.66,SEL-0244,0
+PROD-02207,Beauty Item 2207,Beauty,44.38,25.61,SEL-0008,0
+PROD-02208,Beauty Item 2208,Beauty,61.35,28.57,SEL-0206,0
+PROD-02209,Electronics Item 2209,Electronics,333.02,191.84,SEL-0452,1
+PROD-02210,Footwear Item 2210,Footwear,242.46,146.6,SEL-0435,0
+PROD-02211,Home & Kitchen Item 2211,Home & Kitchen,176.59,87.41,SEL-0040,0
+PROD-02212,Apparel Item 2212,Apparel,63.64,35.66,SEL-0178,1
+PROD-02213,Electronics Item 2213,Electronics,67.42,32.51,SEL-0489,1
+PROD-02214,Footwear Item 2214,Footwear,341.46,172.86,SEL-0101,0
+PROD-02215,Footwear Item 2215,Footwear,350.11,143.31,SEL-0234,0
+PROD-02216,Apparel Item 2216,Apparel,20.47,9.09,SEL-0019,1
+PROD-02217,Electronics Item 2217,Electronics,108.65,47.8,SEL-0157,1
+PROD-02218,Footwear Item 2218,Footwear,40.09,18.39,SEL-0445,0
+PROD-02219,Beauty Item 2219,Beauty,69.01,30.44,SEL-0102,0
+PROD-02220,Apparel Item 2220,Apparel,30.5,19.29,SEL-0277,1
+PROD-02221,Beauty Item 2221,Beauty,130.24,65.37,SEL-0078,0
+PROD-02222,Apparel Item 2222,Apparel,295.76,127.67,SEL-0174,1
+PROD-02223,Home & Kitchen Item 2223,Home & Kitchen,194.36,80.35,SEL-0035,0
+PROD-02224,Home & Kitchen Item 2224,Home & Kitchen,55.65,22.78,SEL-0037,0
+PROD-02225,Electronics Item 2225,Electronics,102.93,44.28,SEL-0463,1
+PROD-02226,Footwear Item 2226,Footwear,70.51,44.2,SEL-0275,0
+PROD-02227,Beauty Item 2227,Beauty,94.64,51.56,SEL-0406,0
+PROD-02228,Footwear Item 2228,Footwear,84.32,38.88,SEL-0117,0
+PROD-02229,Home & Kitchen Item 2229,Home & Kitchen,56.08,31.65,SEL-0230,0
+PROD-02230,Beauty Item 2230,Beauty,110.18,70.52,SEL-0393,0
+PROD-02231,Electronics Item 2231,Electronics,241.74,141.67,SEL-0344,1
+PROD-02232,Footwear Item 2232,Footwear,325.45,135.44,SEL-0364,0
+PROD-02233,Apparel Item 2233,Apparel,134.61,71.18,SEL-0024,1
+PROD-02234,Apparel Item 2234,Apparel,211.47,88.21,SEL-0399,1
+PROD-02235,Beauty Item 2235,Beauty,174.76,70.17,SEL-0480,0
+PROD-02236,Apparel Item 2236,Apparel,388.94,191.45,SEL-0229,1
+PROD-02237,Apparel Item 2237,Apparel,66.59,39.71,SEL-0336,1
+PROD-02238,Home & Kitchen Item 2238,Home & Kitchen,398.35,234.79,SEL-0103,0
+PROD-02239,Electronics Item 2239,Electronics,439.25,177.85,SEL-0300,1
+PROD-02240,Apparel Item 2240,Apparel,116.56,54.3,SEL-0388,1
+PROD-02241,Apparel Item 2241,Apparel,334.02,196.7,SEL-0001,1
+PROD-02242,Footwear Item 2242,Footwear,133.52,64.26,SEL-0017,0
+PROD-02243,Beauty Item 2243,Beauty,406.41,171.23,SEL-0013,0
+PROD-02244,Home & Kitchen Item 2244,Home & Kitchen,333.23,209.89,SEL-0002,0
+PROD-02245,Beauty Item 2245,Beauty,402.51,243.28,SEL-0102,0
+PROD-02246,Footwear Item 2246,Footwear,417.17,177.82,SEL-0385,0
+PROD-02247,Footwear Item 2247,Footwear,211.62,85.77,SEL-0125,0
+PROD-02248,Footwear Item 2248,Footwear,116.16,48.38,SEL-0183,0
+PROD-02249,Apparel Item 2249,Apparel,326.35,164.45,SEL-0431,1
+PROD-02250,Beauty Item 2250,Beauty,194.92,105.05,SEL-0330,0
+PROD-02251,Beauty Item 2251,Beauty,191.59,95.98,SEL-0405,0
+PROD-02252,Beauty Item 2252,Beauty,377.47,231.68,SEL-0017,0
+PROD-02253,Electronics Item 2253,Electronics,119.87,52.47,SEL-0474,1
+PROD-02254,Home & Kitchen Item 2254,Home & Kitchen,220.05,126.53,SEL-0376,0
+PROD-02255,Apparel Item 2255,Apparel,84.97,36.62,SEL-0185,1
+PROD-02256,Home & Kitchen Item 2256,Home & Kitchen,171.31,82.28,SEL-0163,0
+PROD-02257,Apparel Item 2257,Apparel,375.57,206.09,SEL-0459,1
+PROD-02258,Beauty Item 2258,Beauty,208.01,118.56,SEL-0108,0
+PROD-02259,Electronics Item 2259,Electronics,18.88,8.63,SEL-0414,1
+PROD-02260,Electronics Item 2260,Electronics,126.04,59.82,SEL-0115,1
+PROD-02261,Beauty Item 2261,Beauty,261.74,106.4,SEL-0281,0
+PROD-02262,Home & Kitchen Item 2262,Home & Kitchen,252.08,158.79,SEL-0395,0
+PROD-02263,Footwear Item 2263,Footwear,255.64,158.67,SEL-0245,0
+PROD-02264,Beauty Item 2264,Beauty,226.13,143.05,SEL-0408,0
+PROD-02265,Apparel Item 2265,Apparel,17.39,8.25,SEL-0005,1
+PROD-02266,Home & Kitchen Item 2266,Home & Kitchen,21.2,9.58,SEL-0270,0
+PROD-02267,Footwear Item 2267,Footwear,192.94,81.37,SEL-0292,0
+PROD-02268,Electronics Item 2268,Electronics,337.75,218.58,SEL-0481,1
+PROD-02269,Apparel Item 2269,Apparel,300.3,193.71,SEL-0163,1
+PROD-02270,Electronics Item 2270,Electronics,378.39,158.42,SEL-0106,1
+PROD-02271,Apparel Item 2271,Apparel,212.15,98.92,SEL-0042,1
+PROD-02272,Footwear Item 2272,Footwear,135.78,87.57,SEL-0026,0
+PROD-02273,Apparel Item 2273,Apparel,231.25,122.79,SEL-0177,1
+PROD-02274,Footwear Item 2274,Footwear,209.32,84.21,SEL-0415,0
+PROD-02275,Beauty Item 2275,Beauty,75.93,41.45,SEL-0391,0
+PROD-02276,Beauty Item 2276,Beauty,401.89,258.2,SEL-0090,0
+PROD-02277,Apparel Item 2277,Apparel,57.59,34.21,SEL-0194,1
+PROD-02278,Home & Kitchen Item 2278,Home & Kitchen,360.1,197.22,SEL-0492,0
+PROD-02279,Electronics Item 2279,Electronics,398.64,217.26,SEL-0298,1
+PROD-02280,Apparel Item 2280,Apparel,240.1,125.93,SEL-0432,1
+PROD-02281,Apparel Item 2281,Apparel,428.28,217.5,SEL-0228,1
+PROD-02282,Electronics Item 2282,Electronics,426.66,243.2,SEL-0025,1
+PROD-02283,Apparel Item 2283,Apparel,216.66,101.44,SEL-0096,1
+PROD-02284,Electronics Item 2284,Electronics,90.8,38.45,SEL-0349,1
+PROD-02285,Footwear Item 2285,Footwear,23.16,11.96,SEL-0253,0
+PROD-02286,Home & Kitchen Item 2286,Home & Kitchen,381.5,235.07,SEL-0264,0
+PROD-02287,Beauty Item 2287,Beauty,284.59,146.13,SEL-0260,0
+PROD-02288,Beauty Item 2288,Beauty,357.8,214.39,SEL-0411,0
+PROD-02289,Home & Kitchen Item 2289,Home & Kitchen,105.86,56.98,SEL-0265,0
+PROD-02290,Electronics Item 2290,Electronics,334.24,175.4,SEL-0337,1
+PROD-02291,Home & Kitchen Item 2291,Home & Kitchen,67.01,34.05,SEL-0182,0
+PROD-02292,Electronics Item 2292,Electronics,366.7,236.9,SEL-0105,1
+PROD-02293,Home & Kitchen Item 2293,Home & Kitchen,398.03,243.14,SEL-0442,0
+PROD-02294,Apparel Item 2294,Apparel,38.6,20.14,SEL-0400,1
+PROD-02295,Apparel Item 2295,Apparel,108.23,46.64,SEL-0493,1
+PROD-02296,Home & Kitchen Item 2296,Home & Kitchen,108.65,53.21,SEL-0231,0
+PROD-02297,Footwear Item 2297,Footwear,165.94,105.3,SEL-0465,0
+PROD-02298,Home & Kitchen Item 2298,Home & Kitchen,363.9,231.12,SEL-0001,0
+PROD-02299,Beauty Item 2299,Beauty,161.77,73.61,SEL-0395,0
+PROD-02300,Apparel Item 2300,Apparel,72.67,34.15,SEL-0225,1
+PROD-02301,Home & Kitchen Item 2301,Home & Kitchen,258.37,141.28,SEL-0434,0
+PROD-02302,Beauty Item 2302,Beauty,269.32,146.99,SEL-0379,0
+PROD-02303,Apparel Item 2303,Apparel,62.56,36.22,SEL-0305,1
+PROD-02304,Footwear Item 2304,Footwear,407.24,175.0,SEL-0342,0
+PROD-02305,Footwear Item 2305,Footwear,263.4,117.97,SEL-0409,0
+PROD-02306,Beauty Item 2306,Beauty,68.68,33.59,SEL-0219,0
+PROD-02307,Home & Kitchen Item 2307,Home & Kitchen,329.74,196.56,SEL-0332,0
+PROD-02308,Apparel Item 2308,Apparel,121.38,70.45,SEL-0168,1
+PROD-02309,Footwear Item 2309,Footwear,164.17,102.16,SEL-0465,0
+PROD-02310,Beauty Item 2310,Beauty,416.59,267.95,SEL-0215,0
+PROD-02311,Electronics Item 2311,Electronics,410.64,171.71,SEL-0336,1
+PROD-02312,Home & Kitchen Item 2312,Home & Kitchen,91.49,47.72,SEL-0289,0
+PROD-02313,Electronics Item 2313,Electronics,228.29,96.75,SEL-0016,1
+PROD-02314,Home & Kitchen Item 2314,Home & Kitchen,366.05,175.4,SEL-0295,0
+PROD-02315,Apparel Item 2315,Apparel,294.81,165.33,SEL-0038,1
+PROD-02316,Beauty Item 2316,Beauty,125.73,71.88,SEL-0294,0
+PROD-02317,Apparel Item 2317,Apparel,248.58,142.32,SEL-0292,1
+PROD-02318,Electronics Item 2318,Electronics,246.38,154.75,SEL-0480,1
+PROD-02319,Beauty Item 2319,Beauty,346.14,201.57,SEL-0022,0
+PROD-02320,Apparel Item 2320,Apparel,102.18,44.47,SEL-0092,1
+PROD-02321,Apparel Item 2321,Apparel,436.75,267.86,SEL-0431,1
+PROD-02322,Apparel Item 2322,Apparel,435.69,198.39,SEL-0478,1
+PROD-02323,Electronics Item 2323,Electronics,184.78,78.91,SEL-0473,1
+PROD-02324,Apparel Item 2324,Apparel,195.3,107.96,SEL-0125,1
+PROD-02325,Footwear Item 2325,Footwear,35.96,15.41,SEL-0373,0
+PROD-02326,Home & Kitchen Item 2326,Home & Kitchen,185.96,103.42,SEL-0193,0
+PROD-02327,Footwear Item 2327,Footwear,437.6,191.67,SEL-0339,0
+PROD-02328,Electronics Item 2328,Electronics,301.58,157.19,SEL-0322,1
+PROD-02329,Electronics Item 2329,Electronics,89.4,41.7,SEL-0332,1
+PROD-02330,Apparel Item 2330,Apparel,58.95,26.47,SEL-0004,1
+PROD-02331,Beauty Item 2331,Beauty,211.58,132.44,SEL-0109,0
+PROD-02332,Footwear Item 2332,Footwear,417.11,195.1,SEL-0093,0
+PROD-02333,Electronics Item 2333,Electronics,379.44,166.42,SEL-0045,1
+PROD-02334,Home & Kitchen Item 2334,Home & Kitchen,239.34,104.07,SEL-0276,0
+PROD-02335,Electronics Item 2335,Electronics,229.42,135.84,SEL-0389,1
+PROD-02336,Footwear Item 2336,Footwear,281.05,180.47,SEL-0394,0
+PROD-02337,Home & Kitchen Item 2337,Home & Kitchen,252.99,126.6,SEL-0318,0
+PROD-02338,Home & Kitchen Item 2338,Home & Kitchen,48.12,24.59,SEL-0035,0
+PROD-02339,Apparel Item 2339,Apparel,303.88,161.54,SEL-0353,1
+PROD-02340,Beauty Item 2340,Beauty,173.99,98.05,SEL-0119,0
+PROD-02341,Home & Kitchen Item 2341,Home & Kitchen,282.06,139.93,SEL-0350,0
+PROD-02342,Apparel Item 2342,Apparel,89.41,56.66,SEL-0437,1
+PROD-02343,Beauty Item 2343,Beauty,149.96,73.42,SEL-0461,0
+PROD-02344,Apparel Item 2344,Apparel,389.84,212.56,SEL-0245,1
+PROD-02345,Electronics Item 2345,Electronics,244.55,146.43,SEL-0354,1
+PROD-02346,Electronics Item 2346,Electronics,28.77,12.85,SEL-0281,1
+PROD-02347,Beauty Item 2347,Beauty,357.75,161.34,SEL-0048,0
+PROD-02348,Apparel Item 2348,Apparel,313.74,202.74,SEL-0362,1
+PROD-02349,Footwear Item 2349,Footwear,94.19,41.92,SEL-0047,0
+PROD-02350,Apparel Item 2350,Apparel,31.71,18.18,SEL-0394,1
+PROD-02351,Footwear Item 2351,Footwear,264.13,144.56,SEL-0030,0
+PROD-02352,Home & Kitchen Item 2352,Home & Kitchen,137.92,66.12,SEL-0493,0
+PROD-02353,Home & Kitchen Item 2353,Home & Kitchen,389.13,238.08,SEL-0196,0
+PROD-02354,Home & Kitchen Item 2354,Home & Kitchen,137.94,73.19,SEL-0370,0
+PROD-02355,Apparel Item 2355,Apparel,45.02,22.33,SEL-0485,1
+PROD-02356,Beauty Item 2356,Beauty,429.6,263.24,SEL-0024,0
+PROD-02357,Footwear Item 2357,Footwear,279.49,152.95,SEL-0117,0
+PROD-02358,Apparel Item 2358,Apparel,315.53,168.79,SEL-0031,1
+PROD-02359,Home & Kitchen Item 2359,Home & Kitchen,112.99,62.2,SEL-0365,0
+PROD-02360,Electronics Item 2360,Electronics,431.74,237.33,SEL-0195,1
+PROD-02361,Home & Kitchen Item 2361,Home & Kitchen,239.4,136.67,SEL-0393,0
+PROD-02362,Beauty Item 2362,Beauty,296.4,153.69,SEL-0273,0
+PROD-02363,Home & Kitchen Item 2363,Home & Kitchen,129.59,70.87,SEL-0339,0
+PROD-02364,Beauty Item 2364,Beauty,130.3,80.83,SEL-0026,0
+PROD-02365,Electronics Item 2365,Electronics,232.78,126.62,SEL-0158,1
+PROD-02366,Footwear Item 2366,Footwear,446.34,230.32,SEL-0032,0
+PROD-02367,Home & Kitchen Item 2367,Home & Kitchen,257.83,106.67,SEL-0091,0
+PROD-02368,Beauty Item 2368,Beauty,208.49,115.23,SEL-0135,0
+PROD-02369,Footwear Item 2369,Footwear,365.77,230.73,SEL-0255,0
+PROD-02370,Electronics Item 2370,Electronics,376.89,182.9,SEL-0299,1
+PROD-02371,Beauty Item 2371,Beauty,288.47,182.84,SEL-0292,0
+PROD-02372,Electronics Item 2372,Electronics,205.52,133.46,SEL-0189,1
+PROD-02373,Electronics Item 2373,Electronics,434.6,236.05,SEL-0088,1
+PROD-02374,Apparel Item 2374,Apparel,210.23,100.16,SEL-0168,1
+PROD-02375,Footwear Item 2375,Footwear,379.96,219.29,SEL-0180,0
+PROD-02376,Apparel Item 2376,Apparel,100.78,57.85,SEL-0303,1
+PROD-02377,Electronics Item 2377,Electronics,53.14,24.2,SEL-0001,1
+PROD-02378,Beauty Item 2378,Beauty,53.54,26.34,SEL-0041,0
+PROD-02379,Home & Kitchen Item 2379,Home & Kitchen,340.36,209.53,SEL-0451,0
+PROD-02380,Apparel Item 2380,Apparel,416.44,195.33,SEL-0154,1
+PROD-02381,Home & Kitchen Item 2381,Home & Kitchen,137.79,80.97,SEL-0048,0
+PROD-02382,Apparel Item 2382,Apparel,199.25,108.2,SEL-0496,1
+PROD-02383,Footwear Item 2383,Footwear,420.84,220.95,SEL-0379,0
+PROD-02384,Home & Kitchen Item 2384,Home & Kitchen,83.85,43.72,SEL-0474,0
+PROD-02385,Apparel Item 2385,Apparel,143.53,86.69,SEL-0153,1
+PROD-02386,Electronics Item 2386,Electronics,128.81,75.25,SEL-0269,1
+PROD-02387,Beauty Item 2387,Beauty,276.8,137.89,SEL-0253,0
+PROD-02388,Electronics Item 2388,Electronics,289.11,165.62,SEL-0187,1
+PROD-02389,Footwear Item 2389,Footwear,253.09,121.93,SEL-0357,0
+PROD-02390,Footwear Item 2390,Footwear,170.55,72.34,SEL-0366,0
+PROD-02391,Apparel Item 2391,Apparel,126.89,56.7,SEL-0075,1
+PROD-02392,Electronics Item 2392,Electronics,244.85,98.93,SEL-0403,1
+PROD-02393,Home & Kitchen Item 2393,Home & Kitchen,292.06,142.06,SEL-0230,0
+PROD-02394,Apparel Item 2394,Apparel,333.35,206.44,SEL-0071,1
+PROD-02395,Apparel Item 2395,Apparel,360.44,148.76,SEL-0327,1
+PROD-02396,Electronics Item 2396,Electronics,310.95,175.75,SEL-0476,1
+PROD-02397,Beauty Item 2397,Beauty,360.64,199.56,SEL-0364,0
+PROD-02398,Footwear Item 2398,Footwear,395.01,245.84,SEL-0030,0
+PROD-02399,Home & Kitchen Item 2399,Home & Kitchen,42.67,21.23,SEL-0228,0
+PROD-02400,Footwear Item 2400,Footwear,361.79,181.92,SEL-0330,0
+PROD-02401,Apparel Item 2401,Apparel,373.94,153.58,SEL-0304,1
+PROD-02402,Beauty Item 2402,Beauty,429.76,273.86,SEL-0163,0
+PROD-02403,Apparel Item 2403,Apparel,117.83,69.53,SEL-0134,1
+PROD-02404,Beauty Item 2404,Beauty,45.16,26.94,SEL-0306,0
+PROD-02405,Electronics Item 2405,Electronics,277.48,128.55,SEL-0346,1
+PROD-02406,Footwear Item 2406,Footwear,27.24,11.44,SEL-0348,0
+PROD-02407,Apparel Item 2407,Apparel,347.86,221.2,SEL-0483,1
+PROD-02408,Beauty Item 2408,Beauty,303.15,178.36,SEL-0343,0
+PROD-02409,Beauty Item 2409,Beauty,134.03,75.28,SEL-0489,0
+PROD-02410,Apparel Item 2410,Apparel,299.99,185.94,SEL-0481,1
+PROD-02411,Footwear Item 2411,Footwear,311.56,149.31,SEL-0440,0
+PROD-02412,Electronics Item 2412,Electronics,221.17,140.57,SEL-0485,1
+PROD-02413,Electronics Item 2413,Electronics,79.59,44.41,SEL-0219,1
+PROD-02414,Home & Kitchen Item 2414,Home & Kitchen,215.36,108.26,SEL-0104,0
+PROD-02415,Home & Kitchen Item 2415,Home & Kitchen,37.45,19.08,SEL-0336,0
+PROD-02416,Home & Kitchen Item 2416,Home & Kitchen,149.56,78.72,SEL-0217,0
+PROD-02417,Footwear Item 2417,Footwear,137.51,77.42,SEL-0393,0
+PROD-02418,Home & Kitchen Item 2418,Home & Kitchen,255.42,130.03,SEL-0111,0
+PROD-02419,Home & Kitchen Item 2419,Home & Kitchen,282.14,131.73,SEL-0316,0
+PROD-02420,Footwear Item 2420,Footwear,50.55,30.93,SEL-0176,0
+PROD-02421,Home & Kitchen Item 2421,Home & Kitchen,299.06,192.77,SEL-0022,0
+PROD-02422,Electronics Item 2422,Electronics,341.25,176.63,SEL-0173,1
+PROD-02423,Apparel Item 2423,Apparel,184.33,111.91,SEL-0172,1
+PROD-02424,Electronics Item 2424,Electronics,96.48,62.39,SEL-0116,1
+PROD-02425,Electronics Item 2425,Electronics,168.82,101.47,SEL-0287,1
+PROD-02426,Beauty Item 2426,Beauty,143.17,59.85,SEL-0039,0
+PROD-02427,Apparel Item 2427,Apparel,442.4,226.27,SEL-0416,1
+PROD-02428,Electronics Item 2428,Electronics,53.68,26.29,SEL-0320,1
+PROD-02429,Apparel Item 2429,Apparel,400.05,229.13,SEL-0376,1
+PROD-02430,Electronics Item 2430,Electronics,161.76,89.01,SEL-0238,1
+PROD-02431,Footwear Item 2431,Footwear,398.9,180.33,SEL-0465,0
+PROD-02432,Footwear Item 2432,Footwear,440.99,199.12,SEL-0380,0
+PROD-02433,Home & Kitchen Item 2433,Home & Kitchen,260.8,116.09,SEL-0120,0
+PROD-02434,Footwear Item 2434,Footwear,411.35,219.47,SEL-0160,0
+PROD-02435,Apparel Item 2435,Apparel,393.49,176.22,SEL-0383,1
+PROD-02436,Beauty Item 2436,Beauty,311.64,201.29,SEL-0296,0
+PROD-02437,Home & Kitchen Item 2437,Home & Kitchen,281.67,174.3,SEL-0229,0
+PROD-02438,Electronics Item 2438,Electronics,110.6,51.9,SEL-0483,1
+PROD-02439,Footwear Item 2439,Footwear,194.97,119.66,SEL-0236,0
+PROD-02440,Home & Kitchen Item 2440,Home & Kitchen,111.73,61.49,SEL-0063,0
+PROD-02441,Footwear Item 2441,Footwear,410.83,206.34,SEL-0289,0
+PROD-02442,Home & Kitchen Item 2442,Home & Kitchen,18.27,8.96,SEL-0049,0
+PROD-02443,Apparel Item 2443,Apparel,238.57,138.91,SEL-0348,1
+PROD-02444,Apparel Item 2444,Apparel,58.45,36.42,SEL-0073,1
+PROD-02445,Electronics Item 2445,Electronics,235.34,140.33,SEL-0021,1
+PROD-02446,Home & Kitchen Item 2446,Home & Kitchen,382.43,245.58,SEL-0280,0
+PROD-02447,Beauty Item 2447,Beauty,334.67,140.62,SEL-0126,0
+PROD-02448,Apparel Item 2448,Apparel,431.4,206.31,SEL-0428,1
+PROD-02449,Electronics Item 2449,Electronics,210.7,85.38,SEL-0497,1
+PROD-02450,Home & Kitchen Item 2450,Home & Kitchen,198.97,89.02,SEL-0438,0
+PROD-02451,Electronics Item 2451,Electronics,111.26,54.13,SEL-0436,1
+PROD-02452,Apparel Item 2452,Apparel,110.17,49.9,SEL-0110,1
+PROD-02453,Electronics Item 2453,Electronics,366.36,210.55,SEL-0046,1
+PROD-02454,Home & Kitchen Item 2454,Home & Kitchen,26.7,10.77,SEL-0417,0
+PROD-02455,Footwear Item 2455,Footwear,332.75,167.67,SEL-0131,0
+PROD-02456,Beauty Item 2456,Beauty,434.76,234.65,SEL-0187,0
+PROD-02457,Apparel Item 2457,Apparel,109.55,70.94,SEL-0111,1
+PROD-02458,Home & Kitchen Item 2458,Home & Kitchen,431.79,237.82,SEL-0441,0
+PROD-02459,Home & Kitchen Item 2459,Home & Kitchen,136.37,62.89,SEL-0169,0
+PROD-02460,Electronics Item 2460,Electronics,107.7,55.03,SEL-0322,1
+PROD-02461,Apparel Item 2461,Apparel,300.7,141.38,SEL-0160,1
+PROD-02462,Footwear Item 2462,Footwear,291.73,188.33,SEL-0116,0
+PROD-02463,Footwear Item 2463,Footwear,100.63,40.74,SEL-0243,0
+PROD-02464,Beauty Item 2464,Beauty,409.46,190.7,SEL-0245,0
+PROD-02465,Beauty Item 2465,Beauty,308.43,161.84,SEL-0104,0
+PROD-02466,Electronics Item 2466,Electronics,304.92,140.31,SEL-0282,1
+PROD-02467,Apparel Item 2467,Apparel,273.04,159.78,SEL-0225,1
+PROD-02468,Footwear Item 2468,Footwear,166.44,98.51,SEL-0249,0
+PROD-02469,Apparel Item 2469,Apparel,29.07,17.03,SEL-0259,1
+PROD-02470,Electronics Item 2470,Electronics,26.05,15.34,SEL-0176,1
+PROD-02471,Apparel Item 2471,Apparel,441.54,283.3,SEL-0227,1
+PROD-02472,Apparel Item 2472,Apparel,164.51,101.06,SEL-0420,1
+PROD-02473,Apparel Item 2473,Apparel,82.9,39.47,SEL-0256,1
+PROD-02474,Electronics Item 2474,Electronics,375.61,169.03,SEL-0384,1
+PROD-02475,Electronics Item 2475,Electronics,428.55,180.17,SEL-0057,1
+PROD-02476,Electronics Item 2476,Electronics,102.64,46.89,SEL-0115,1
+PROD-02477,Footwear Item 2477,Footwear,309.65,174.22,SEL-0125,0
+PROD-02478,Home & Kitchen Item 2478,Home & Kitchen,374.28,178.38,SEL-0215,0
+PROD-02479,Apparel Item 2479,Apparel,122.64,52.41,SEL-0090,1
+PROD-02480,Beauty Item 2480,Beauty,385.86,168.16,SEL-0224,0
+PROD-02481,Beauty Item 2481,Beauty,281.73,121.79,SEL-0187,0
+PROD-02482,Home & Kitchen Item 2482,Home & Kitchen,44.09,18.95,SEL-0036,0
+PROD-02483,Apparel Item 2483,Apparel,405.12,219.95,SEL-0013,1
+PROD-02484,Apparel Item 2484,Apparel,189.34,105.61,SEL-0267,1
+PROD-02485,Apparel Item 2485,Apparel,72.66,37.22,SEL-0142,1
+PROD-02486,Electronics Item 2486,Electronics,53.59,24.31,SEL-0275,1
+PROD-02487,Footwear Item 2487,Footwear,367.39,200.3,SEL-0076,0
+PROD-02488,Electronics Item 2488,Electronics,398.9,176.77,SEL-0052,1
+PROD-02489,Apparel Item 2489,Apparel,287.24,174.7,SEL-0143,1
+PROD-02490,Home & Kitchen Item 2490,Home & Kitchen,352.85,210.22,SEL-0199,0
+PROD-02491,Apparel Item 2491,Apparel,17.81,10.96,SEL-0254,1
+PROD-02492,Apparel Item 2492,Apparel,325.31,191.99,SEL-0486,1
+PROD-02493,Footwear Item 2493,Footwear,269.23,125.49,SEL-0395,0
+PROD-02494,Apparel Item 2494,Apparel,45.25,19.55,SEL-0062,1
+PROD-02495,Electronics Item 2495,Electronics,400.33,187.9,SEL-0228,1
+PROD-02496,Beauty Item 2496,Beauty,23.99,9.88,SEL-0337,0
+PROD-02497,Footwear Item 2497,Footwear,369.85,182.99,SEL-0249,0
+PROD-02498,Footwear Item 2498,Footwear,39.79,20.07,SEL-0408,0
+PROD-02499,Footwear Item 2499,Footwear,357.15,154.91,SEL-0356,0
+PROD-02500,Apparel Item 2500,Apparel,177.62,92.5,SEL-0116,1
