@@ -56,5 +56,5 @@ Using Pareto analysis, the system isolates high-defect sellers (accounting for o
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/prerna354/ReturnLeak-AI.git](https://github.com/your-username/ReturnLeak-AI.git)
+git clone https://github.com/prerna354/ReturnLeak-AI.git
 cd ReturnLeak-AI
